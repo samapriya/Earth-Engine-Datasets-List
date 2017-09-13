@@ -1,4 +1,4 @@
-# Updated Dataset List Already Included in Google Earth Engine
+# Updated Dataset List (Included in Google Earth Engine)
 The idea is to make this list machine readable so you can programatically call assets based on filters and to have a list for users who are not yet registered but want to look at the dataset list within earth engine. Register for a free [Google Earth Engine account](https://earthengine.google.com/signup/)
 
 ## Last Updated : 09-12-2017 and planned update is every two weeks
