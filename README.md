@@ -8,4 +8,4 @@ The idea is to make this list machine readable so you can programmatically call 
 The list allows for datasets to be built into a parser and we can pull these as though a dictionary for making selections before applying any other tool.
 
 ## Changelog
-### Last Updated : 2018-07-09 and planned update is every week
+### Last Updated : 2018-07-17 and planned update is every week
