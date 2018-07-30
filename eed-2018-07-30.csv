@@ -6,12 +6,12 @@ AHN/AHN2_05M_NON,AHN,AHN Netherlands 0,12/31/11,12/31/11,2011,2011,Image
 AHN/AHN2_05M_RUW,AHN,AHN Netherlands 0,12/31/11,12/31/11,2011,2011,Image
 JAXA/ALOS/AW3D30_V1_1,JAXA Earth Observation Research Center,ALOS DSM: Global 30m,01/23/06,05/11/11,2006,2011,Image
 JAXA/ALOS/AVNIR-2/ORI,JAXA Earth Observation Research Center,ALOS/AVNIR-2 ORI,04/25/06,04/17/11,2006,2011,ImageCollection
-ASTER/AST_L1T_003,NASA LP DAAC at the USGS EROS Center,ASTER L1T Radiance,03/03/00,07/17/18,2000,2018,ImageCollection
+ASTER/AST_L1T_003,NASA LP DAAC at the USGS EROS Center,ASTER L1T Radiance,03/03/00,07/24/18,2000,2018,ImageCollection
 Oxford/MAP/accessibility_to_cities_2015_v1_0,Malaria Atlas Project,Accessibility to Cities 2015,12/31/14,12/31/15,2014,2015,Image
 UMN/PGC/ArcticDEM/V2/5m,University of Minnesota Polar Geospatial Center,ArcticDEM Mosaic,09/20/16,09/20/16,2016,2016,Image
 UMN/PGC/ArcticDEM/V2/2m,University of Minnesota Polar Geospatial Center,ArcticDEM Strips,08/15/09,03/11/17,2009,2017,ImageCollection
 AU/GA/AUSTRALIA_5M_DEM,Geoscience Australia,Australian 5M DEM,11/30/15,11/30/15,2015,2015,ImageCollection
-NOAA/CFSV2/FOR6H,NOAA NWS National Centers for Environmental Prediction (NCEP),CFSV2: NCEP Climate Forecast System Version 2,12/31/78,07/18/18,1978,2018,ImageCollection
+NOAA/CFSV2/FOR6H,NOAA NWS National Centers for Environmental Prediction (NCEP),CFSV2: NCEP Climate Forecast System Version 2,12/31/78,07/25/18,1978,2018,ImageCollection
 UCSB-CHG/CHIRPS/DAILY,UCSB/CHG,CHIRPS Daily: Climate Hazards Group InfraRed Precipitation with Station Data (version 2,12/31/80,06/29/18,1980,2018,ImageCollection
 UCSB-CHG/CHIRPS/PENTAD,UCSB/CHG,CHIRPS Pentad: Climate Hazards Group InfraRed Precipitation with Station Data (version 2,12/31/80,06/25/18,1980,2018,ImageCollection
 AAFC/ACI,Agriculture and Agri-Food Canada,Canada AAFC Annual Crop Inventory,12/31/08,12/31/16,2008,2016,ImageCollection
@@ -25,13 +25,13 @@ NOAA/DMSP-OLS/NIGHTTIME_LIGHTS,NOAA,DMSP OLS: Nighttime Lights Time Series Versi
 NASA/ORNL/DAYMET_V3,NASA ORNL,Daymet V3: Daily Surface Weather and Climatological Summaries,12/31/79,12/30/17,1979,2017,ImageCollection
 EO1/HYPERION,USGS,EO-1 Hyperion Hyperspectral Imager,04/30/01,03/12/17,2001,2017,ImageCollection
 NOAA/NGDC/ETOPO1,NOAA,ETOPO1: Global 1 Arc-Minute Elevation,07/31/08,07/31/08,2008,2008,Image
-FIRMS,NASA / LANCE / EOSDIS,FIRMS: Fire Information for Resource Management System,10/31/00,07/17/18,2000,2018,ImageCollection
-WRI/GFW/FORMA/alerts,World Resources Institute / Global Forest Watch,FORMA Alerts,12/31/11,07/16/18,2011,2018,Image
-WRI/GFW/FORMA/raw_output_firms,World Resources Institute / Global Forest Watch,FORMA Raw Output FIRMS,04/07/17,07/17/18,2017,2018,ImageCollection
+FIRMS,NASA / LANCE / EOSDIS,FIRMS: Fire Information for Resource Management System,10/31/00,07/24/18,2000,2018,ImageCollection
+WRI/GFW/FORMA/alerts,World Resources Institute / Global Forest Watch,FORMA Alerts,12/31/11,07/23/18,2011,2018,Image
+WRI/GFW/FORMA/raw_output_firms,World Resources Institute / Global Forest Watch,FORMA Raw Output FIRMS,04/07/17,07/24/18,2017,2018,ImageCollection
 WRI/GFW/FORMA/raw_output_ndvi,World Resources Institute / Global Forest Watch,FORMA Raw Output NDVI,12/31/11,06/26/18,2011,2018,ImageCollection
 WRI/GFW/FORMA/vegetation_tstats,World Resources Institute / Global Forest Watch,FORMA Vegetation T-Statistics,12/31/11,06/26/18,2011,2018,ImageCollection
 WRI/GFW/FORMA/thresholds,World Resources Institute / Global Forest Watch,FORMA alert thresholds,12/31/11,12/31/15,2011,2015,Image
-NOAA/GFS0P25,NOAA/NCEP/EMC,GFS: Global Forecast System 384-Hour Predicted Atmosphere Data,06/30/15,07/18/18,2015,2018,ImageCollection
+NOAA/GFS0P25,NOAA/NCEP/EMC,GFS: Global Forecast System 384-Hour Predicted Atmosphere Data,06/30/15,07/25/18,2015,2018,ImageCollection
 USGS/GFSAD1000_V0,Global Food Security-support Analysis Data at 30m Project (GFSAD30),GFSAD1000: Cropland Extent 1km Crop Dominance,12/31/99,12/31/00,1999,2000,Image
 USGS/GFSAD1000_V1,Global Food Security-support Analysis Data at 30m Project (GFSAD30),GFSAD1000: Cropland Extent 1km Multi-Study Crop Mask,12/31/99,12/31/00,1999,2000,Image
 GFW/GFF/V1/fishing_hours,Global Fishing Watch,GFW (Global Fishing Watch) Daily Fishing Hours,12/31/11,12/31/16,2011,2016,ImageCollection
@@ -43,11 +43,11 @@ NASA/GIMMS/3GV0,NASA/NOAA,GIMMS NDVI from AVHRR Sensors (3rd Generation),06/30/8
 GLCF/GLS_WATER,GLCF,GLCF: Landsat Global Inland Water,12/31/99,12/30/00,1999,2000,ImageCollection
 GLCF/GLS_TCC,GLCF,GLCF: Landsat Tree Cover Continuous Fields,12/31/99,12/30/10,1999,2010,ImageCollection
 NASA/GLDAS/V001/NOAH/G025/T3H,NASA,GLDAS-1: Global Land Data Assimilation System,02/23/00,12/30/16,2000,2016,ImageCollection
-NASA/GLDAS/V021/NOAH/G025/T3H,NASA,GLDAS-2,12/31/99,06/18/18,1999,2018,ImageCollection
+NASA/GLDAS/V021/NOAH/G025/T3H,NASA,GLDAS-2,12/31/99,06/25/18,1999,2018,ImageCollection
 NASA/GLDAS/V020/NOAH/G025/T3H,NASA,GLDAS-2: Global Land Data Assimilation System,01/01/48,12/30/10,1948,2010,ImageCollection
 GLIMS/2016,National Snow and Ice Data Center (NSDIC),GLIMS: Global Land Ice Measurements from Space,06/14/15,06/15/15,2015,2015,Table
 USGS/GMTED2010,USGS,GMTED2010: Global Multi-resolution Terrain Elevation Data 2010,12/31/09,12/31/09,2009,2009,Image
-NASA/GPM_L3/IMERG_V05,NASA PMM,GPM: Global Precipitation Measurement (GPM) v5,03/11/14,07/17/18,2014,2018,ImageCollection
+NASA/GPM_L3/IMERG_V05,NASA PMM,GPM: Global Precipitation Measurement (GPM) v5,03/11/14,07/24/18,2014,2018,ImageCollection
 CIESIN/GPWv4/ancillary-data-grids,CIESIN,GPWv4: Gridded Population of the World Version 4,12/31/99,12/31/19,1999,2019,Image
 CIESIN/GPWv4/population-count,CIESIN,GPWv4: Gridded Population of the World Version 4,12/31/99,12/31/19,1999,2019,ImageCollection
 CIESIN/GPWv4/population-density,CIESIN,GPWv4: Gridded Population of the World Version 4,12/31/99,12/31/19,1999,2019,ImageCollection
@@ -58,8 +58,8 @@ NASA/GRACE/MASS_GRIDS/MASCON,NASA Jet Propulsion Laboratory,GRACE Monthly Mass G
 NASA/GRACE/MASS_GRIDS/LAND,NASA Jet Propulsion Laboratory,GRACE Monthly Mass Grids - Land,03/31/02,02/02/17,2002,2017,ImageCollection
 NASA/GRACE/MASS_GRIDS/OCEAN,NASA Jet Propulsion Laboratory,GRACE Monthly Mass Grids - Ocean,07/30/02,01/04/17,2002,2017,ImageCollection
 NASA/GRACE/MASS_GRIDS/OCEAN_EOFR,NASA Jet Propulsion Laboratory,GRACE Monthly Mass Grids - Ocean EOFR,12/30/02,01/04/17,2002,2017,ImageCollection
-IDAHO_EPSCOR/GRIDMET,University of Idaho,GRIDMET: University of Idaho Gridded Surface Meteorological Dataset,12/31/78,07/17/18,1978,2018,ImageCollection
-JAXA/GPM_L3/GSMaP/v6/operational,JAXA Earth Observation Research Center,GSMaP Operational: Global Satellite Mapping of Precipitation,02/28/14,07/18/18,2014,2018,ImageCollection
+IDAHO_EPSCOR/GRIDMET,University of Idaho,GRIDMET: University of Idaho Gridded Surface Meteorological Dataset,12/31/78,07/24/18,1978,2018,ImageCollection
+JAXA/GPM_L3/GSMaP/v6/operational,JAXA Earth Observation Research Center,GSMaP Operational: Global Satellite Mapping of Precipitation,02/28/14,07/25/18,2014,2018,ImageCollection
 JAXA/GPM_L3/GSMaP/v6/reanalysis,JAXA Earth Observation Research Center,GSMaP Reanalysis: Global Satellite Mapping of Precipitation,02/29/00,03/11/14,2000,2014,ImageCollection
 USGS/GTOPO30,United States Geological Survey,GTOPO30: Global 30 Arc-Second Elevation,12/31/95,12/31/95,1995,1995,Image
 ESA/GLOBCOVER_L4_200901_200912_V2_3,ESA,GlobCover: Global Land Cover Map,12/31/08,12/31/09,2008,2009,Image
@@ -72,6 +72,7 @@ Oxford/MAP/friction_surface_2015_v1_0,Malaria Atlas Project,Global Friction Surf
 LANDSAT/MANGROVE_FORESTS,CIESIN,Global Mangrove Forests Distribution,12/31/99,12/31/00,1999,2000,ImageCollection
 JAXA/ALOS/PALSAR/YEARLY/FNF,JAXA EORC,Global PALSAR-2/PALSAR Forest/Non-Forest Map,12/31/06,12/31/17,2006,2017,ImageCollection
 JAXA/ALOS/PALSAR/YEARLY/SAR,JAXA EORC,Global PALSAR-2/PALSAR Yearly Mosaic,12/31/06,12/31/17,2006,2017,ImageCollection
+WRI/GPPD/power_plants,World Resources Institute,Global Power Plant Database,06/10/18,06/10/18,2018,2018,Table
 CSP/ERGo/1_0/Global/SRTM_CHILI,Conservation Science Partners,Global SRTM CHILI (Continuous Heat-Insolation Load Index),01/23/06,05/12/11,2006,2011,Image
 CSP/ERGo/1_0/Global/SRTM_landforms,Conservation Science Partners,Global SRTM Landforms,01/23/06,05/12/11,2006,2011,Image
 CSP/ERGo/1_0/Global/SRTM_topoDiversity,Conservation Science Partners,Global SRTM Topographic Diversity,01/23/06,05/12/11,2006,2011,Image
@@ -84,9 +85,9 @@ USGS/WBD/2017/HUC06,United States Geological Survey,HUC06: USGS Watershed Bounda
 USGS/WBD/2017/HUC08,United States Geological Survey,HUC08: USGS Watershed Boundary Dataset of Subbasins,04/21/17,04/22/17,2017,2017,Table
 USGS/WBD/2017/HUC10,United States Geological Survey,HUC10: USGS Watershed Boundary Dataset of Watersheds,04/21/17,04/22/17,2017,2017,Table
 USGS/WBD/2017/HUC12,United States Geological Survey,HUC12: USGS Watershed Boundary Dataset of Subwatersheds,04/21/17,04/22/17,2017,2017,Table
-HYCOM/GLBu0_08/sea_surface_elevation,NOPP,HYCOM: Hybrid Coordinate Ocean Model,10/01/92,07/18/18,1992,2018,ImageCollection
-HYCOM/GLBu0_08/sea_temp_salinity,NOPP,HYCOM: Hybrid Coordinate Ocean Model,10/01/92,07/17/18,1992,2018,ImageCollection
-HYCOM/GLBu0_08/sea_water_velocity,NOPP,HYCOM: Hybrid Coordinate Ocean Model,10/01/92,07/17/18,1992,2018,ImageCollection
+HYCOM/GLBu0_08/sea_surface_elevation,NOPP,HYCOM: Hybrid Coordinate Ocean Model,10/01/92,07/25/18,1992,2018,ImageCollection
+HYCOM/GLBu0_08/sea_temp_salinity,NOPP,HYCOM: Hybrid Coordinate Ocean Model,10/01/92,07/25/18,1992,2018,ImageCollection
+HYCOM/GLBu0_08/sea_water_velocity,NOPP,HYCOM: Hybrid Coordinate Ocean Model,10/01/92,07/25/18,1992,2018,ImageCollection
 UMD/hansen/global_forest_change_2017_v1_5,Hansen/UMD/Google/USGS/NASA,Hansen Global Forest Change v1,12/31/99,12/31/16,1999,2016,Image
 JRC/GSW1_0/GlobalSurfaceWater,EC JRC / Google,JRC Global Surface Water Mapping Layers,03/15/84,10/17/15,1984,2015,Image
 JRC/GSW1_0/Metadata,EC JRC / Google,JRC Global Surface Water Metadata,03/15/84,10/17/15,1984,2015,Image
@@ -108,32 +109,32 @@ IDAHO_EPSCOR/MACAv2_METDATA,University of Idaho,MACAv2-METDATA: University of Id
 MODIS/006/MCD12Q1,NASA LP DAAC at the USGS EROS Center,MCD12Q1,12/31/00,12/30/16,2000,2016,ImageCollection
 MODIS/051/MCD12Q1,NASA LP DAAC at the USGS EROS Center,MCD12Q1,12/31/99,12/31/12,1999,2012,ImageCollection
 MODIS/MCD12Q2,NASA LP DAAC at the USGS EROS Center,MCD12Q2,12/31/00,12/31/13,2000,2013,ImageCollection
-MODIS/006/MCD15A3H,NASA LP DAAC at the USGS EROS Center,MCD15A3H,07/03/02,07/11/18,2002,2018,ImageCollection
-MODIS/006/MCD43A1,NASA LP DAAC at the USGS EROS Center,MCD43A1,02/17/00,07/08/18,2000,2018,ImageCollection
-MODIS/006/MCD43A2,NASA LP DAAC at the USGS EROS Center,MCD43A2,02/17/00,07/09/18,2000,2018,ImageCollection
-MODIS/006/MCD43A3,NASA LP DAAC at the USGS EROS Center,MCD43A3,02/17/00,07/09/18,2000,2018,ImageCollection
-MODIS/006/MCD43A4,NASA LP DAAC at the USGS EROS Center,MCD43A4,02/17/00,07/08/18,2000,2018,ImageCollection
+MODIS/006/MCD15A3H,NASA LP DAAC at the USGS EROS Center,MCD15A3H,07/03/02,07/19/18,2002,2018,ImageCollection
+MODIS/006/MCD43A1,NASA LP DAAC at the USGS EROS Center,MCD43A1,02/17/00,07/16/18,2000,2018,ImageCollection
+MODIS/006/MCD43A2,NASA LP DAAC at the USGS EROS Center,MCD43A2,02/17/00,07/13/18,2000,2018,ImageCollection
+MODIS/006/MCD43A3,NASA LP DAAC at the USGS EROS Center,MCD43A3,02/17/00,07/13/18,2000,2018,ImageCollection
+MODIS/006/MCD43A4,NASA LP DAAC at the USGS EROS Center,MCD43A4,02/17/00,07/13/18,2000,2018,ImageCollection
 MODIS/MCD43B3,NASA LP DAAC at the USGS EROS Center,MCD43B3,02/17/00,03/13/17,2000,2017,ImageCollection
 MODIS/051/MCD45A1,NASA LP DAAC at the USGS EROS Center,MCD45A1,03/31/00,12/31/16,2000,2016,ImageCollection
 MODIS/006/MCD64A1,NASA LP DAAC at the USGS EROS Center,MCD64A1,10/31/00,04/30/18,2000,2018,ImageCollection
 OSU/GIMP/ICE_VELOCITY_OPT,National Snow & Ice Data Center,MEaSUREs Greenland Ice Velocity: Selected Glacier Site Velocity Maps from Optical Images Version 2,02/28/85,09/29/16,1985,2016,ImageCollection
 MODIS/006/MOD08_M3,NASA GSFC,MOD08_M3,02/29/00,03/31/18,2000,2018,ImageCollection
-MODIS/006/MOD09A1,NASA LP DAAC at the USGS EROS Center,MOD09A1,03/04/00,07/11/18,2000,2018,ImageCollection
-MODIS/006/MOD09GA,NASA LP DAAC at the USGS EROS Center,MOD09GA,02/23/00,07/15/18,2000,2018,ImageCollection
-MODIS/006/MOD09GQ,NASA LP DAAC at the USGS EROS Center,MOD09GQ,02/23/00,07/15/18,2000,2018,ImageCollection
-MODIS/006/MOD09Q1,NASA LP DAAC at the USGS EROS Center,MOD09Q1,03/04/00,07/03/18,2000,2018,ImageCollection
+MODIS/006/MOD09A1,NASA LP DAAC at the USGS EROS Center,MOD09A1,03/04/00,07/19/18,2000,2018,ImageCollection
+MODIS/006/MOD09GA,NASA LP DAAC at the USGS EROS Center,MOD09GA,02/23/00,07/20/18,2000,2018,ImageCollection
+MODIS/006/MOD09GQ,NASA LP DAAC at the USGS EROS Center,MOD09GQ,02/23/00,07/20/18,2000,2018,ImageCollection
+MODIS/006/MOD09Q1,NASA LP DAAC at the USGS EROS Center,MOD09Q1,03/04/00,07/11/18,2000,2018,ImageCollection
 MODIS/006/MOD10A1,NSIDC,MOD10A1,02/23/00,05/02/18,2000,2018,ImageCollection
-MODIS/006/MOD11A1,NASA LP DAAC at the USGS EROS Center,MOD11A1,03/04/00,07/14/18,2000,2018,ImageCollection
-MODIS/006/MOD11A2,NASA LP DAAC at the USGS EROS Center,MOD11A2,03/04/00,07/03/18,2000,2018,ImageCollection
+MODIS/006/MOD11A1,NASA LP DAAC at the USGS EROS Center,MOD11A1,03/04/00,07/19/18,2000,2018,ImageCollection
+MODIS/006/MOD11A2,NASA LP DAAC at the USGS EROS Center,MOD11A2,03/04/00,07/11/18,2000,2018,ImageCollection
 MODIS/MOD13A1,NASA LP DAAC at the USGS EROS Center,MOD13A1,02/17/00,03/05/17,2000,2017,ImageCollection
 MODIS/006/MOD13A1,NASA LP DAAC at the USGS EROS Center,MOD13A1,02/17/00,06/25/18,2000,2018,ImageCollection
 MODIS/006/MOD13A2,NASA LP DAAC at the USGS EROS Center,MOD13A2,02/17/00,06/25/18,2000,2018,ImageCollection
 MODIS/006/MOD13Q1,NASA LP DAAC at the USGS EROS Center,MOD13Q1,02/17/00,06/25/18,2000,2018,ImageCollection
-MODIS/006/MOD14A1,NASA LP DAAC at the USGS EROS Center,MOD14A1,02/17/00,07/10/18,2000,2018,ImageCollection
-MODIS/006/MOD14A2,NASA LP DAAC at the USGS EROS Center,MOD14A2,02/17/00,07/03/18,2000,2018,ImageCollection
-MODIS/006/MOD16A2,NASA LP DAAC at the USGS EROS Center,MOD16A2,12/31/00,06/25/18,2000,2018,ImageCollection
+MODIS/006/MOD14A1,NASA LP DAAC at the USGS EROS Center,MOD14A1,02/17/00,07/18/18,2000,2018,ImageCollection
+MODIS/006/MOD14A2,NASA LP DAAC at the USGS EROS Center,MOD14A2,02/17/00,07/11/18,2000,2018,ImageCollection
+MODIS/006/MOD16A2,NASA LP DAAC at the USGS EROS Center,MOD16A2,12/31/00,07/03/18,2000,2018,ImageCollection
 MODIS/NTSG/MOD16A2/105,Numerical Terradynamic Simulation Group,MOD16A2: MODIS Global Terrestrial Evapotranspiration 8-Day Global 1km,12/31/99,12/30/14,1999,2014,ImageCollection
-MODIS/006/MOD17A2H,NASA LP DAAC at the USGS EROS Center,MOD17A2H,03/04/00,07/03/18,2000,2018,ImageCollection
+MODIS/006/MOD17A2H,NASA LP DAAC at the USGS EROS Center,MOD17A2H,03/04/00,07/11/18,2000,2018,ImageCollection
 MODIS/055/MOD17A3,NASA LP DAAC at the USGS EROS Center,MOD17A3,12/31/99,12/31/14,1999,2014,ImageCollection
 MODIS/006/MOD17A3H,NASA LP DAAC at the USGS EROS Center,MOD17A3H,12/31/99,12/31/13,1999,2013,ImageCollection
 MODIS/051/MOD44B,NASA LP DAAC at the USGS EROS Center,MOD44B,03/04/00,03/05/15,2000,2015,ImageCollection
@@ -141,48 +142,48 @@ MODIS/MOD44W/MOD44W_005_2000_02_24,NASA LP DAAC at the USGS EROS Center,MOD44W,0
 MODIS/006/MOD44W,NASA LP DAAC at the USGS EROS Center,MOD44W,12/31/99,12/31/14,1999,2014,ImageCollection
 UMT/NTSG/v2/MODIS/GPP,University of Montana Numerical Terradynamic Simulation Group (NTSG),MODIS Gross Primary Production CONUS,12/31/00,12/31/16,2000,2016,ImageCollection
 UMT/NTSG/v2/MODIS/NPP,University of Montana Numerical Terradynamic Simulation Group (NTSG),MODIS Net Primary Production CONUS,12/31/00,12/31/16,2000,2016,ImageCollection
-MODIS/006/MODOCGA,NASA LP DAAC at the USGS EROS Center,MODOCGA,02/23/00,07/15/18,2000,2018,ImageCollection
+MODIS/006/MODOCGA,NASA LP DAAC at the USGS EROS Center,MODOCGA,02/23/00,07/20/18,2000,2018,ImageCollection
 MODIS/006/MYD08_M3,NASA GSFC,MYD08_M3,02/29/00,03/31/18,2000,2018,ImageCollection
-MODIS/006/MYD09A1,NASA LP DAAC at the USGS EROS Center,MYD09A1,03/04/00,07/11/18,2000,2018,ImageCollection
-MODIS/006/MYD09GA,NASA LP DAAC at the USGS EROS Center,MYD09GA,02/23/00,07/15/18,2000,2018,ImageCollection
-MODIS/006/MYD09GQ,NASA LP DAAC at the USGS EROS Center,MYD09GQ,02/23/00,07/15/18,2000,2018,ImageCollection
-MODIS/006/MYD09Q1,NASA LP DAAC at the USGS EROS Center,MYD09Q1,03/04/00,07/03/18,2000,2018,ImageCollection
+MODIS/006/MYD09A1,NASA LP DAAC at the USGS EROS Center,MYD09A1,03/04/00,07/19/18,2000,2018,ImageCollection
+MODIS/006/MYD09GA,NASA LP DAAC at the USGS EROS Center,MYD09GA,02/23/00,07/22/18,2000,2018,ImageCollection
+MODIS/006/MYD09GQ,NASA LP DAAC at the USGS EROS Center,MYD09GQ,02/23/00,07/22/18,2000,2018,ImageCollection
+MODIS/006/MYD09Q1,NASA LP DAAC at the USGS EROS Center,MYD09Q1,03/04/00,07/11/18,2000,2018,ImageCollection
 MODIS/006/MYD10A1,NSIDC,MYD10A1,02/23/00,05/02/18,2000,2018,ImageCollection
 MODIS/006/MYD11A1,NASA LP DAAC at the USGS EROS Center,MYD11A1,03/04/00,06/22/18,2000,2018,ImageCollection
 MODIS/006/MYD11A2,NASA LP DAAC at the USGS EROS Center,MYD11A2,03/04/00,06/17/18,2000,2018,ImageCollection
 MODIS/MYD13A1,NASA LP DAAC at the USGS EROS Center,MYD13A1,07/03/02,03/13/17,2002,2017,ImageCollection
-MODIS/006/MYD13A1,NASA LP DAAC at the USGS EROS Center,MYD13A1,02/17/00,06/17/18,2000,2018,ImageCollection
-MODIS/006/MYD13A2,NASA LP DAAC at the USGS EROS Center,MYD13A2,02/17/00,06/17/18,2000,2018,ImageCollection
-MODIS/006/MYD13Q1,NASA LP DAAC at the USGS EROS Center,MYD13Q1,02/17/00,06/17/18,2000,2018,ImageCollection
-MODIS/006/MYD14A1,NASA LP DAAC at the USGS EROS Center,MYD14A1,02/17/00,07/10/18,2000,2018,ImageCollection
-MODIS/006/MYD14A2,NASA LP DAAC at the USGS EROS Center,MYD14A2,02/17/00,07/03/18,2000,2018,ImageCollection
-MODIS/006/MYD17A2H,NASA LP DAAC at the USGS EROS Center,MYD17A2H,03/04/00,07/03/18,2000,2018,ImageCollection
+MODIS/006/MYD13A1,NASA LP DAAC at the USGS EROS Center,MYD13A1,02/17/00,07/03/18,2000,2018,ImageCollection
+MODIS/006/MYD13A2,NASA LP DAAC at the USGS EROS Center,MYD13A2,02/17/00,07/03/18,2000,2018,ImageCollection
+MODIS/006/MYD13Q1,NASA LP DAAC at the USGS EROS Center,MYD13Q1,02/17/00,07/03/18,2000,2018,ImageCollection
+MODIS/006/MYD14A1,NASA LP DAAC at the USGS EROS Center,MYD14A1,02/17/00,07/18/18,2000,2018,ImageCollection
+MODIS/006/MYD14A2,NASA LP DAAC at the USGS EROS Center,MYD14A2,02/17/00,07/11/18,2000,2018,ImageCollection
+MODIS/006/MYD17A2H,NASA LP DAAC at the USGS EROS Center,MYD17A2H,03/04/00,07/11/18,2000,2018,ImageCollection
 MODIS/006/MYD17A3H,NASA LP DAAC at the USGS EROS Center,MYD17A3H,12/31/99,12/31/13,1999,2013,ImageCollection
-MODIS/006/MYDOCGA,NASA LP DAAC at the USGS EROS Center,MYDOCGA,02/23/00,07/16/18,2000,2018,ImageCollection
+MODIS/006/MYDOCGA,NASA LP DAAC at the USGS EROS Center,MYDOCGA,02/23/00,07/22/18,2000,2018,ImageCollection
 USDA/NAIP/DOQQ,USDA Farm Service Agency,NAIP: National Agriculture Imagery Program,12/31/02,12/31/17,2002,2017,ImageCollection
 NASA_USDA/HSL/soil_moisture,NASA GSFC,NASA-USDA Global Soil Moisture Data,12/31/09,07/02/18,2009,2018,ImageCollection
 NASA_USDA/HSL/SMAP_soil_moisture,NASA GSFC,NASA-USDA SMAP Global Soil Moisture Data,03/31/15,07/02/18,2015,2018,ImageCollection
-NCEP_RE/sea_level_pressure,NCEP / NCAR,NCEP/NCAR Reanalysis Data,01/01/48,07/16/18,1948,2018,ImageCollection
-NCEP_RE/surface_temp,NCEP / NCAR,NCEP/NCAR Reanalysis Data,01/01/48,07/16/18,1948,2018,ImageCollection
-NCEP_RE/surface_wv,NCEP / NCAR,NCEP/NCAR Reanalysis Data,01/01/48,07/16/18,1948,2018,ImageCollection
+NCEP_RE/sea_level_pressure,NCEP / NCAR,NCEP/NCAR Reanalysis Data,01/01/48,07/23/18,1948,2018,ImageCollection
+NCEP_RE/surface_temp,NCEP / NCAR,NCEP/NCAR Reanalysis Data,01/01/48,07/23/18,1948,2018,ImageCollection
+NCEP_RE/surface_wv,NCEP / NCAR,NCEP/NCAR Reanalysis Data,01/01/48,07/23/18,1948,2018,ImageCollection
 NASA/NEX-DCP30_ENSEMBLE_STATS,NASA / CSU,NEX-DCP30: Ensemble Stats for NASA Earth Exchange Downscaled Climate Projections,01/01/50,12/30/99,1950,2099,ImageCollection
 NASA/NEX-DCP30,NASA / CSU,NEX-DCP30: NASA Earth Exchange Downscaled Climate Projections,01/01/50,12/30/99,1950,2099,ImageCollection
 NASA/NEX-GDDP,NASA / CSU,NEX-GDDP: NASA Earth Exchange Global Daily Downscaled Climate Projections,01/01/50,12/30/99,1950,2099,ImageCollection
 USGS/NLCD,USGS,NLCD: USGS National Land Cover Database,12/31/91,12/31/11,1991,2011,ImageCollection
-NASA/NLDAS/FORA0125_H002,NASA,NLDAS-2: North American Land Data Assimilation System Forcing Fields,12/31/78,07/12/18,1978,2018,ImageCollection
+NASA/NLDAS/FORA0125_H002,NASA,NLDAS-2: North American Land Data Assimilation System Forcing Fields,12/31/78,07/19/18,1978,2018,ImageCollection
 NOAA/CDR/SST_PATHFINDER/V53,NOAA,NOAA AVHRR Pathfinder Version 5,08/23/81,12/30/14,1981,2014,ImageCollection
-NOAA/CDR/AVHRR/AOT/V3,NOAA,NOAA CDR AVHRR AOT: Daily Aerosol Optical Thickness Over Global Oceans,12/31/80,03/21/18,1980,2018,ImageCollection
-NOAA/CDR/AVHRR/LAI_FAPAR/V4,NOAA,NOAA CDR AVHRR LAI FAPAR: Leaf Area Index and Fraction of Absorbed Photosynthetically Active Radiation,06/23/81,07/15/18,1981,2018,ImageCollection
-NOAA/CDR/AVHRR/NDVI/V4,NOAA,NOAA CDR AVHRR NDVI: Normalized Difference Vegetation Index,06/23/81,07/15/18,1981,2018,ImageCollection
-NOAA/CDR/AVHRR/SR/V4,NOAA,NOAA CDR AVHRR: Surface Reflectance,06/23/81,07/15/18,1981,2018,ImageCollection
-NOAA/CDR/GRIDSAT-B1/V2,NOAA,NOAA CDR GRIDSAT-B1: Geostationary IR Channel Brightness Temperature,12/31/79,11/11/17,1979,2017,ImageCollection
-NOAA/CDR/OISST/V2,NOAA,NOAA CDR OISST: Optimum Interpolation Sea Surface Temperature,08/31/81,07/16/18,1981,2018,ImageCollection
-NOAA/CDR/PATMOSX/V53,NOAA,NOAA CDR PATMOSX: Cloud Properties,12/31/78,07/12/18,1978,2018,ImageCollection
-NOAA/CDR/SST_WHOI/V2,NOAA,NOAA CDR WHOI: Sea Surface Temperature,12/31/87,02/27/18,1987,2018,ImageCollection
-NOAA/CDR/HEAT_FLUXES/V2,NOAA,NOAA CDR: Ocean Heat Fluxes,12/31/87,02/27/18,1987,2018,ImageCollection
-NOAA/CDR/ATMOS_NEAR_SURFACE/V2,NOAA,NOAA CDR: Ocean Near-Surface Atmospheric Properties,12/31/87,02/27/18,1987,2018,ImageCollection
-NASA/OCEANDATA/MODIS-Aqua/L3SMI,NASA GSFC,Ocean Color SMI: Standard Mapped Image MODIS Aqua Data,07/03/02,07/17/18,2002,2018,ImageCollection
-NASA/OCEANDATA/MODIS-Terra/L3SMI,NASA GSFC,Ocean Color SMI: Standard Mapped Image MODIS Terra Data,02/23/00,07/16/18,2000,2018,ImageCollection
+NOAA/CDR/AVHRR/AOT/V3,NOAA,NOAA CDR AVHRR AOT: Daily Aerosol Optical Thickness Over Global Oceans,12/31/80,03/28/18,1980,2018,ImageCollection
+NOAA/CDR/AVHRR/LAI_FAPAR/V4,NOAA,NOAA CDR AVHRR LAI FAPAR: Leaf Area Index and Fraction of Absorbed Photosynthetically Active Radiation,06/23/81,07/22/18,1981,2018,ImageCollection
+NOAA/CDR/AVHRR/NDVI/V4,NOAA,NOAA CDR AVHRR NDVI: Normalized Difference Vegetation Index,06/23/81,07/22/18,1981,2018,ImageCollection
+NOAA/CDR/AVHRR/SR/V4,NOAA,NOAA CDR AVHRR: Surface Reflectance,06/23/81,07/22/18,1981,2018,ImageCollection
+NOAA/CDR/GRIDSAT-B1/V2,NOAA,NOAA CDR GRIDSAT-B1: Geostationary IR Channel Brightness Temperature,12/31/79,11/18/17,1979,2017,ImageCollection
+NOAA/CDR/OISST/V2,NOAA,NOAA CDR OISST: Optimum Interpolation Sea Surface Temperature,08/31/81,07/23/18,1981,2018,ImageCollection
+NOAA/CDR/PATMOSX/V53,NOAA,NOAA CDR PATMOSX: Cloud Properties,12/31/78,07/19/18,1978,2018,ImageCollection
+NOAA/CDR/SST_WHOI/V2,NOAA,NOAA CDR WHOI: Sea Surface Temperature,12/31/87,03/30/18,1987,2018,ImageCollection
+NOAA/CDR/HEAT_FLUXES/V2,NOAA,NOAA CDR: Ocean Heat Fluxes,12/31/87,03/30/18,1987,2018,ImageCollection
+NOAA/CDR/ATMOS_NEAR_SURFACE/V2,NOAA,NOAA CDR: Ocean Near-Surface Atmospheric Properties,12/31/87,03/30/18,1987,2018,ImageCollection
+NASA/OCEANDATA/MODIS-Aqua/L3SMI,NASA GSFC,Ocean Color SMI: Standard Mapped Image MODIS Aqua Data,07/03/02,07/24/18,2002,2018,ImageCollection
+NASA/OCEANDATA/MODIS-Terra/L3SMI,NASA GSFC,Ocean Color SMI: Standard Mapped Image MODIS Terra Data,02/23/00,07/23/18,2000,2018,ImageCollection
 NASA/OCEANDATA/SeaWiFS/L3SMI,NASA GSFC,Ocean Color SMI: Standard Mapped Image SeaWiFS Data,09/03/97,12/10/10,1997,2010,ImageCollection
 Oxford/MAP/EVI_5km_Monthly,Oxford Malaria Atlas Project,Oxford MAP EVI: Malaria Atlas Project Gap-Filled Enhanced Vegetation Index,01/31/01,05/31/15,2001,2015,ImageCollection
 Oxford/MAP/LST_Day_5km_Monthly,Oxford Malaria Atlas Project,Oxford MAP LST: Malaria Atlas Project Gap-Filled Daytime Land Surface Temperature,02/28/01,05/31/15,2001,2015,ImageCollection
@@ -190,29 +191,29 @@ Oxford/MAP/LST_Night_5km_Monthly,Oxford Malaria Atlas Project,Oxford MAP LST: Ma
 Oxford/MAP/TCB_5km_Monthly,Oxford Malaria Atlas Project,Oxford MAP TCB: Malaria Atlas Project Gap-Filled Tasseled Cap Brightness,01/31/01,12/31/14,2001,2014,ImageCollection
 Oxford/MAP/TCW_5km_Monthly,Oxford Malaria Atlas Project,Oxford MAP TCW: Malaria Atlas Project Gap-Filled Tasseled Cap Wetness,01/31/01,12/31/14,2001,2014,ImageCollection
 Oxford/MAP/IGBP_Fractional_Landcover_5km_Annual,Oxford Malaria Atlas Project,Oxford MAP: Malaria Atlas Project Fractional International Geosphere-Biosphere Programme Landcover,12/31/00,12/31/12,2000,2012,ImageCollection
-IDAHO_EPSCOR/PDSI,University of Idaho,PDSI: University of Idaho Palmer Drought Severity Index,02/28/79,05/31/18,1979,2018,ImageCollection
+IDAHO_EPSCOR/PDSI,University of Idaho,PDSI: University of Idaho Palmer Drought Severity Index,02/28/79,07/09/18,1979,2018,ImageCollection
 NOAA/PERSIANN-CDR,NOAA NCDC,PERSIANN-CDR: Precipitation Estimation from Remotely Sensed Information Using Artificial Neural Networks-Climate Data Record,12/31/82,12/30/17,1982,2017,ImageCollection
-OREGONSTATE/PRISM/AN81d,PRISM / OREGONSTATE,PRISM Daily Spatial Climate Dataset AN81d,12/31/80,07/17/18,1980,2018,ImageCollection
+OREGONSTATE/PRISM/AN81d,PRISM / OREGONSTATE,PRISM Daily Spatial Climate Dataset AN81d,12/31/80,07/24/18,1980,2018,ImageCollection
 OREGONSTATE/PRISM/Norm81m,PRISM / OREGONSTATE,PRISM Long-Term Average Climate Dataset Norm81m,12/31/80,12/31/00,1980,2000,ImageCollection
-VITO/PROBAV/C1/S1_TOC_100M,Vito / ESA,PROBA-V C1 Top Of Canopy Daily Synthesis 100m,10/16/13,06/09/18,2013,2018,ImageCollection
-VITO/PROBAV/C1/S1_TOC_333M,Vito / ESA,PROBA-V C1 Top Of Canopy Daily Synthesis 333m,10/16/13,06/09/18,2013,2018,ImageCollection
+VITO/PROBAV/C1/S1_TOC_100M,Vito / ESA,PROBA-V C1 Top Of Canopy Daily Synthesis 100m,10/16/13,06/16/18,2013,2018,ImageCollection
+VITO/PROBAV/C1/S1_TOC_333M,Vito / ESA,PROBA-V C1 Top Of Canopy Daily Synthesis 333m,10/16/13,06/16/18,2013,2018,ImageCollection
 SKYSAT/GEN-A/PUBLIC/ORTHO/MULTISPECTRAL,Planet Labs Inc.,Planet SkySat Public Ortho Imagery,07/02/14,12/23/16,2014,2016,ImageCollection
 SKYSAT/GEN-A/PUBLIC/ORTHO/RGB,Planet Labs Inc.,Planet SkySat Public Ortho Imagery,07/02/14,12/23/16,2014,2016,ImageCollection
 RESOLVE/ECOREGIONS/2017,RESOLVE Biodiversity and Wildlife Solutions,RESOLVE Ecoregions 2017,04/04/17,04/04/17,2017,2017,Table
-NOAA/NWS/RTMA,NOAA/NWS,RTMA: Real-Time Mesoscale Analysis,06/17/15,07/18/18,2015,2018,ImageCollection
+NOAA/NWS/RTMA,NOAA/NWS,RTMA: Real-Time Mesoscale Analysis,06/17/15,07/25/18,2015,2018,ImageCollection
 NASA/GLDAS/V20/NOAH/G025/T3H,NASA,Reprocessed GLDAS-2: Global Land Data Assimilation System,01/01/48,12/30/10,1948,2010,ImageCollection
 CSIRO/SLGA,CSIRO/SLGA,SLGA: Soil and Landscape Grid of Australia (Soil Attributes),01/01/50,12/30/13,1950,2013,ImageCollection
 USGS/SRTMGL1_003,NASA / USGS / JPL-Caltech,SRTM Digital Elevation Data 30m,02/10/00,02/21/00,2000,2000,Image
 CGIAR/SRTM90_V4,NASA/CGIAR,SRTM Digital Elevation Data Version 4,02/10/00,02/21/00,2000,2000,Image
-COPERNICUS/S1_GRD,European Union/ESA/Copernicus,Sentinel-1 SAR GRD: C-band Synthetic Aperture Radar Ground Range Detected,10/02/14,07/18/18,2014,2018,ImageCollection
-COPERNICUS/S2,European Union/ESA/Copernicus,Sentinel-2 MSI: MultiSpectral Instrument,06/22/15,07/18/18,2015,2018,ImageCollection
-COPERNICUS/S3/OLCI,European Union/ESA/Copernicus,Sentinel-3 OLCI EFR: Ocean and Land Color Instrument Earth Observation Full Resolution,10/17/16,07/18/18,2016,2018,ImageCollection
+COPERNICUS/S1_GRD,European Union/ESA/Copernicus,Sentinel-1 SAR GRD: C-band Synthetic Aperture Radar Ground Range Detected,10/02/14,07/26/18,2014,2018,ImageCollection
+COPERNICUS/S2,European Union/ESA/Copernicus,Sentinel-2 MSI: MultiSpectral Instrument,06/22/15,07/25/18,2015,2018,ImageCollection
+COPERNICUS/S3/OLCI,European Union/ESA/Copernicus,Sentinel-3 OLCI EFR: Ocean and Land Color Instrument Earth Observation Full Resolution,10/17/16,07/25/18,2016,2018,ImageCollection
 TIGER/2010/Blocks,United States Census Bureau,TIGER: US Census Blocks,12/31/09,01/01/10,2009,2010,Table
 TIGER/2016/Counties,United States Census Bureau,TIGER: US Census Counties 2016,12/31/15,01/01/17,2015,2017,Table
 TIGER/2016/Roads,United States Census Bureau,TIGER: US Census Roads,12/31/15,01/01/17,2015,2017,Table
 TIGER/2016/States,United States Census Bureau,TIGER: US Census States 2016,12/31/15,01/01/17,2015,2017,Table
 TIGER/2010/Tracts_DP1,United States Census Bureau,TIGER: US Census Tracts Demographic - Profile 1,12/31/09,01/01/10,2009,2010,Table
-TOMS/MERGED,NASA / GES DISC,TOMS and OMI Merged Ozone Data,10/31/78,07/17/18,1978,2018,ImageCollection
+TOMS/MERGED,NASA / GES DISC,TOMS and OMI Merged Ozone Data,10/31/78,07/23/18,1978,2018,ImageCollection
 TRMM/3B42,NASA GSFC,TRMM 3B42: 3-Hourly Precipitation Estimates,12/31/97,04/29/18,1997,2018,ImageCollection
 TRMM/3B43V7,NASA GSFC,TRMM 3B43: Monthly Precipitation Estimates,12/31/97,03/31/18,1997,2018,ImageCollection
 IDAHO_EPSCOR/TERRACLIMATE,University of Idaho,TerraClimate:  Monthly Climate and Climatic Water Balance for Global Terrestrial Surfaces,01/01/58,11/30/17,1958,2017,ImageCollection
@@ -237,41 +238,40 @@ LANDSAT/LM04/C01/T2,USGS,USGS Landsat 4 MSS Collection 1 Tier 2 Raw Scenes,07/15
 LANDSAT/LT04/C01/T1_SR,USGS,USGS Landsat 4 Surface Reflectance Tier 1,08/21/82,12/13/93,1982,1993,ImageCollection
 LANDSAT/LT04/C01/T2_SR,USGS,USGS Landsat 4 Surface Reflectance Tier 2,08/21/82,12/13/93,1982,1993,ImageCollection
 LANDSAT/LT04/C01/T1,USGS,USGS Landsat 4 TM Collection 1 Tier 1 Raw Scenes,08/21/82,12/13/93,1982,1993,ImageCollection
-LANDSAT/LT04/C01/T1_TOA,Google,USGS Landsat 4 TM Collection 1 Tier 1 TOA Reflectance,08/21/82,12/13/93,1982,1993,ImageCollection
+LANDSAT/LT04/C01/T1_TOA,USGS/Google,USGS Landsat 4 TM Collection 1 Tier 1 TOA Reflectance,08/21/82,12/13/93,1982,1993,ImageCollection
 LANDSAT/LT04/C01/T2,USGS,USGS Landsat 4 TM Collection 1 Tier 2 Raw Scenes,08/21/82,12/13/93,1982,1993,ImageCollection
-LANDSAT/LT04/C01/T2_TOA,Google,USGS Landsat 4 TM Collection 1 Tier 2 TOA Reflectance,08/21/82,12/13/93,1982,1993,ImageCollection
+LANDSAT/LT04/C01/T2_TOA,USGS/Google,USGS Landsat 4 TM Collection 1 Tier 2 TOA Reflectance,08/21/82,12/13/93,1982,1993,ImageCollection
 LANDSAT/LM05/C01/T1,USGS,USGS Landsat 5 MSS Collection 1 Tier 1 Raw Scenes,02/29/84,01/30/13,1984,2013,ImageCollection
 LANDSAT/LM05/C01/T2,USGS,USGS Landsat 5 MSS Collection 1 Tier 2 Raw Scenes,02/29/84,01/30/13,1984,2013,ImageCollection
 LANDSAT/LT05/C01/T1_SR,USGS,USGS Landsat 5 Surface Reflectance Tier 1,12/31/83,05/04/12,1983,2012,ImageCollection
 LANDSAT/LT05/C01/T2_SR,USGS,USGS Landsat 5 Surface Reflectance Tier 2,12/31/83,05/04/12,1983,2012,ImageCollection
 LANDSAT/LT05/C01/T1,USGS,USGS Landsat 5 TM Collection 1 Tier 1 Raw Scenes,12/31/83,05/04/12,1983,2012,ImageCollection
-LANDSAT/LT05/C01/T1_TOA,Google,USGS Landsat 5 TM Collection 1 Tier 1 TOA Reflectance,12/31/83,05/04/12,1983,2012,ImageCollection
+LANDSAT/LT05/C01/T1_TOA,USGS/Google,USGS Landsat 5 TM Collection 1 Tier 1 TOA Reflectance,12/31/83,05/04/12,1983,2012,ImageCollection
 LANDSAT/LT05/C01/T2,USGS,USGS Landsat 5 TM Collection 1 Tier 2 Raw Scenes,12/31/83,05/04/12,1983,2012,ImageCollection
-LANDSAT/LT05/C01/T2_TOA,Google,USGS Landsat 5 TM Collection 1 Tier 2 TOA Reflectance,12/31/83,05/04/12,1983,2012,ImageCollection
-LANDSAT/LE07/C01/T1,USGS,USGS Landsat 7 Collection 1 Tier 1 Raw Scenes,12/31/98,06/22/18,1998,2018,ImageCollection
-LANDSAT/LE07/C01/T1_TOA,Google,USGS Landsat 7 Collection 1 Tier 1 TOA Reflectance,12/31/98,06/22/18,1998,2018,ImageCollection
-LANDSAT/LE07/C01/T1_RT,USGS,USGS Landsat 7 Collection 1 Tier 1 and Real-Time data Raw Scenes,12/31/98,07/18/18,1998,2018,ImageCollection
-LANDSAT/LE07/C01/T1_RT_TOA,Google,USGS Landsat 7 Collection 1 Tier 1 and Real-Time data TOA Reflectance,12/31/98,07/18/18,1998,2018,ImageCollection
+LANDSAT/LT05/C01/T2_TOA,USGS/Google,USGS Landsat 5 TM Collection 1 Tier 2 TOA Reflectance,12/31/83,05/04/12,1983,2012,ImageCollection
+LANDSAT/LE07/C01/T1,USGS,USGS Landsat 7 Collection 1 Tier 1 Raw Scenes,12/31/98,06/28/18,1998,2018,ImageCollection
+LANDSAT/LE07/C01/T1_TOA,USGS/Google,USGS Landsat 7 Collection 1 Tier 1 TOA Reflectance,12/31/98,06/28/18,1998,2018,ImageCollection
+LANDSAT/LE07/C01/T1_RT,USGS,USGS Landsat 7 Collection 1 Tier 1 and Real-Time data Raw Scenes,12/31/98,07/25/18,1998,2018,ImageCollection
+LANDSAT/LE07/C01/T1_RT_TOA,USGS/Google,USGS Landsat 7 Collection 1 Tier 1 and Real-Time data TOA Reflectance,12/31/98,07/25/18,1998,2018,ImageCollection
 LANDSAT/LE07/C01/T2,USGS,USGS Landsat 7 Collection 1 Tier 2 Raw Scenes,12/31/98,06/20/18,1998,2018,ImageCollection
-LANDSAT/LE07/C01/T2_TOA,Google,USGS Landsat 7 Collection 1 Tier 2 TOA Reflectance,12/31/98,06/20/18,1998,2018,ImageCollection
-LANDSAT/LE07/C01/T1_SR,USGS,USGS Landsat 7 Surface Reflectance Tier 1,12/31/98,06/21/18,1998,2018,ImageCollection
+LANDSAT/LE07/C01/T2_TOA,USGS/Google,USGS Landsat 7 Collection 1 Tier 2 TOA Reflectance,12/31/98,06/20/18,1998,2018,ImageCollection
+LANDSAT/LE07/C01/T1_SR,USGS,USGS Landsat 7 Surface Reflectance Tier 1,12/31/98,06/27/18,1998,2018,ImageCollection
 LANDSAT/LE07/C01/T2_SR,USGS,USGS Landsat 7 Surface Reflectance Tier 2,12/31/98,06/19/18,1998,2018,ImageCollection
 LANDSAT/LC08/C01/T1,USGS,USGS Landsat 8 Collection 1 Tier 1 Raw Scenes,04/10/13,07/13/18,2013,2018,ImageCollection
-LANDSAT/LC08/C01/T1_TOA,Google,USGS Landsat 8 Collection 1 Tier 1 TOA Reflectance,04/10/13,07/13/18,2013,2018,ImageCollection
-LANDSAT/LC08/C01/T1_RT,USGS,USGS Landsat 8 Collection 1 Tier 1 and Real-Time data Raw Scenes,04/10/13,07/18/18,2013,2018,ImageCollection
-LANDSAT/LC08/C01/T1_RT_TOA,Google,USGS Landsat 8 Collection 1 Tier 1 and Real-Time data TOA Reflectance,04/10/13,07/18/18,2013,2018,ImageCollection
+LANDSAT/LC08/C01/T1_TOA,USGS/Google,USGS Landsat 8 Collection 1 Tier 1 TOA Reflectance,04/10/13,07/13/18,2013,2018,ImageCollection
+LANDSAT/LC08/C01/T1_RT,USGS,USGS Landsat 8 Collection 1 Tier 1 and Real-Time data Raw Scenes,04/10/13,07/24/18,2013,2018,ImageCollection
+LANDSAT/LC08/C01/T1_RT_TOA,USGS/Google,USGS Landsat 8 Collection 1 Tier 1 and Real-Time data TOA Reflectance,04/10/13,07/24/18,2013,2018,ImageCollection
 LANDSAT/LC08/C01/T2,USGS,USGS Landsat 8 Collection 1 Tier 2 Raw Scenes,04/10/13,07/13/18,2013,2018,ImageCollection
-LANDSAT/LC08/C01/T2_TOA,Google,USGS Landsat 8 Collection 1 Tier 2 TOA Reflectance,04/10/13,07/13/18,2013,2018,ImageCollection
-LANDSAT/LC08/C01/T1_SR,USGS,USGS Landsat 8 Surface Reflectance Tier 1,04/10/13,07/07/18,2013,2018,ImageCollection
+LANDSAT/LC08/C01/T2_TOA,USGS/Google,USGS Landsat 8 Collection 1 Tier 2 TOA Reflectance,04/10/13,07/13/18,2013,2018,ImageCollection
+LANDSAT/LC08/C01/T1_SR,USGS,USGS Landsat 8 Surface Reflectance Tier 1,04/10/13,07/13/18,2013,2018,ImageCollection
 LANDSAT/LC08/C01/T2_SR,USGS,USGS Landsat 8 Surface Reflectance Tier 2,04/10/13,07/06/18,2013,2018,ImageCollection
 USGS/NED,United States Geological Survey,USGS National Elevation Dataset 1/3 arc-second,02/06/12,02/06/12,2012,2012,Image
 NOAA/VIIRS/DNB/MONTHLY_V1/VCMCFG,NOAA,VIIRS Nighttime Day/Night Band Composites Version 1,03/31/12,04/30/18,2012,2018,ImageCollection
 NOAA/VIIRS/DNB/MONTHLY_V1/VCMSLCFG,NOAA,VIIRS Stray Light Corrected Nighttime Day/Night Band Composites Version 1,12/31/13,04/30/18,2013,2018,ImageCollection
-NOAA/VIIRS/001/VNP09GA,NASA LP DAAC at the USGS EROS Center,VNP09GA: VIIRS Surface Reflectance Daily 500m and 1km,01/18/12,07/14/18,2012,2018,ImageCollection
+NOAA/VIIRS/001/VNP09GA,NASA LP DAAC at the USGS EROS Center,VNP09GA: VIIRS Surface Reflectance Daily 500m and 1km,01/18/12,07/23/18,2012,2018,ImageCollection
 WCMC/WDPA/current/points,UN Environment World Conservation Monitoring Centre (UNEP-WCMC) / Protected Planet,WDPA: World Database on Protected Areas (points),06/30/18,06/30/18,2018,2018,Table
 WCMC/WDPA/current/polygons,UN Environment World Conservation Monitoring Centre (UNEP-WCMC) / Protected Planet,WDPA: World Database on Protected Areas (polygons),06/30/18,06/30/18,2018,2018,Table
 WHRC/biomass/tropical,WHRC,WHRC Pantropical National Level Carbon Stock Dataset,01/28/12,01/28/12,2012,2012,Image
-WRI/GPPD/power_plants,World Resources Institute,WRI Global Power Plant Database,04/05/18,04/05/18,2018,2018,Table
 WWF/HydroSHEDS/15DIR,WWF,WWF HydroSHEDS Drainage Direction,02/10/00,02/21/00,2000,2000,Image
 WWF/HydroSHEDS/03DIR,WWF,WWF HydroSHEDS Drainage Direction,02/10/00,02/21/00,2000,2000,Image
 WWF/HydroSHEDS/30DIR,WWF,WWF HydroSHEDS Drainage Direction,02/10/00,02/21/00,2000,2000,Image
@@ -286,10 +286,10 @@ WORLDCLIM/V1/MONTHLY,University of California,WorldClim Climatology V1,01/01/60,
 WorldPop/POP,WorldPop,WorldPop Project Population Data: Estimated Residential Population per 100x100m Grid Square,12/31/09,12/31/15,2009,2015,ImageCollection
 LANDSAT/LC8_L1T,USGS,USGS Landsat 8 Raw Scenes (Orthorectified),04/10/13,04/29/17,2013,2017,ImageCollection
 LANDSAT/LC8,USGS,USGS Landsat 8 Raw Scenes,04/10/13,04/29/17,2013,2017,ImageCollection
-LANDSAT/LC8_L1T_TOA,Google,USGS Landsat 8 TOA Reflectance (Orthorectified),04/10/13,04/29/17,2013,2017,ImageCollection
+LANDSAT/LC8_L1T_TOA,USGS/Google,USGS Landsat 8 TOA Reflectance (Orthorectified),04/10/13,04/29/17,2013,2017,ImageCollection
 LANDSAT/LE7_L1T,USGS,USGS Landsat 7 Raw Scenes (Orthorectified),12/31/98,04/29/17,1998,2017,ImageCollection
 LANDSAT/LE7,USGS,USGS Landsat 7 Raw Scenes,12/31/98,04/29/17,1998,2017,ImageCollection
-LANDSAT/LE7_L1T_TOA,Google,USGS Landsat 7 TOA Reflectance (Orthorectified),12/31/98,04/29/17,1998,2017,ImageCollection
+LANDSAT/LE7_L1T_TOA,USGS/Google,USGS Landsat 7 TOA Reflectance (Orthorectified),12/31/98,04/29/17,1998,2017,ImageCollection
 LANDSAT/LM1,USGS,USGS Landsat 1 MSS Raw Scenes,07/22/72,01/06/78,1972,1978,ImageCollection
 LANDSAT/LM1_L1T,USGS,USGS Landsat 1 MSS Raw Scenes (Orthorectified),07/22/72,01/06/78,1972,1978,ImageCollection
 LANDSAT/LM2,USGS,USGS Landsat 2 MSS Raw Scenes,01/21/75,02/25/82,1975,1982,ImageCollection
@@ -302,10 +302,10 @@ LANDSAT/LM5,USGS,USGS Landsat 5 MSS Raw Scenes,02/29/84,01/30/13,1984,2013,Image
 LANDSAT/LM5_L1T,USGS,USGS Landsat 5 MSS Raw Scenes (Orthorectified),02/29/84,01/30/13,1984,2013,ImageCollection
 LANDSAT/LT4,USGS,USGS Landsat 4 TM Raw Scenes,08/21/82,12/13/93,1982,1993,ImageCollection
 LANDSAT/LT4_L1T,USGS,USGS Landsat 4 TM Raw Scenes (Orthorectified),08/21/82,12/13/93,1982,1993,ImageCollection
-LANDSAT/LT4_L1T_TOA,Google,USGS Landsat 4 TM TOA Reflectance (Orthorectified),08/21/82,12/13/93,1982,1993,ImageCollection
+LANDSAT/LT4_L1T_TOA,USGS/Google,USGS Landsat 4 TM TOA Reflectance (Orthorectified),08/21/82,12/13/93,1982,1993,ImageCollection
 LANDSAT/LT5,USGS,USGS Landsat 5 TM Raw Scenes,12/31/83,05/04/12,1983,2012,ImageCollection
 LANDSAT/LT5_L1T,USGS,USGS Landsat 5 TM Raw Scenes (Orthorectified),12/31/83,05/04/12,1983,2012,ImageCollection
-LANDSAT/LT5_L1T_TOA,Google,USGS Landsat 5 TM TOA Reflectance (Orthorectified),12/31/83,05/04/12,1983,2012,ImageCollection
+LANDSAT/LT5_L1T_TOA,USGS/Google,USGS Landsat 5 TM TOA Reflectance (Orthorectified),12/31/83,05/04/12,1983,2012,ImageCollection
 MODIS/MCD43A1,NASA LP DAAC at the USGS EROS Center,MCD43A1,02/17/00,03/13/17,2000,2017,ImageCollection
 MODIS/MCD43A2,NASA LP DAAC at the USGS EROS Center,MCD43A2,02/17/00,03/13/17,2000,2017,ImageCollection
 MODIS/MCD43A4,NASA LP DAAC at the USGS EROS Center,MCD43A4,02/17/00,03/13/17,2000,2017,ImageCollection
