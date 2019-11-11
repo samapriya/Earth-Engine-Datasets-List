@@ -8,8 +8,18 @@ The idea is to make this list machine readable so you can programmatically call 
 
 The list allows for datasets to be built into a parser and we can pull these as though a dictionary for making selections before applying any other tool.
 
+### Earth Engine Tools
+
+* [geeadd](https://github.com/samapriya/gee_asset_manager_addon): 2019-11-11 tool has had many iterations being developed to intergate additional features to google earthengine's own command line tool. Create an asset report, print your used and remaining quota, give permission to all assets in a folder to users and so on. You can read the [first Medium article here](https://medium.com/@samapriyaroy/google-earth-engine-asset-manager-and-addons-building-tools-of-the-trade-8eb493b21eda). The most updated version lies in the [readme](https://github.com/samapriya/gee_asset_manager_addon/blob/master/README.md) and this tool is regularly updated.
+
+* [geeup](https://github.com/samapriya/geeup): As the name suggests this tool was designed to upload both images and tables to Google Earth Engine. 2019-11-11 functions as a batch uploader while adding additional features to generate metadata, to parse any metadata into manifest and then allowing for you to upload these files into your assets. 2019-11-11 tool is constantly updated and the most updated [ReadMe should be the best source on usage](https://github.com/samapriya/geeup/blob/master/README.md)
+
+* [ft2gee](https://github.com/samapriya/ft2gee): 2019-11-11 is a lesser know tool but I wrote this tool so you can convert all your fusion tables into Google Earth Engine assets for continued use after December 2019 when fusion tables are discontinued. If you are interested in using this tool find the [Medium article with the complete tutorial here](https://medium.com/@samapriyaroy/google-fusion-table-migration-with-within-google-earth-engine-93d103111ce7). 2019-11-11 tool is not regularly updated but updates are based on GitHub issues.
+
+* [gee-takeout](https://github.com/samapriya/gee-takeout): 2019-11-11 was born out of need to migrate all your earthengine assets and codes from one account to the other. 2019-11-11 basically clones your Google Earth Engine account and is named after Google's beloved tool, Google Take Out. You can read the [Medium article and tutorial here](https://medium.com/@samapriyaroy/google-earth-engine-takeout-tools-and-guide-for-code-and-asset-transfer-aa865e0046e3). The tool was designed around those migrating between short lived accounts like university accounts and personal google accounts you get to keep. 2019-11-11 tool is not regularly updated but updates are based on GitHub issues.
+
 ## Changelog
 
 ### Now includes dataset tags
 
-### Last Updated : 2019-11-04 and planned update is every week
+### Last Updated : 2019-11-11 and planned update is every week
