@@ -22,6 +22,8 @@ The list allows for datasets to be built into a parser and we can pull these as 
 
 ## Changelog
 
-### Now includes dataset tags
+#### Earth Engine changes its library and this changes has broken the standard date range as part of the query. While most date ranges are generated using an alternate method a limited few are missing. Planned update maybe delayed for things to be sorted.
 
-### Last Updated : 2020-04-06 and planned update is every week
+#### Now includes dataset tags
+
+### Last Updated : 2020-04-13 and planned update is every week.
