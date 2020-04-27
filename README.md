@@ -25,4 +25,4 @@ The list allows for datasets to be built into a parser and we can pull these as 
 * Now uses STAC
 * Now includes dataset tags
 
-### Last Updated : 2020-04-20 and planned update is every week
+### Last Updated : 2020-04-27 and planned update is every week
