@@ -1,0 +1,127 @@
+name: gee_catalog
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron:  '0 */12 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: checkout repo content
+        uses: actions/checkout@v2 # checkout the repository content to github runner
+
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.7.7' # install the python version needed
+          
+      - name: install python packages
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install --upgrade pip
+          pip install -U pip setuptools
+          pip install pendulum beautifulsoup4 requests
+      - name: Script check
+        uses: jannekem/run-python-script-action@v1
+        with:
+          script: |
+            import requests
+            from bs4 import BeautifulSoup
+            from datetime import datetime
+            import time
+            import json
+            import urllib
+            now = datetime.now()
+            catalog=[]
+            def ulink(asset_id):
+                asset_uid = asset_id.replace('/', '_')
+                asset_url = "https://developers.google.com/earth-engine/datasets/catalog/{}".format(
+                    asset_uid)
+                thumbnail_url = 'https://mw1.google.com/ges/dd/images/{}_sample.png'.format(
+                    asset_uid)
+
+                #print(thumbnail_url)
+
+                r = requests.get(thumbnail_url)
+
+                try:
+                    if r.status_code != 200:
+                        html_page = urllib.request.urlopen(asset_url)
+                        soup = BeautifulSoup(html_page, features="html.parser")
+
+                        for img in soup.findAll('img'):
+                            if 'sample.png' in img.get('src'):
+                                thumbnail_url = img.get('src')
+                                return [asset_url,thumbnail_url]
+
+                    return [asset_url,thumbnail_url]
+                except Exception as e:
+                    print(e)
+            def parseurl(url):
+                gparse= []
+                try:
+                    response=requests.get(url)
+                    if response.status_code==200:
+                        r=response.json()
+                        gee_id=r['id']
+                        gee_title=r['title']
+                        gee_type=r['gee:type']
+                        gee_start=r['extent']['temporal']['interval'][0][0].split('T')[0]
+                        if not r['extent']['temporal']['interval'][0][1]==None:
+                            gee_end=r['extent']['temporal']['interval'][0][1].split('T')[0]
+                        else:
+                            gee_end=now.strftime('%Y-%m-%d')
+                        gee_start_year=gee_start.split('-')[0]
+                        gee_end_year=gee_end.split('-')[0]
+                        gee_provider=r['providers'][0]['name']
+                        gee_tags=r['keywords']
+                        asset_url,thumbnail_url=ulink(gee_id)
+                        asset = {
+                        "id": gee_id,
+                        "provider": gee_provider,
+                        "title": gee_title,
+                        "start_date":gee_start,
+                        "end_date":gee_end,
+                        "startyear":gee_start_year,
+                        "endyear":gee_end_year,
+                        "type":gee_type,
+                        "tags":', '.join(gee_tags),
+                        "asset_url":asset_url,
+                        "thumbnail_url":thumbnail_url
+                        }
+                        #print([gee_id,gee_provider,gee_title,gee_start,gee_end,gee_start_year,gee_end_year,gee_type,', '.join(gee_tags),asset_url,thumbnail_url])
+                        catalog.append(asset)
+                        #print(catalog)
+                except Exception as e:
+                    print(e)
+            def ee_catalog():
+                obj = requests.get('https://earthengine-stac.storage.googleapis.com/catalog/catalog.json').json()
+                try:
+                    for assets in obj['links']:
+                        if assets['rel']=='child':
+                            parseurl(assets['href'])
+                except Exception as e:
+                    print(e)
+            with open("gee_catalog.json", "w") as file:
+                json.dump(catalog, file, indent=4, sort_keys=True)
+            ee_catalog()
+            
+      - name: execute py script # run sj-gobierno.py to get the latest data
+        run: python ee_data_stac.py
+      - name: file_check
+        run: ls -l -a
+      - name: commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "update data" -a
+      - name: push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
