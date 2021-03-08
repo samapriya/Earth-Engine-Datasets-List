@@ -22,10 +22,11 @@ The list allows for datasets to be built into a parser and we can pull these as 
 * [gee-takeout](https://github.com/samapriya/gee-takeout): This was born out of need to migrate all your earthengine assets and codes from one account to the other. This tool basically clones your Google Earth Engine account and is named after Google's beloved tool, Google Take Out. You can read the [Medium article and tutorial here](https://medium.com/@samapriyaroy/google-earth-engine-takeout-tools-and-guide-for-code-and-asset-transfer-aa865e0046e3). The tool was designed around those migrating between short lived accounts like university accounts and personal google accounts you get to keep. **This tool is not regularly updated but updates are based on GitHub** issues.
 
 ## Changelog
-
+* Now uses Github workflow to generate parsed catalog
+* Find most updated version at [here](https://raw.githubusercontent.com/samapriya/Earth-Engine-Datasets-List/master/gee_catalog.json)
 * Now uses STAC 1.0.0-beta.2
 * Now inclues asset url and thumbnail_url
 * Now uses STAC
 * Now includes dataset tags
 
-### Last Updated : 2021-03-08 and planned update is every week
+### Now updated every 12 hours
