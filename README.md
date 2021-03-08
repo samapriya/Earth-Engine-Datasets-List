@@ -23,7 +23,7 @@ The list allows for datasets to be built into a parser and we can pull these as 
 
 ## Changelog
 * Now uses Github workflow to generate parsed catalog
-* Find most updated version at [here](https://raw.githubusercontent.com/samapriya/Earth-Engine-Datasets-List/master/gee_catalog.json)
+* Find most updated version [here](https://raw.githubusercontent.com/samapriya/Earth-Engine-Datasets-List/master/gee_catalog.json)
 * Now uses STAC 1.0.0-beta.2
 * Now inclues asset url and thumbnail_url
 * Now uses STAC
