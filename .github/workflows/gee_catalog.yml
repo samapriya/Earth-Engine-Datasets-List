@@ -109,9 +109,6 @@ jobs:
             with open("gee_catalog.json", "w") as file:
                 json.dump(catalog, file, indent=4, sort_keys=True)
             ee_catalog()
-            
-      - name: execute py script # run sj-gobierno.py to get the latest data
-        run: python ee_data_stac.py
       - name: file_check
         run: ls -l -a
       - name: commit files
