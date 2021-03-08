@@ -106,8 +106,8 @@ jobs:
                             parseurl(assets['href'])
                 except Exception as e:
                     print(e)
-            with open("gee_catalog.json", "w") as file:
-                json.dump(catalog, file, indent=4, sort_keys=True)
+                with open("gee_catalog.json", "w") as file:
+                    json.dump(catalog, file, indent=4, sort_keys=True)
             ee_catalog()
       - name: file_check
         run: ls -l -a
