@@ -29,4 +29,4 @@ The list allows for datasets to be built into a parser and we can pull these as 
 * Now uses STAC
 * Now includes dataset tags
 
-### Now updated every 12 hours
+### Now updated every day
