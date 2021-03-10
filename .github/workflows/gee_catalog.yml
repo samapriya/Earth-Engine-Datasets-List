@@ -109,6 +109,33 @@ jobs:
                 with open("gee_catalog.json", "w") as file:
                     json.dump(catalog, file, indent=4, sort_keys=True)
             ee_catalog()
+      - name: json2csv
+        uses: jannekem/run-python-script-action@v1
+        with:
+          script: |
+            import csv
+            import json
+            with open('gee_catalog.json') as f:
+              data = json.load(f)
+            with open('gee_catalog.csv','w') as csvfile:
+                writer=csv.DictWriter(csvfile,fieldnames=["id", "provider", "title", "start_date","end_date", "startyear","endyear","type","tags","asset_url","thumbnail_url"], delimiter=',',lineterminator='\n')
+                writer.writeheader()
+            for datasets in data:
+                gee_id = datasets['id']
+                gee_provider = datasets['provider']
+                gee_title = datasets['title']
+                gee_start = datasets['start_date']
+                gee_end = datasets['end_date']
+                gee_start_year = datasets['startyear']
+                gee_end_year = datasets['endyear']
+                gee_type = datasets['type']
+                gee_tags = datasets['tags']
+                asset_url = datasets['asset_url']
+                thumbnail_url = datasets['thumbnail_url']
+                with open('gee_catalog.csv','a') as csvfile:
+                    writer=csv.writer(csvfile,delimiter=',',lineterminator='\n')
+                    writer.writerow([gee_id,gee_provider,gee_title,gee_start,gee_end,gee_start_year,gee_end_year,gee_type,gee_tags,asset_url,thumbnail_url])
+                csvfile.close()
       - name: file_check
         run: ls -l -a
       - name: commit files
