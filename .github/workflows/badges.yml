@@ -1,9 +1,9 @@
 name: Badges
 
-on:
-  push:
-    branches:
-      - master
+on: 
+  workflow_dispatch:
+  schedule:
+    - cron:  '45 0 * * *'
 
 jobs:
   update-badges:
