@@ -1,8 +1,6 @@
 name: gee_catalog
-on:
-  push:
-    branches:
-      - master
+on: 
+  workflow_dispatch:
   schedule:
     - cron:  '15 0 * * *'
 
