@@ -1,7 +1,7 @@
 [
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/AAFC_ACI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "AAFC/ACI",
         "provider": "Agriculture and Agri-Food Canada",
@@ -53,7 +53,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ASTER_AST_L1T_003",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "ASTER/AST_L1T_003",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -111,7 +111,7 @@
         "provider": "Biopama programme",
         "start_date": "2019-01-01",
         "startyear": "2019",
-        "tags": "Biopama, biodiversity, conservation, crop, global, landuse, oilpalm, plantation",
+        "tags": "biodiversity, biopama, conservation, crop, global, landuse, oilpalm, plantation",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/BIOPAMA_GlobalOilPalm_v1_sample.png",
         "title": "Global map of oil palm plantations",
         "type": "image_collection"
@@ -124,20 +124,20 @@
         "provider": "US Department of Interior Bureau of Land Management (BLM)",
         "start_date": "2011-05-10",
         "startyear": "2011",
-        "tags": "AIM, AIM, AIM_AK, AIM_AZ, AIM_CA, AIM_CO, AIM_ID, AIM_MTDA, AIM_NATL, AIM_NM, AIM_NV, AIM_ORWA, AIM_UT, AIM_WY, Alaska, Arizona, California, Colorado, GRSG, Idaho, Landscape, Montana, Nevada, New_Mexico, Oregon, TerrADat, TerrestrialAIM, Utah, Wyoming, biota, endangered, environment, health, hydrology, range, vegetation, wildlife",
+        "tags": "aim, aim, biota, endangered, environment, grsg, health, hydrology, landscape, range, terradat, terrestrialaim, vegetation, wildlife",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/BLM_AIM_v1_TerrADat_TerrestrialAIM_sample.png",
         "title": "BLM AIM TerrADat TerrestrialAIM Point v1",
         "type": "table"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/CAS_IGSNRR_PML_V2",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "CAS/IGSNRR/PML/V2",
         "provider": "PML_V2",
         "start_date": "2002-07-04",
         "startyear": "2002",
-        "tags": "CAS, IGSNRR, PML, evapotranspiration, gpp, gross_primary_product",
+        "tags": "cas, evapotranspiration, gpp, gross_primary_product, igsnrr, pml",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/CAS_IGSNRR_PML_V2_sample.png",
         "title": "PML_V2: Coupled Evapotranspiration and Gross Primary Product",
         "type": "image_collection"
@@ -417,7 +417,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S1_GRD",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "COPERNICUS/S1_GRD",
         "provider": "European Union/ESA/Copernicus",
@@ -430,7 +430,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "COPERNICUS/S2",
         "provider": "European Union/ESA/Copernicus",
@@ -443,7 +443,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_CLOUD_PROBABILITY",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "COPERNICUS/S2_CLOUD_PROBABILITY",
         "provider": "European Union/ESA/Copernicus/SentinelHub",
@@ -456,7 +456,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_SR",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "COPERNICUS/S2_SR",
         "provider": "European Union/ESA/Copernicus",
@@ -469,247 +469,247 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S3_OLCI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "COPERNICUS/S3/OLCI",
         "provider": "European Union/ESA/Copernicus",
         "start_date": "2016-10-18",
         "startyear": "2016",
-        "tags": "OLCI, TOA, copernicus, esa, eu, radiance, sentinel",
+        "tags": "copernicus, esa, eu, olci, radiance, sentinel, toa",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/S3_OLCI_sample.png",
         "title": "Sentinel-3 OLCI EFR: Ocean and Land Color Instrument Earth Observation Full Resolution",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_AER_AI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "COPERNICUS/S5P/NRTI/L3_AER_AI",
         "provider": "European Union/ESA/Copernicus",
         "start_date": "2018-07-10",
         "startyear": "2018",
-        "tags": "TROPOMI, aai, aerosol, air_quality, copernicus, esa, eu, knmi, pollution, s5p, sentinel, uvai",
+        "tags": "aai, aerosol, air_quality, copernicus, esa, eu, knmi, pollution, s5p, sentinel, tropomi, uvai",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/COPERNICUS_S5P_NRTI_AER_AI_sample.png",
         "title": "Sentinel-5P NRTI AER AI: Near Real-Time UV Aerosol Index",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_AER_LH",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "COPERNICUS/S5P/NRTI/L3_AER_LH",
         "provider": "European Union/ESA/Copernicus",
         "start_date": "2018-07-10",
         "startyear": "2018",
-        "tags": "TROPOMI, aerosol, air_quality, alh, copernicus, esa, eu, knmi, pollution, s5p, sentinel, uvai",
+        "tags": "aerosol, air_quality, alh, copernicus, esa, eu, knmi, pollution, s5p, sentinel, tropomi, uvai",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/COPERNICUS_S5P_NRTI_AER_LH_sample.png",
         "title": "Sentinel-5P NRTI AER LH: Near Real-Time UV Aerosol Layer Height",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_CLOUD",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "COPERNICUS/S5P/NRTI/L3_CLOUD",
         "provider": "European Union/ESA/Copernicus",
         "start_date": "2018-07-05",
         "startyear": "2018",
-        "tags": "TROPOMI, climate, cloud, copernicus, dlr, esa, eu, s5p, sentinel",
+        "tags": "climate, cloud, copernicus, dlr, esa, eu, s5p, sentinel, tropomi",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/COPERNICUS_S5P_NRTI_CLOUD_sample.png",
         "title": "Sentinel-5P NRTI CLOUD: Near Real-Time Cloud",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_CO",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "COPERNICUS/S5P/NRTI/L3_CO",
         "provider": "European Union/ESA/Copernicus",
         "start_date": "2018-11-22",
         "startyear": "2018",
-        "tags": "TROPOMI, air_quality, carbon_monoxide, co, copernicus, esa, eu, knmi, pollution, s5p, sentinel, sron",
+        "tags": "air_quality, carbon_monoxide, co, copernicus, esa, eu, knmi, pollution, s5p, sentinel, sron, tropomi",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/COPERNICUS_S5P_NRTI_CO_sample.png",
         "title": "Sentinel-5P NRTI CO: Near Real-Time Carbon Monoxide",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_HCHO",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "COPERNICUS/S5P/NRTI/L3_HCHO",
         "provider": "European Union/ESA/Copernicus",
         "start_date": "2018-10-02",
         "startyear": "2018",
-        "tags": "TROPOMI, air_quality, bira, copernicus, dlr, esa, eu, formaldehyde, hcho, pollution, s5p, sentinel",
+        "tags": "air_quality, bira, copernicus, dlr, esa, eu, formaldehyde, hcho, pollution, s5p, sentinel, tropomi",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/COPERNICUS_S5P_NRTI_HCHO_sample.png",
         "title": "Sentinel-5P NRTI HCHO: Near Real-Time Formaldehyde",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_NO2",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "COPERNICUS/S5P/NRTI/L3_NO2",
         "provider": "European Union/ESA/Copernicus",
         "start_date": "2018-07-10",
         "startyear": "2018",
-        "tags": "TROPOMI, air_quality, copernicus, esa, eu, knmi, nitrogen_dioxide, no2, pollution, s5p, sentinel",
+        "tags": "air_quality, copernicus, esa, eu, knmi, nitrogen_dioxide, no2, pollution, s5p, sentinel, tropomi",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/COPERNICUS_S5P_NRTI_NO2_sample.png",
         "title": "Sentinel-5P NRTI NO2: Near Real-Time Nitrogen Dioxide",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_O3",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "COPERNICUS/S5P/NRTI/L3_O3",
         "provider": "European Union/ESA/Copernicus",
         "start_date": "2018-07-10",
         "startyear": "2018",
-        "tags": "TROPOMI, air_quality, copernicus, esa, eu, o3, ozone, pollution, s5p, sentinel",
+        "tags": "air_quality, copernicus, esa, eu, o3, ozone, pollution, s5p, sentinel, tropomi",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/COPERNICUS_S5P_NRTI_O3_sample.png",
         "title": "Sentinel-5P NRTI O3: Near Real-Time Ozone",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_SO2",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "COPERNICUS/S5P/NRTI/L3_SO2",
         "provider": "European Union/ESA/Copernicus",
         "start_date": "2018-07-10",
         "startyear": "2018",
-        "tags": "TROPOMI, air_quality, bira, copernicus, dlr, esa, eu, pollution, s5p, sentinel, so2, sulfur_dioxide, sulphur_dioxide",
+        "tags": "air_quality, bira, copernicus, dlr, esa, eu, pollution, s5p, sentinel, so2, sulfur_dioxide, sulphur_dioxide, tropomi",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/COPERNICUS_S5P_NRTI_SO2_sample.png",
         "title": "Sentinel-5P NRTI SO2: Near Real-Time Sulphur Dioxide",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_AER_AI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "COPERNICUS/S5P/OFFL/L3_AER_AI",
         "provider": "European Union/ESA/Copernicus",
         "start_date": "2018-07-04",
         "startyear": "2018",
-        "tags": "TROPOMI, aai, aerosol, air_quality, copernicus, esa, eu, knmi, pollution, s5p, sentinel, uvai",
+        "tags": "aai, aerosol, air_quality, copernicus, esa, eu, knmi, pollution, s5p, sentinel, tropomi, uvai",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/COPERNICUS_S5P_OFFL_AER_AI_sample.png",
         "title": "Sentinel-5P OFFL AER AI: Offline UV Aerosol Index",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_AER_LH",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "COPERNICUS/S5P/OFFL/L3_AER_LH",
         "provider": "European Union/ESA/Copernicus",
         "start_date": "2018-07-04",
         "startyear": "2018",
-        "tags": "TROPOMI, aerosol, air_quality, alh, copernicus, esa, eu, knmi, pollution, s5p, sentinel, uvai",
+        "tags": "aerosol, air_quality, alh, copernicus, esa, eu, knmi, pollution, s5p, sentinel, tropomi, uvai",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/COPERNICUS_S5P_OFFL_AER_LH_sample.png",
         "title": "Sentinel-5P OFFL AER LH: Offline UV Aerosol Layer Height",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_CH4",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "COPERNICUS/S5P/OFFL/L3_CH4",
         "provider": "European Union/ESA/Copernicus",
         "start_date": "2019-02-08",
         "startyear": "2019",
-        "tags": "TROPOMI, ch4, climate, copernicus, esa, eu, knmi, methane, s5p, sentinel, sron",
+        "tags": "ch4, climate, copernicus, esa, eu, knmi, methane, s5p, sentinel, sron, tropomi",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/COPERNICUS_S5P_OFFL_CH4_sample.png",
         "title": "Sentinel-5P OFFL CH4: Offline Methane",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_CLOUD",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "COPERNICUS/S5P/OFFL/L3_CLOUD",
         "provider": "European Union/ESA/Copernicus",
         "start_date": "2018-07-04",
         "startyear": "2018",
-        "tags": "TROPOMI, climate, cloud, copernicus, dlr, esa, eu, s5p, sentinel",
+        "tags": "climate, cloud, copernicus, dlr, esa, eu, s5p, sentinel, tropomi",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/COPERNICUS_S5P_OFFL_CLOUD_sample.png",
         "title": "Sentinel-5P OFFL CLOUD: Near Real-Time Cloud",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_CO",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "COPERNICUS/S5P/OFFL/L3_CO",
         "provider": "European Union/ESA/Copernicus",
         "start_date": "2018-06-28",
         "startyear": "2018",
-        "tags": "TROPOMI, air_quality, carbon_monoxide, co, copernicus, esa, eu, knmi, pollution, s5p, sentinel, sron",
+        "tags": "air_quality, carbon_monoxide, co, copernicus, esa, eu, knmi, pollution, s5p, sentinel, sron, tropomi",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/COPERNICUS_S5P_OFFL_CO_sample.png",
         "title": "Sentinel-5P OFFL CO: Offline Carbon Monoxide",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_HCHO",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "COPERNICUS/S5P/OFFL/L3_HCHO",
         "provider": "European Union/ESA/Copernicus",
         "start_date": "2018-12-05",
         "startyear": "2018",
-        "tags": "TROPOMI, air_quality, bira, copernicus, dlr, esa, eu, formaldehyde, hcho, pollution, s5p, sentinel",
+        "tags": "air_quality, bira, copernicus, dlr, esa, eu, formaldehyde, hcho, pollution, s5p, sentinel, tropomi",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/COPERNICUS_S5P_NRTI_HCHO_sample.png",
         "title": "Sentinel-5P OFFL HCHO: Offline Formaldehyde",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_NO2",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "COPERNICUS/S5P/OFFL/L3_NO2",
         "provider": "European Union/ESA/Copernicus",
         "start_date": "2018-06-28",
         "startyear": "2018",
-        "tags": "TROPOMI, air_quality, copernicus, esa, eu, knmi, nitrogen_dioxide, no2, pollution, s5p, sentinel",
+        "tags": "air_quality, copernicus, esa, eu, knmi, nitrogen_dioxide, no2, pollution, s5p, sentinel, tropomi",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/COPERNICUS_S5P_OFFL_NO2_sample.png",
         "title": "Sentinel-5P OFFL NO2: Offline Nitrogen Dioxide",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_O3",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "COPERNICUS/S5P/OFFL/L3_O3",
         "provider": "European Union/ESA/Copernicus",
         "start_date": "2018-09-08",
         "startyear": "2018",
-        "tags": "TROPOMI, air_quality, copernicus, esa, eu, o3, ozone, pollution, s5p, sentinel",
+        "tags": "air_quality, copernicus, esa, eu, o3, ozone, pollution, s5p, sentinel, tropomi",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/COPERNICUS_S5P_OFFL_O3_sample.png",
         "title": "Sentinel-5P OFFL O3: Offline Ozone",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_O3_TCL",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "COPERNICUS/S5P/OFFL/L3_O3_TCL",
         "provider": "European Union/ESA/Copernicus",
         "start_date": "2018-04-30",
         "startyear": "2018",
-        "tags": "TROPOMI, air_quality, copernicus, esa, eu, o3, ozone, pollution, s5p, sentinel",
+        "tags": "air_quality, copernicus, esa, eu, o3, ozone, pollution, s5p, sentinel, tropomi",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/COPERNICUS_S5P_OFFL_O3_sample.png",
         "title": "Sentinel-5P OFFL O3 TCL: Offline Tropospheric Ozone",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_SO2",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "COPERNICUS/S5P/OFFL/L3_SO2",
         "provider": "European Union/ESA/Copernicus",
         "start_date": "2018-12-05",
         "startyear": "2018",
-        "tags": "TROPOMI, air_quality, bira, copernicus, dlr, esa, eu, pollution, s5p, sentinel, so2, sulfur_dioxide, sulphur_dioxide",
+        "tags": "air_quality, bira, copernicus, dlr, esa, eu, pollution, s5p, sentinel, so2, sulfur_dioxide, sulphur_dioxide, tropomi",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/COPERNICUS_S5P_OFFL_SO2_sample.png",
         "title": "Sentinel-5P OFFL SO2: Offline Sulphur Dioxide",
         "type": "image_collection"
@@ -722,7 +722,7 @@
         "provider": "CPOM",
         "start_date": "2010-07-01",
         "startyear": "2010",
-        "tags": "CPOM, CryoSat-2, antarctica, dem, elevation, polar",
+        "tags": "antarctica, cpom, cryosat-2, dem, elevation, polar",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/CRYOSAT2_DEM_sample.png",
         "title": "CryoSat-2 Antarctica 1km DEM",
         "type": "image"
@@ -735,7 +735,7 @@
         "provider": "CSIRO/SLGA",
         "start_date": "1950-01-01",
         "startyear": "1950",
-        "tags": "Australia, CSIRO, GlobalSoilMap, SLGA, TERN, digital_soil_mapping, soil, soil_depth",
+        "tags": "australia, csiro, digital_soil_mapping, globalsoilmap, slga, soil, soil_depth, tern",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/SLGA_sample.png",
         "title": "SLGA: Soil and Landscape Grid of Australia (Soil Attributes)",
         "type": "image_collection"
@@ -950,7 +950,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ECMWF_CAMS_NRT",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "ECMWF/CAMS/NRT",
         "provider": "European Centre for Medium-Range Weather Forecasts (ECMWF)",
@@ -963,7 +963,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_DAILY",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "ECMWF/ERA5/DAILY",
         "provider": "ECMWF / Copernicus Climate Change Service",
@@ -976,7 +976,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_MONTHLY",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "ECMWF/ERA5/MONTHLY",
         "provider": "ECMWF / Copernicus Climate Change Service",
@@ -989,7 +989,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_HOURLY",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "ECMWF/ERA5_LAND/HOURLY",
         "provider": "Climate Data Store",
@@ -1002,7 +1002,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_MONTHLY",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "ECMWF/ERA5_LAND/MONTHLY",
         "provider": "Climate Data Store",
@@ -1015,7 +1015,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_MONTHLY_BY_HOUR",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "ECMWF/ERA5_LAND/MONTHLY_BY_HOUR",
         "provider": "Climate Data Store",
@@ -1028,7 +1028,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/EO1_HYPERION",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "EO1/HYPERION",
         "provider": "USGS",
@@ -1073,7 +1073,7 @@
         "provider": "European Space Agency (ESA) Climate Change Initiative (CCI) Programme, Fire ECV",
         "start_date": "2001-01-01",
         "startyear": "2001",
-        "tags": "C3S, CCI, Copernicus, ESA, FireCCI, FireCCI51, GCOS, MODIS, burn, climate_change, fire, fragmentation, geophysical, global, human_modification, landcover, landscape_gradient, monthly, stressors",
+        "tags": "burn, c3s, cci, climate_change, copernicus, esa, fire, firecci, firecci51, fragmentation, gcos, geophysical, global, human_modification, landcover, landscape_gradient, modis, monthly, stressors",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/ESA_CCI_FireCCI_5_1_sample.png",
         "title": "FireCCI51: MODIS Fire_cci Burned Area Pixel product, version 5.1",
         "type": "image_collection"
@@ -1171,124 +1171,124 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/FAO_GHG_1_DROSA_A",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "FAO/GHG/1/DROSA_A",
         "provider": "FAO UN",
         "start_date": "1992-01-01",
         "startyear": "1992",
-        "tags": "Agriculture, Climate_change, Emissions, FAO, GHG, Organic_soils",
+        "tags": "agriculture, climate_change, emissions, fao, ghg, organic_soils",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/FAO_GHG_1_sample.png",
         "title": "UN FAO Drained Organic Soils Area (Annual)",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/FAO_GHG_1_DROSE_A",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "FAO/GHG/1/DROSE_A",
         "provider": "FAO UN",
         "start_date": "1992-01-01",
         "startyear": "1992",
-        "tags": "Agriculture, Climate_change, Emissions, FAO, GHG, Organic_soils",
+        "tags": "agriculture, climate_change, emissions, fao, ghg, organic_soils",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/FAO_GHG_1_sample.png",
         "title": "Drained Organic Soils Emissions (Annual)",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/FAO_WAPOR_2_L1_AETI_D",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "FAO/WAPOR/2/L1_AETI_D",
         "provider": "FAO UN",
         "start_date": "2009-01-01",
         "startyear": "2009",
-        "tags": "Agriculture, FAO, WaPOR, Water",
+        "tags": "agriculture, fao, wapor, water",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/FAO_WAPOR_2_L1_AETI_D_sample.png",
         "title": "WAPOR Actual Evapotranspiration and Interception",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/FAO_WAPOR_2_L1_E_D",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "FAO/WAPOR/2/L1_E_D",
         "provider": "FAO UN",
         "start_date": "2009-01-01",
         "startyear": "2009",
-        "tags": "Agriculture, FAO, WaPOR, Water",
+        "tags": "agriculture, fao, wapor, water",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/FAO_WAPOR_2_L1_E_D_sample.png",
         "title": "WAPOR Dekadal Evaporation",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/FAO_WAPOR_2_L1_I_D",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "FAO/WAPOR/2/L1_I_D",
         "provider": "FAO UN",
         "start_date": "2009-01-01",
         "startyear": "2009",
-        "tags": "Agriculture, FAO, WaPOR, Water",
+        "tags": "agriculture, fao, wapor, water",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/FAO_WAPOR_2_L1_I_D_sample.png",
         "title": "WAPOR Dekadal Interception",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/FAO_WAPOR_2_L1_NPP_D",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "FAO/WAPOR/2/L1_NPP_D",
         "provider": "FAO UN",
         "start_date": "2009-01-01",
         "startyear": "2009",
-        "tags": "Agriculture, FAO, WaPOR, Water",
+        "tags": "agriculture, fao, wapor, water",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/FAO_WAPOR_2_L1_NPP_D_sample.png",
         "title": "WAPOR Dekadal Net Primary Production",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/FAO_WAPOR_2_L1_RET_D",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "FAO/WAPOR/2/L1_RET_D",
         "provider": "FAO UN",
         "start_date": "2009-01-01",
         "startyear": "2009",
-        "tags": "Agriculture, FAO, WaPOR, Water",
+        "tags": "agriculture, fao, wapor, water",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/FAO_WAPOR_2_L1_RET_D_sample.png",
         "title": "WAPOR Dekadal Reference Evapotranspiration",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/FAO_WAPOR_2_L1_RET_E",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "FAO/WAPOR/2/L1_RET_E",
         "provider": "FAO UN",
         "start_date": "2009-01-01",
         "startyear": "2009",
-        "tags": "Agriculture, FAO, WaPOR, Water",
+        "tags": "agriculture, fao, wapor, water",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/FAO_WAPOR_2_L1_RET_E_sample.png",
         "title": "WAPOR Daily Reference Evapotranspiration",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/FAO_WAPOR_2_L1_T_D",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "FAO/WAPOR/2/L1_T_D",
         "provider": "FAO UN",
         "start_date": "2009-01-01",
         "startyear": "2009",
-        "tags": "Agriculture, FAO, WaPOR, Water",
+        "tags": "agriculture, fao, wapor, water",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/FAO_WAPOR_2_L1_T_D_sample.png",
         "title": "WAPOR Dekadal Transpiration",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/FIRMS",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "FIRMS",
         "provider": "NASA / LANCE / EOSDIS",
@@ -1307,14 +1307,14 @@
         "provider": "Global Forest Watch, World Resources Institute",
         "start_date": "2006-01-01",
         "startyear": "2006",
-        "tags": "GFW, NASA, WRI, alerts, deforestation, forest, forma, geophysical, modis",
+        "tags": "alerts, deforestation, forest, forma, geophysical, gfw, modis, nasa, wri",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/FORMA_500m_sample.png",
         "title": "FORMA Global Forest Watch Deforestation Alerts, 500m",
         "type": "image"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/GFW_GFF_V1_fishing_hours",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "GFW/GFF/V1/fishing_hours",
         "provider": "Global Fishing Watch",
@@ -1327,7 +1327,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/GFW_GFF_V1_vessel_hours",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "GFW/GFF/V1/vessel_hours",
         "provider": "Global Fishing Watch",
@@ -1405,7 +1405,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/GRIDMET_DROUGHT",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "GRIDMET/DROUGHT",
         "provider": "University of California Merced",
@@ -1418,85 +1418,85 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/HYCOM_GLBu0_08_sea_surface_elevation",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "HYCOM/GLBu0_08/sea_surface_elevation",
         "provider": "NOPP",
         "start_date": "1992-10-02",
         "startyear": "1992",
-        "tags": "HYCOM, NOPP, elevation, ocean, ssh, water",
+        "tags": "elevation, hycom, nopp, ocean, ssh, water",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/HYCOM_ELEVATION_sample.png",
         "title": "HYCOM: Hybrid Coordinate Ocean Model, Sea Surface Elevation",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/HYCOM_GLBu0_08_sea_temp_salinity",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "HYCOM/GLBu0_08/sea_temp_salinity",
         "provider": "NOPP",
         "start_date": "1992-10-02",
         "startyear": "1992",
-        "tags": "HYCOM, NOPP, ocean, salinity, sst, water, water_temp",
+        "tags": "hycom, nopp, ocean, salinity, sst, water, water_temp",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/HYCOM_SST_sample.png",
         "title": "HYCOM: Hybrid Coordinate Ocean Model, Water Temperature and Salinity",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/HYCOM_GLBu0_08_sea_water_velocity",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "HYCOM/GLBu0_08/sea_water_velocity",
         "provider": "NOPP",
         "start_date": "1992-10-02",
         "startyear": "1992",
-        "tags": "HYCOM, NOPP, ocean, velocity, water",
+        "tags": "hycom, nopp, ocean, velocity, water",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/HYCOM_VELOCITY_sample.png",
         "title": "HYCOM: Hybrid Coordinate Ocean Model, Water Velocity",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/HYCOM_sea_surface_elevation",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "HYCOM/sea_surface_elevation",
         "provider": "NOPP",
         "start_date": "1992-10-02",
         "startyear": "1992",
-        "tags": "HYCOM, NOPP, elevation, ocean, ssh, water",
+        "tags": "elevation, hycom, nopp, ocean, ssh, water",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/HYCOM_ELEVATION_sample.png",
         "title": "HYCOM: Hybrid Coordinate Ocean Model, Sea Surface Elevation",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/HYCOM_sea_temp_salinity",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "HYCOM/sea_temp_salinity",
         "provider": "NOPP",
         "start_date": "1992-10-02",
         "startyear": "1992",
-        "tags": "HYCOM, NOPP, ocean, salinity, sst, water, water_temp",
+        "tags": "hycom, nopp, ocean, salinity, sst, water, water_temp",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/HYCOM_SST_sample.png",
         "title": "HYCOM: Hybrid Coordinate Ocean Model, Water Temperature and Salinity",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/HYCOM_sea_water_velocity",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "HYCOM/sea_water_velocity",
         "provider": "NOPP",
         "start_date": "1992-10-02",
         "startyear": "1992",
-        "tags": "HYCOM, NOPP, ocean, velocity, water",
+        "tags": "hycom, nopp, ocean, velocity, water",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/HYCOM_VELOCITY_sample.png",
         "title": "HYCOM: Hybrid Coordinate Ocean Model, Water Velocity",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/IDAHO_EPSCOR_GRIDMET",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "IDAHO_EPSCOR/GRIDMET",
         "provider": "University of California Merced",
@@ -1535,7 +1535,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/IDAHO_EPSCOR_PDSI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "IDAHO_EPSCOR/PDSI",
         "provider": "University of California Merced",
@@ -1548,7 +1548,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/IDAHO_EPSCOR_TERRACLIMATE",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "IDAHO_EPSCOR/TERRACLIMATE",
         "provider": "University of California Merced",
@@ -1567,7 +1567,7 @@
         "provider": "JAXA Earth Observation Research Center",
         "start_date": "2006-04-26",
         "startyear": "2006",
-        "tags": "ALOS, AVNIR-2, EORC, JAXA, orthorectified, visible",
+        "tags": "alos, avnir-2, eorc, jaxa, orthorectified, visible",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/AVNIR2_sample.png",
         "title": "ALOS/AVNIR-2 ORI",
         "type": "image_collection"
@@ -1632,7 +1632,7 @@
         "provider": "JAXA EORC",
         "start_date": "2007-01-01",
         "startyear": "2007",
-        "tags": "ALOS, ALOS2, EROC, JAXA, PALSAR, SAR, classification, forest, landcover",
+        "tags": "alos, alos2, classification, eroc, forest, jaxa, landcover, palsar, sar",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/PALSAR_FNF_sample.png",
         "title": "Global PALSAR-2/PALSAR Forest/Non-Forest Map",
         "type": "image_collection"
@@ -1645,7 +1645,7 @@
         "provider": "JAXA EORC",
         "start_date": "2007-01-01",
         "startyear": "2007",
-        "tags": "ALOS, ALOS2, EROC, JAXA, PALSAR, SAR",
+        "tags": "alos, alos2, eroc, jaxa, palsar, sar",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/PALSAR_SAR_sample.png",
         "title": "Global PALSAR-2/PALSAR Yearly Mosaic",
         "type": "image_collection"
@@ -1665,7 +1665,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/JAXA_GCOM-C_L3_LAND_LAI_V2",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "JAXA/GCOM-C/L3/LAND/LAI/V2",
         "provider": "Global Change Observation Mission (GCOM)",
@@ -1691,7 +1691,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/JAXA_GCOM-C_L3_LAND_LST_V2",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "JAXA/GCOM-C/L3/LAND/LST/V2",
         "provider": "Global Change Observation Mission (GCOM)",
@@ -1717,7 +1717,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/JAXA_GCOM-C_L3_OCEAN_CHLA_V2",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "JAXA/GCOM-C/L3/OCEAN/CHLA/V2",
         "provider": "Global Change Observation Mission (GCOM)",
@@ -1743,7 +1743,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/JAXA_GCOM-C_L3_OCEAN_SST_V2",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "JAXA/GCOM-C/L3/OCEAN/SST/V2",
         "provider": "Global Change Observation Mission (GCOM)",
@@ -1756,7 +1756,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/JAXA_GPM_L3_GSMaP_v6_operational",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "JAXA/GPM_L3/GSMaP/v6/operational",
         "provider": "JAXA Earth Observation Research Center",
@@ -2022,7 +2022,7 @@
         "provider": "European Commission, Joint Research Centre, Global Wildfire Information System",
         "start_date": "2001-01-01",
         "startyear": "2001",
-        "tags": "MCD64A1, area, burnt, disaster, fire, modis-derived, wildfire",
+        "tags": "area, burnt, disaster, fire, mcd64a1, modis-derived, wildfire",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/JRC_GWIS_GlobFire_v2_sample.png",
         "title": "Final fire events detected in MODIS MCD64A1",
         "type": "table"
@@ -2035,7 +2035,7 @@
         "provider": "K. N. Toosi University of Technology LiDAR Lab",
         "start_date": "2017-01-01",
         "startyear": "2017",
-        "tags": "Iran, KNTU, landcover",
+        "tags": "iran, kntu, landcover",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/KNTU_LiDARLab_IranLandCover_V1_sample.png",
         "title": "Iran Land Cover Map v1 13-class (2017)",
         "type": "image"
@@ -2048,7 +2048,7 @@
         "provider": "U.S. Department of Agriculture's (USDA) U.S. Forest Service (USFS), U.S. Department of the Interior's Geological Survey (USGS), and The Nature Conservancy.",
         "start_date": "2010-01-01",
         "startyear": "2010",
-        "tags": "DOI, Nature-Conservancy, USDA, USGS, fire, landfire, vegetation, wildfire",
+        "tags": "doi, fire, landfire, nature-conservancy, usda, usgs, vegetation, wildfire",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDFIRE_Fire_sample.png",
         "title": "LANDFIRE FRG (Fire Regime Groups) v1.2.0",
         "type": "image_collection"
@@ -2061,7 +2061,7 @@
         "provider": "U.S. Department of Agriculture's (USDA) U.S. Forest Service (USFS), U.S. Department of the Interior's Geological Survey (USGS), and The Nature Conservancy.",
         "start_date": "2010-01-01",
         "startyear": "2010",
-        "tags": "DOI, Nature-Conservancy, USDA, USGS, fire, landfire, vegetation, wildfire",
+        "tags": "doi, fire, landfire, nature-conservancy, usda, usgs, vegetation, wildfire",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDFIRE_Fire_sample.png",
         "title": "LANDFIRE MFRI (Mean Fire Return Interval) v1.2.0",
         "type": "image_collection"
@@ -2074,7 +2074,7 @@
         "provider": "U.S. Department of Agriculture's (USDA) U.S. Forest Service (USFS), U.S. Department of the Interior's Geological Survey (USGS), and The Nature Conservancy.",
         "start_date": "2010-01-01",
         "startyear": "2010",
-        "tags": "DOI, Nature-Conservancy, USDA, USGS, fire, landfire, vegetation, wildfire",
+        "tags": "doi, fire, landfire, nature-conservancy, usda, usgs, vegetation, wildfire",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDFIRE_Fire_sample.png",
         "title": "LANDFIRE PLS (Percent Low-severity Fire) v1.2.0",
         "type": "image_collection"
@@ -2087,7 +2087,7 @@
         "provider": "U.S. Department of Agriculture's (USDA) U.S. Forest Service (USFS), U.S. Department of the Interior's Geological Survey (USGS), and The Nature Conservancy.",
         "start_date": "2010-01-01",
         "startyear": "2010",
-        "tags": "DOI, Nature-Conservancy, USDA, USGS, fire, landfire, vegetation, wildfire",
+        "tags": "doi, fire, landfire, nature-conservancy, usda, usgs, vegetation, wildfire",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDFIRE_Fire_sample.png",
         "title": "LANDFIRE PMS (Percent of Mixed-severity Fire) v1.2.0",
         "type": "image_collection"
@@ -2100,7 +2100,7 @@
         "provider": "U.S. Department of Agriculture's (USDA) U.S. Forest Service (USFS), U.S. Department of the Interior's Geological Survey (USGS), and The Nature Conservancy.",
         "start_date": "2010-01-01",
         "startyear": "2010",
-        "tags": "DOI, Nature-Conservancy, USDA, USGS, fire, landfire, vegetation, wildfire",
+        "tags": "doi, fire, landfire, nature-conservancy, usda, usgs, vegetation, wildfire",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDFIRE_Fire_sample.png",
         "title": "LANDFIRE PRS (Percent of Replacement-severity Fire) v1.2.0",
         "type": "image_collection"
@@ -2113,7 +2113,7 @@
         "provider": "U.S. Department of Agriculture's (USDA) U.S. Forest Service (USFS), U.S. Department of the Interior's Geological Survey (USGS), and The Nature Conservancy.",
         "start_date": "2014-09-01",
         "startyear": "2014",
-        "tags": "DOI, Nature-Conservancy, USDA, USGS, fire, landfire, vegetation, wildfire",
+        "tags": "doi, fire, landfire, nature-conservancy, usda, usgs, vegetation, wildfire",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDFIRE_Fire_sample.png",
         "title": "LANDFIRE SClass (Succession Classes) v1.4.0",
         "type": "image_collection"
@@ -2126,7 +2126,7 @@
         "provider": "U.S. Department of Agriculture's (USDA) U.S. Forest Service (USFS), U.S. Department of the Interior's Geological Survey (USGS), and The Nature Conservancy.",
         "start_date": "2014-09-01",
         "startyear": "2014",
-        "tags": "DOI, Nature-Conservancy, USDA, USGS, fire, landfire, vegetation, wildfire",
+        "tags": "doi, fire, landfire, nature-conservancy, usda, usgs, vegetation, wildfire",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDFIRE_Fire_sample.png",
         "title": "LANDFIRE VCC (Vegetation Condition Class) v1.4.0",
         "type": "image_collection"
@@ -2139,7 +2139,7 @@
         "provider": "U.S. Department of Agriculture's (USDA) U.S. Forest Service (USFS), U.S. Department of the Interior's Geological Survey (USGS), and The Nature Conservancy.",
         "start_date": "2014-09-01",
         "startyear": "2014",
-        "tags": "DOI, Nature-Conservancy, USDA, USGS, fire, landfire, vegetation, wildfire",
+        "tags": "doi, fire, landfire, nature-conservancy, usda, usgs, vegetation, wildfire",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDFIRE_Fire_sample.png",
         "title": "LANDFIRE VDep (Vegetation Departure) v1.4.0",
         "type": "image_collection"
@@ -2152,7 +2152,7 @@
         "provider": "U.S. Department of Agriculture's (USDA) U.S. Forest Service (USFS), U.S. Department of the Interior's Geological Survey (USGS), and The Nature Conservancy.",
         "start_date": "2014-09-01",
         "startyear": "2014",
-        "tags": "DOI, Nature-Conservancy, USDA, USGS, fire, landfire, vegetation, wildfire",
+        "tags": "doi, fire, landfire, nature-conservancy, usda, usgs, vegetation, wildfire",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDFIRE_Vegetation_sample.png",
         "title": "LANDFIRE BPS (Biophysical Settings) v1.4.0",
         "type": "image_collection"
@@ -2165,7 +2165,7 @@
         "provider": "U.S. Department of Agriculture's (USDA) U.S. Forest Service (USFS), U.S. Department of the Interior's Geological Survey (USGS), and The Nature Conservancy.",
         "start_date": "2010-01-01",
         "startyear": "2010",
-        "tags": "DOI, Nature-Conservancy, USDA, USGS, fire, landfire, vegetation, wildfire",
+        "tags": "doi, fire, landfire, nature-conservancy, usda, usgs, vegetation, wildfire",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDFIRE_Vegetation_v1_4_0_AK_sample.png",
         "title": "LANDFIRE ESP AK (Environmental Site Potential) v1.2.0",
         "type": "image"
@@ -2178,7 +2178,7 @@
         "provider": "U.S. Department of Agriculture's (USDA) U.S. Forest Service (USFS), U.S. Department of the Interior's Geological Survey (USGS), and The Nature Conservancy.",
         "start_date": "2010-01-01",
         "startyear": "2010",
-        "tags": "DOI, Nature-Conservancy, USDA, USGS, fire, landfire, vegetation, wildfire",
+        "tags": "doi, fire, landfire, nature-conservancy, usda, usgs, vegetation, wildfire",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDFIRE_Vegetation_v1_4_0_CONUS_sample.png",
         "title": "LANDFIRE ESP CONUS (Environmental Site Potential) v1.2.0",
         "type": "image"
@@ -2191,7 +2191,7 @@
         "provider": "U.S. Department of Agriculture's (USDA) U.S. Forest Service (USFS), U.S. Department of the Interior's Geological Survey (USGS), and The Nature Conservancy.",
         "start_date": "2010-01-01",
         "startyear": "2010",
-        "tags": "DOI, Nature-Conservancy, USDA, USGS, fire, landfire, vegetation, wildfire",
+        "tags": "doi, fire, landfire, nature-conservancy, usda, usgs, vegetation, wildfire",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDFIRE_Vegetation_v1_4_0_HI_sample.png",
         "title": "LANDFIRE ESP HI (Environmental Site Potential) v1.2.0",
         "type": "image"
@@ -2204,7 +2204,7 @@
         "provider": "U.S. Department of Agriculture's (USDA) U.S. Forest Service (USFS), U.S. Department of the Interior's Geological Survey (USGS), and The Nature Conservancy.",
         "start_date": "2014-09-01",
         "startyear": "2014",
-        "tags": "DOI, Nature-Conservancy, USDA, USGS, fire, landfire, vegetation, wildfire",
+        "tags": "doi, fire, landfire, nature-conservancy, usda, usgs, vegetation, wildfire",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDFIRE_Vegetation_sample.png",
         "title": "LANDFIRE EVC (Existing Vegetation Cover) v1.4.0",
         "type": "image_collection"
@@ -2217,7 +2217,7 @@
         "provider": "U.S. Department of Agriculture's (USDA) U.S. Forest Service (USFS), U.S. Department of the Interior's Geological Survey (USGS), and The Nature Conservancy.",
         "start_date": "2014-09-01",
         "startyear": "2014",
-        "tags": "DOI, Nature-Conservancy, USDA, USGS, fire, landfire, vegetation, wildfire",
+        "tags": "doi, fire, landfire, nature-conservancy, usda, usgs, vegetation, wildfire",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDFIRE_Vegetation_sample.png",
         "title": "LANDFIRE EVH (Existing Vegetation Height) v1.4.0",
         "type": "image_collection"
@@ -2230,7 +2230,7 @@
         "provider": "U.S. Department of Agriculture's (USDA) U.S. Forest Service (USFS), U.S. Department of the Interior's Geological Survey (USGS), and The Nature Conservancy.",
         "start_date": "2014-09-01",
         "startyear": "2014",
-        "tags": "DOI, Nature-Conservancy, USDA, USGS, fire, landfire, vegetation, wildfire",
+        "tags": "doi, fire, landfire, nature-conservancy, usda, usgs, vegetation, wildfire",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDFIRE_Vegetation_sample.png",
         "title": "LANDFIRE EVT (Existing Vegetation Type) v1.4.0",
         "type": "image_collection"
@@ -2302,7 +2302,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1",
         "provider": "USGS",
@@ -2315,7 +2315,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_32DAY_BAI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_32DAY_BAI",
         "provider": "Google",
@@ -2328,7 +2328,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_32DAY_EVI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_32DAY_EVI",
         "provider": "Google",
@@ -2341,7 +2341,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_32DAY_NBRT",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_32DAY_NBRT",
         "provider": "Google",
@@ -2354,7 +2354,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_32DAY_NDSI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_32DAY_NDSI",
         "provider": "Google",
@@ -2367,7 +2367,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_32DAY_NDVI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_32DAY_NDVI",
         "provider": "Google",
@@ -2380,7 +2380,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_32DAY_NDWI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_32DAY_NDWI",
         "provider": "Google",
@@ -2393,7 +2393,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_32DAY_RAW",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_32DAY_RAW",
         "provider": "USGS/Google",
@@ -2406,7 +2406,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_32DAY_TOA",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_32DAY_TOA",
         "provider": "Google",
@@ -2419,7 +2419,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_8DAY_BAI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_8DAY_BAI",
         "provider": "Google",
@@ -2432,7 +2432,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_8DAY_EVI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_8DAY_EVI",
         "provider": "Google",
@@ -2445,7 +2445,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_8DAY_NBRT",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_8DAY_NBRT",
         "provider": "Google",
@@ -2458,7 +2458,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_8DAY_NDSI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_8DAY_NDSI",
         "provider": "Google",
@@ -2471,7 +2471,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_8DAY_NDVI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_8DAY_NDVI",
         "provider": "Google",
@@ -2484,7 +2484,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_8DAY_NDWI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_8DAY_NDWI",
         "provider": "Google",
@@ -2497,7 +2497,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_8DAY_RAW",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_8DAY_RAW",
         "provider": "USGS/Google",
@@ -2510,7 +2510,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_8DAY_TOA",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_8DAY_TOA",
         "provider": "Google",
@@ -2523,7 +2523,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_ANNUAL_BAI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_ANNUAL_BAI",
         "provider": "Google",
@@ -2536,7 +2536,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_ANNUAL_EVI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_ANNUAL_EVI",
         "provider": "Google",
@@ -2549,7 +2549,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_ANNUAL_GREENEST_TOA",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_ANNUAL_GREENEST_TOA",
         "provider": "Google",
@@ -2562,7 +2562,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_ANNUAL_NBRT",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_ANNUAL_NBRT",
         "provider": "Google",
@@ -2575,7 +2575,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_ANNUAL_NDSI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_ANNUAL_NDSI",
         "provider": "Google",
@@ -2588,7 +2588,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_ANNUAL_NDVI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_ANNUAL_NDVI",
         "provider": "Google",
@@ -2601,7 +2601,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_ANNUAL_NDWI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_ANNUAL_NDWI",
         "provider": "Google",
@@ -2614,7 +2614,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_ANNUAL_RAW",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_ANNUAL_RAW",
         "provider": "USGS/Google",
@@ -2627,7 +2627,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_ANNUAL_TOA",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_ANNUAL_TOA",
         "provider": "Google",
@@ -2640,7 +2640,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_RT",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_RT",
         "provider": "USGS",
@@ -2653,7 +2653,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_RT_TOA",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_RT_TOA",
         "provider": "USGS/Google",
@@ -2666,7 +2666,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_SR",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_SR",
         "provider": "USGS",
@@ -2679,7 +2679,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_TOA",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_TOA",
         "provider": "USGS/Google",
@@ -2692,7 +2692,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T2",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T2",
         "provider": "USGS",
@@ -2705,7 +2705,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T2_SR",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T2_SR",
         "provider": "USGS",
@@ -2718,7 +2718,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T2_TOA",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T2_TOA",
         "provider": "USGS/Google",
@@ -2731,7 +2731,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C02_T1_L2",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C02/T1_L2",
         "provider": "USGS",
@@ -2744,7 +2744,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC8",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LC8",
         "provider": "USGS",
@@ -2757,7 +2757,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC8_L1T",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LC8_L1T",
         "provider": "USGS",
@@ -3108,7 +3108,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1",
         "provider": "USGS",
@@ -3121,7 +3121,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_32DAY_BAI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_32DAY_BAI",
         "provider": "Google",
@@ -3134,7 +3134,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_32DAY_EVI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_32DAY_EVI",
         "provider": "Google",
@@ -3147,7 +3147,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_32DAY_NBRT",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_32DAY_NBRT",
         "provider": "Google",
@@ -3160,7 +3160,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_32DAY_NDSI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_32DAY_NDSI",
         "provider": "Google",
@@ -3173,7 +3173,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_32DAY_NDVI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_32DAY_NDVI",
         "provider": "Google",
@@ -3186,7 +3186,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_32DAY_NDWI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_32DAY_NDWI",
         "provider": "Google",
@@ -3199,7 +3199,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_32DAY_RAW",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_32DAY_RAW",
         "provider": "USGS/Google",
@@ -3212,7 +3212,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_32DAY_TOA",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_32DAY_TOA",
         "provider": "Google",
@@ -3225,7 +3225,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_8DAY_BAI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_8DAY_BAI",
         "provider": "Google",
@@ -3238,7 +3238,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_8DAY_EVI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_8DAY_EVI",
         "provider": "Google",
@@ -3251,7 +3251,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_8DAY_NBRT",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_8DAY_NBRT",
         "provider": "Google",
@@ -3264,7 +3264,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_8DAY_NDSI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_8DAY_NDSI",
         "provider": "Google",
@@ -3277,7 +3277,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_8DAY_NDVI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_8DAY_NDVI",
         "provider": "Google",
@@ -3290,7 +3290,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_8DAY_NDWI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_8DAY_NDWI",
         "provider": "Google",
@@ -3303,7 +3303,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_8DAY_RAW",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_8DAY_RAW",
         "provider": "USGS/Google",
@@ -3316,7 +3316,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_8DAY_TOA",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_8DAY_TOA",
         "provider": "Google",
@@ -3329,7 +3329,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_ANNUAL_BAI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_ANNUAL_BAI",
         "provider": "Google",
@@ -3342,7 +3342,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_ANNUAL_EVI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_ANNUAL_EVI",
         "provider": "Google",
@@ -3355,7 +3355,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_ANNUAL_GREENEST_TOA",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_ANNUAL_GREENEST_TOA",
         "provider": "Google",
@@ -3368,7 +3368,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_ANNUAL_NBRT",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_ANNUAL_NBRT",
         "provider": "Google",
@@ -3381,7 +3381,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_ANNUAL_NDSI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_ANNUAL_NDSI",
         "provider": "Google",
@@ -3394,7 +3394,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_ANNUAL_NDVI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_ANNUAL_NDVI",
         "provider": "Google",
@@ -3407,7 +3407,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_ANNUAL_NDWI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_ANNUAL_NDWI",
         "provider": "Google",
@@ -3420,7 +3420,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_ANNUAL_RAW",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_ANNUAL_RAW",
         "provider": "USGS/Google",
@@ -3433,7 +3433,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_ANNUAL_TOA",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_ANNUAL_TOA",
         "provider": "Google",
@@ -3446,7 +3446,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_RT",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_RT",
         "provider": "USGS",
@@ -3459,7 +3459,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_RT_TOA",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_RT_TOA",
         "provider": "USGS/Google",
@@ -3472,7 +3472,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_SR",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_SR",
         "provider": "USGS",
@@ -3485,7 +3485,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_TOA",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_TOA",
         "provider": "USGS/Google",
@@ -3498,7 +3498,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T2",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T2",
         "provider": "USGS",
@@ -3511,7 +3511,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T2_SR",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T2_SR",
         "provider": "USGS",
@@ -3524,7 +3524,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T2_TOA",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T2_TOA",
         "provider": "USGS/Google",
@@ -3537,7 +3537,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE7",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LE7",
         "provider": "USGS",
@@ -3550,7 +3550,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE7_L1T",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LE7_L1T",
         "provider": "USGS",
@@ -4200,7 +4200,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LO08_C01_T1",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LO08/C01/T1",
         "provider": "USGS",
@@ -4213,7 +4213,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LO08_C01_T1_RT",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LO08/C01/T1_RT",
         "provider": "USGS",
@@ -4226,7 +4226,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LO08_C01_T2",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LO08/C01/T2",
         "provider": "USGS",
@@ -5045,7 +5045,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LT08_C01_T2",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "LANDSAT/LT08/C01/T2",
         "provider": "USGS",
@@ -5838,7 +5838,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MCD12Q1",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MCD12Q1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -5851,7 +5851,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MCD12Q2",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MCD12Q2",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -5864,7 +5864,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MCD15A3H",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MCD15A3H",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -5877,7 +5877,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MCD19A2_GRANULES",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MCD19A2_GRANULES",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -5890,7 +5890,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MCD43A1",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MCD43A1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -5903,7 +5903,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MCD43A2",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MCD43A2",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -5916,7 +5916,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MCD43A3",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MCD43A3",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -5929,7 +5929,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MCD43A4",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MCD43A4",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -5942,7 +5942,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MCD43C3",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MCD43C3",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -5955,7 +5955,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MCD64A1",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MCD64A1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -5968,7 +5968,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD08_M3",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MOD08_M3",
         "provider": "NASA LAADS DAAC at NASA Goddard Space Flight Center",
@@ -5981,7 +5981,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD09A1",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MOD09A1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -5994,7 +5994,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD09GA",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MOD09GA",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6007,7 +6007,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD09GQ",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MOD09GQ",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6020,7 +6020,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD09Q1",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MOD09Q1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6033,7 +6033,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD10A1",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MOD10A1",
         "provider": "NASA NSIDC DAAC at CIRES",
@@ -6046,7 +6046,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD11A1",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MOD11A1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6059,7 +6059,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD11A2",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MOD11A2",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6072,7 +6072,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD13A1",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MOD13A1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6085,7 +6085,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD13A2",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MOD13A2",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6098,7 +6098,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD13Q1",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MOD13Q1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6111,7 +6111,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD14A1",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MOD14A1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6124,7 +6124,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD14A2",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MOD14A2",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6137,7 +6137,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD15A2H",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MOD15A2H",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6150,7 +6150,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD16A2",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MOD16A2",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6163,7 +6163,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD17A2H",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MOD17A2H",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6176,7 +6176,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD17A3H",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MOD17A3H",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6189,7 +6189,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD17A3HGF",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MOD17A3HGF",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6202,7 +6202,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD44B",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MOD44B",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6215,7 +6215,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD44W",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MOD44W",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6228,7 +6228,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MODOCGA",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MODOCGA",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6241,7 +6241,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MYD08_M3",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MYD08_M3",
         "provider": "NASA LAADS DAAC at NASA Goddard Space Flight Center",
@@ -6254,7 +6254,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MYD09A1",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MYD09A1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6267,7 +6267,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MYD09GA",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MYD09GA",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6280,7 +6280,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MYD09GQ",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MYD09GQ",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6293,7 +6293,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MYD09Q1",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MYD09Q1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6306,7 +6306,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MYD10A1",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MYD10A1",
         "provider": "NASA NSIDC DAAC at CIRES",
@@ -6319,7 +6319,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MYD11A1",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MYD11A1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6332,7 +6332,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MYD11A2",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MYD11A2",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6345,7 +6345,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MYD13A1",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MYD13A1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6358,7 +6358,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MYD13A2",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MYD13A2",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6371,7 +6371,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MYD13Q1",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MYD13Q1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6384,7 +6384,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MYD14A1",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MYD14A1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6397,7 +6397,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MYD14A2",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MYD14A2",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6410,7 +6410,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MYD15A2H",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MYD15A2H",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6423,7 +6423,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MYD17A2H",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MYD17A2H",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6436,7 +6436,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MYD17A3H",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MYD17A3H",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6449,7 +6449,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MYD17A3HGF",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MYD17A3HGF",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6462,7 +6462,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MYDOCGA",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/006/MYDOCGA",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6475,7 +6475,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_055_MOD17A3",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/055/MOD17A3",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6488,7 +6488,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD08_M3",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/061/MOD08_M3",
         "provider": "NASA LAADS DAAC at NASA Goddard Space Flight Center",
@@ -6501,7 +6501,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MYD08_M3",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/061/MYD08_M3",
         "provider": "NASA LAADS DAAC at NASA Goddard Space Flight Center",
@@ -6553,7 +6553,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_MCD43A4_006_BAI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/MCD43A4_006_BAI",
         "provider": "Google",
@@ -6566,7 +6566,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_MCD43A4_006_EVI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/MCD43A4_006_EVI",
         "provider": "Google",
@@ -6579,7 +6579,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_MCD43A4_006_NDSI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/MCD43A4_006_NDSI",
         "provider": "Google",
@@ -6592,7 +6592,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_MCD43A4_006_NDVI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/MCD43A4_006_NDVI",
         "provider": "Google",
@@ -6605,7 +6605,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_MCD43A4_006_NDWI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/MCD43A4_006_NDWI",
         "provider": "Google",
@@ -6709,7 +6709,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_MOD09GA_006_BAI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/MOD09GA_006_BAI",
         "provider": "Google",
@@ -6722,7 +6722,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_MOD09GA_006_EVI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/MOD09GA_006_EVI",
         "provider": "Google",
@@ -6735,7 +6735,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_MOD09GA_006_NDSI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/MOD09GA_006_NDSI",
         "provider": "Google",
@@ -6748,7 +6748,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_MOD09GA_006_NDVI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/MOD09GA_006_NDVI",
         "provider": "Google",
@@ -6761,7 +6761,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_MOD09GA_006_NDWI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/MOD09GA_006_NDWI",
         "provider": "Google",
@@ -6904,7 +6904,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_MOD13A1",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/MOD13A1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6917,7 +6917,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_MOD13Q1",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/MOD13Q1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6969,7 +6969,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_MYD09GA_006_BAI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/MYD09GA_006_BAI",
         "provider": "Google",
@@ -6982,7 +6982,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_MYD09GA_006_EVI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/MYD09GA_006_EVI",
         "provider": "Google",
@@ -6995,7 +6995,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_MYD09GA_006_NDSI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/MYD09GA_006_NDSI",
         "provider": "Google",
@@ -7008,7 +7008,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_MYD09GA_006_NDVI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/MYD09GA_006_NDVI",
         "provider": "Google",
@@ -7021,7 +7021,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_MYD09GA_006_NDWI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/MYD09GA_006_NDWI",
         "provider": "Google",
@@ -7164,7 +7164,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_MYD13A1",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/MYD13A1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -7177,7 +7177,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_MYD13Q1",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "MODIS/MYD13Q1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -7216,7 +7216,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_FLDAS_NOAH01_C_GL_M_V001",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NASA/FLDAS/NOAH01/C/GL/M/V001",
         "provider": "NASA GES DISC at NASA Goddard Space Flight Center",
@@ -7242,7 +7242,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_GLDAS_V021_NOAH_G025_T3H",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NASA/GLDAS/V021/NOAH/G025/T3H",
         "provider": "NASA GES DISC at NASA Goddard Space Flight Center",
@@ -7268,7 +7268,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_GPM_L3_IMERG_MONTHLY_V06",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NASA/GPM_L3/IMERG_MONTHLY_V06",
         "provider": "NASA GES DISC at NASA Goddard Space Flight Center",
@@ -7281,7 +7281,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_GPM_L3_IMERG_V06",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NASA/GPM_L3/IMERG_V06",
         "provider": "NASA GES DISC at NASA Goddard Space Flight Center",
@@ -7300,7 +7300,7 @@
         "provider": "NASA Jet Propulsion Laboratory",
         "start_date": "2002-04-01",
         "startyear": "2002",
-        "tags": "CRS, GFZ, JPL, NASA, grace, gravity, land, mass, tellus, water",
+        "tags": "crs, gfz, grace, gravity, jpl, land, mass, nasa, tellus, water",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/GRACE_sample.png",
         "title": "GRACE Monthly Mass Grids - Land",
         "type": "image_collection"
@@ -7313,7 +7313,7 @@
         "provider": "NASA Jet Propulsion Laboratory",
         "start_date": "2002-04-01",
         "startyear": "2002",
-        "tags": "JPL, NASA, grace, gravity, mascon, mass, tellus, water",
+        "tags": "grace, gravity, jpl, mascon, mass, nasa, tellus, water",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/GRACE_MASCON_sample.png",
         "title": "GRACE Monthly Mass Grids - Global Mascons",
         "type": "image_collection"
@@ -7326,7 +7326,7 @@
         "provider": "NASA Jet Propulsion Laboratory",
         "start_date": "2002-03-31",
         "startyear": "2002",
-        "tags": "JPL, NASA, grace, gravity, mascon, mass, tellus, water",
+        "tags": "grace, gravity, jpl, mascon, mass, nasa, tellus, water",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/GRACE_MASCON_sample.png",
         "title": "GRACE Monthly Mass Grids - Global Mascon (CRI Filtered)",
         "type": "image_collection"
@@ -7339,7 +7339,7 @@
         "provider": "NASA Jet Propulsion Laboratory",
         "start_date": "2002-07-31",
         "startyear": "2002",
-        "tags": "CRS, GFZ, JPL, NASA, grace, gravity, mass, ocean, tellus, water",
+        "tags": "crs, gfz, grace, gravity, jpl, mass, nasa, ocean, tellus, water",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/GRACE_OCEAN_sample.png",
         "title": "GRACE Monthly Mass Grids - Ocean",
         "type": "image_collection"
@@ -7352,7 +7352,7 @@
         "provider": "NASA Jet Propulsion Laboratory",
         "start_date": "2002-12-31",
         "startyear": "2002",
-        "tags": "CRS, GFZ, JPL, NASA, grace, gravity, mass, ocean, tellus, water",
+        "tags": "crs, gfz, grace, gravity, jpl, mass, nasa, ocean, tellus, water",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/GRACE_OCEAN_sample.png",
         "title": "GRACE Monthly Mass Grids - Ocean EOFR",
         "type": "image_collection"
@@ -7365,7 +7365,7 @@
         "provider": "NASA/JPL",
         "start_date": "2005-05-20",
         "startyear": "2005",
-        "tags": "JPL, NASA, canopy, forest, geophysical, glas, height, tree",
+        "tags": "canopy, forest, geophysical, glas, height, jpl, nasa, tree",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NASA_JPL_global_forest_canopy_height_2005_sample.png",
         "title": "Global Forest Canopy Height, 2005",
         "type": "image"
@@ -7437,7 +7437,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_NLDAS_FORA0125_H002",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NASA/NLDAS/FORA0125_H002",
         "provider": "NASA GES DISC at NASA Goddard Space Flight Center",
@@ -7450,7 +7450,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_OCEANDATA_MODIS-Aqua_L3SMI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NASA/OCEANDATA/MODIS-Aqua/L3SMI",
         "provider": "NASA OB.DAAC at NASA Goddard Space Flight Center",
@@ -7463,7 +7463,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_OCEANDATA_MODIS-Terra_L3SMI",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NASA/OCEANDATA/MODIS-Terra/L3SMI",
         "provider": "NASA OB.DAAC at NASA Goddard Space Flight Center",
@@ -7489,7 +7489,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_ORNL_DAYMET_V3",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NASA/ORNL/DAYMET_V3",
         "provider": "NASA ORNL DAAC at Oak Ridge National Laboratory",
@@ -7502,7 +7502,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_ORNL_DAYMET_V4",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NASA/ORNL/DAYMET_V4",
         "provider": "NASA ORNL DAAC at Oak Ridge National Laboratory",
@@ -7528,7 +7528,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_USDA_HSL_SMAP10KM_soil_moisture",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NASA_USDA/HSL/SMAP10KM_soil_moisture",
         "provider": "NASA GSFC",
@@ -7541,7 +7541,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_USDA_HSL_SMAP_soil_moisture",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NASA_USDA/HSL/SMAP_soil_moisture",
         "provider": "NASA GSFC",
@@ -7554,7 +7554,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_USDA_HSL_soil_moisture",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NASA_USDA/HSL/soil_moisture",
         "provider": "NASA GSFC",
@@ -7567,7 +7567,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NCEP_RE_sea_level_pressure",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NCEP_RE/sea_level_pressure",
         "provider": "NCEP",
@@ -7580,7 +7580,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NCEP_RE_surface_temp",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NCEP_RE/surface_temp",
         "provider": "NCEP",
@@ -7593,7 +7593,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NCEP_RE_surface_wv",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NCEP_RE/surface_wv",
         "provider": "NCEP",
@@ -7606,7 +7606,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CDR_ATMOS_NEAR_SURFACE_V2",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NOAA/CDR/ATMOS_NEAR_SURFACE/V2",
         "provider": "NOAA",
@@ -7619,7 +7619,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CDR_AVHRR_AOT_V3",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NOAA/CDR/AVHRR/AOT/V3",
         "provider": "NOAA",
@@ -7632,7 +7632,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CDR_AVHRR_LAI_FAPAR_V4",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NOAA/CDR/AVHRR/LAI_FAPAR/V4",
         "provider": "NOAA",
@@ -7645,7 +7645,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CDR_AVHRR_LAI_FAPAR_V5",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NOAA/CDR/AVHRR/LAI_FAPAR/V5",
         "provider": "NOAA",
@@ -7658,7 +7658,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CDR_AVHRR_NDVI_V4",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NOAA/CDR/AVHRR/NDVI/V4",
         "provider": "NOAA",
@@ -7671,7 +7671,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CDR_AVHRR_NDVI_V5",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NOAA/CDR/AVHRR/NDVI/V5",
         "provider": "NOAA",
@@ -7684,7 +7684,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CDR_AVHRR_SR_V4",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NOAA/CDR/AVHRR/SR/V4",
         "provider": "NOAA",
@@ -7697,7 +7697,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CDR_AVHRR_SR_V5",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NOAA/CDR/AVHRR/SR/V5",
         "provider": "NOAA",
@@ -7710,20 +7710,20 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CDR_GRIDSAT-B1_V2",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NOAA/CDR/GRIDSAT-B1/V2",
         "provider": "NOAA",
         "start_date": "1980-01-01",
         "startyear": "1980",
-        "tags": "ISCCP, brightness, cdr, fundamental, geostationary, infrared, noaa, reflectance, sr",
+        "tags": "brightness, cdr, fundamental, geostationary, infrared, isccp, noaa, reflectance, sr",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NOAA_CDR_GRIDSAT_sample.png",
         "title": "NOAA CDR GRIDSAT-B1: Geostationary IR Channel Brightness Temperature",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CDR_HEAT_FLUXES_V2",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NOAA/CDR/HEAT_FLUXES/V2",
         "provider": "NOAA",
@@ -7736,7 +7736,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CDR_OISST_V2",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NOAA/CDR/OISST/V2",
         "provider": "NOAA",
@@ -7749,7 +7749,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CDR_OISST_V2_1",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NOAA/CDR/OISST/V2_1",
         "provider": "NOAA",
@@ -7762,20 +7762,20 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CDR_PATMOSX_V53",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NOAA/CDR/PATMOSX/V53",
         "provider": "NOAA",
         "start_date": "1979-01-01",
         "startyear": "1979",
-        "tags": "METOP, POES, atmospheric, avhrr, brightness, cdr, cloud, noaa, optical, reflectance, temperature",
+        "tags": "atmospheric, avhrr, brightness, cdr, cloud, metop, noaa, optical, poes, reflectance, temperature",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/PATMOSX_sample.png",
         "title": "NOAA CDR PATMOSX: Cloud Properties, Reflectance, and Brightness Temperatures, Version 5.3",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CDR_SST_PATHFINDER_V53",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NOAA/CDR/SST_PATHFINDER/V53",
         "provider": "NOAA",
@@ -7788,7 +7788,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CDR_SST_WHOI_V2",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NOAA/CDR/SST_WHOI/V2",
         "provider": "NOAA",
@@ -7801,7 +7801,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CFSR",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NOAA/CFSR",
         "provider": "NOAA NWS National Centers for Environmental Prediction (NCEP)",
@@ -7814,7 +7814,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CFSV2_FOR6H",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NOAA/CFSV2/FOR6H",
         "provider": "NOAA NWS National Centers for Environmental Prediction (NCEP)",
@@ -7853,7 +7853,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GFS0P25",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NOAA/GFS0P25",
         "provider": "NOAA/NCEP/EMC",
@@ -7866,7 +7866,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_16_FDCC",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NOAA/GOES/16/FDCC",
         "provider": "NOAA",
@@ -7879,7 +7879,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_16_FDCF",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NOAA/GOES/16/FDCF",
         "provider": "NOAA",
@@ -7892,7 +7892,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_16_MCMIPC",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NOAA/GOES/16/MCMIPC",
         "provider": "NOAA",
@@ -7905,7 +7905,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_16_MCMIPF",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NOAA/GOES/16/MCMIPF",
         "provider": "NOAA",
@@ -7918,7 +7918,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_16_MCMIPM",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NOAA/GOES/16/MCMIPM",
         "provider": "NOAA",
@@ -7931,7 +7931,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_17_FDCC",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NOAA/GOES/17/FDCC",
         "provider": "NOAA",
@@ -7944,7 +7944,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_17_FDCF",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NOAA/GOES/17/FDCF",
         "provider": "NOAA",
@@ -7957,7 +7957,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_17_MCMIPC",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NOAA/GOES/17/MCMIPC",
         "provider": "NOAA",
@@ -7970,7 +7970,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_17_MCMIPF",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NOAA/GOES/17/MCMIPF",
         "provider": "NOAA",
@@ -7983,7 +7983,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_17_MCMIPM",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NOAA/GOES/17/MCMIPM",
         "provider": "NOAA",
@@ -7996,7 +7996,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_NCEP_DOE_RE2_total_cloud_coverage",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NOAA/NCEP_DOE_RE2/total_cloud_coverage",
         "provider": "NOAA",
@@ -8048,7 +8048,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_NWS_RTMA",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NOAA/NWS/RTMA",
         "provider": "NOAA/NWS",
@@ -8061,7 +8061,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_PERSIANN-CDR",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NOAA/PERSIANN-CDR",
         "provider": "NOAA NCDC",
@@ -8074,7 +8074,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_VIIRS_001_VNP09GA",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NOAA/VIIRS/001/VNP09GA",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -8087,7 +8087,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_VIIRS_001_VNP13A1",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NOAA/VIIRS/001/VNP13A1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -8100,7 +8100,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_VIIRS_DNB_MONTHLY_V1_VCMCFG",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NOAA/VIIRS/DNB/MONTHLY_V1/VCMCFG",
         "provider": "Earth Observation Group, Payne Institute for Public Policy, Colorado School of Mines",
@@ -8113,7 +8113,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_VIIRS_DNB_MONTHLY_V1_VCMSLCFG",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "NOAA/VIIRS/DNB/MONTHLY_V1/VCMSLCFG",
         "provider": "Earth Observation Group, Payne Institute for Public Policy, Colorado School of Mines",
@@ -8139,26 +8139,26 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/OREGONSTATE_PRISM_AN81d",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "OREGONSTATE/PRISM/AN81d",
         "provider": "PRISM / OREGONSTATE",
         "start_date": "1981-01-01",
         "startyear": "1981",
-        "tags": "PRISM, climate, daily, geophysical, monthly, oregonstate, precipitation, pressure, temperature, vapor, weather",
+        "tags": "climate, daily, geophysical, monthly, oregonstate, precipitation, pressure, prism, temperature, vapor, weather",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/PRISM_sample.png",
         "title": "PRISM Daily Spatial Climate Dataset AN81d",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/OREGONSTATE_PRISM_AN81m",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "OREGONSTATE/PRISM/AN81m",
         "provider": "PRISM / OREGONSTATE",
         "start_date": "1895-01-01",
         "startyear": "1895",
-        "tags": "PRISM, climate, geophysical, monthly, monthly, oregonstate, precipitation, pressure, temperature, vapor, weather",
+        "tags": "climate, geophysical, monthly, monthly, oregonstate, precipitation, pressure, prism, temperature, vapor, weather",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/PRISM_sample.png",
         "title": "PRISM Monthly Spatial Climate Dataset AN81m",
         "type": "image_collection"
@@ -8171,7 +8171,7 @@
         "provider": "PRISM / OREGONSTATE",
         "start_date": "1981-01-01",
         "startyear": "1981",
-        "tags": "30-Year, PRISM, climate, geophysical, monthly, oregonstate, precipitation, pressure, temperature, vapor, weather",
+        "tags": "30-year, climate, geophysical, monthly, oregonstate, precipitation, pressure, prism, temperature, vapor, weather",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/PRISM_sample.png",
         "title": "PRISM Long-Term Average Climate Dataset Norm81m",
         "type": "image_collection"
@@ -8184,7 +8184,7 @@
         "provider": "NASA NSIDC DAAC at CIRES",
         "start_date": "1999-06-30",
         "startyear": "1999",
-        "tags": "GIMP, NASA, arctic, greenland, ice, mask, polar",
+        "tags": "arctic, gimp, greenland, ice, mask, nasa, polar",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/GIMP_ICE_OCEAN_MASK_sample.png",
         "title": "Greenland Ice & Ocean Mask - Greenland Mapping Project (GIMP)",
         "type": "image"
@@ -8197,7 +8197,7 @@
         "provider": "NASA NSIDC DAAC at CIRES",
         "start_date": "1999-06-30",
         "startyear": "1999",
-        "tags": "GIMP, NASA, RADARSAT-1, arctic, greenland, imagery, polar",
+        "tags": "arctic, gimp, greenland, imagery, nasa, polar, radarsat-1",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/GIMP_IMAGE_MOSAIC_sample.png",
         "title": "2000 Greenland Mosaic - Greenland Ice Mapping Project (GIMP)",
         "type": "image"
@@ -8210,7 +8210,7 @@
         "provider": "NASA NSIDC DAAC at CIRES",
         "start_date": "1999-06-30",
         "startyear": "1999",
-        "tags": "GIMP, NASA, arctic, greenland, polar",
+        "tags": "arctic, gimp, greenland, nasa, polar",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/GIMP_DEM_sample.png",
         "title": "Greenland DEM - Greenland Mapping Project (GIMP)",
         "type": "image"
@@ -8223,7 +8223,7 @@
         "provider": "NASA NSIDC DAAC at CIRES",
         "start_date": "1985-03-01",
         "startyear": "1985",
-        "tags": "GIMP, NASA, arctic, greenland, ice, polar, velocity",
+        "tags": "arctic, gimp, greenland, ice, nasa, polar, velocity",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/GIMP_ICE_VELOCITY_sample.png",
         "title": "MEaSUREs Greenland Ice Velocity: Selected Glacier Site Velocity Maps from Optical Images Version 2",
         "type": "image_collection"
@@ -8236,7 +8236,7 @@
         "provider": "EnvirometriX Ltd",
         "start_date": "2000-01-01",
         "startyear": "2000",
-        "tags": "EnvirometriX, OpenGeoHub, OpenLandMap, day, lst, mod11a2, modis, monthly, night",
+        "tags": "day, envirometrix, lst, mod11a2, modis, monthly, night, opengeohub, openlandmap",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/OpenLandMap_CLM_CLM_LST_MOD11A2-DAYNIGHT_M_v01_sample.png",
         "title": "OpenLandMap Long-term Land Surface Temperature monthly day-night difference",
         "type": "image"
@@ -8249,7 +8249,7 @@
         "provider": "EnvirometriX Ltd",
         "start_date": "2000-01-01",
         "startyear": "2000",
-        "tags": "EnvirometriX, OpenGeoHub, OpenLandMap, lst, mod11a2, modis, monthly",
+        "tags": "envirometrix, lst, mod11a2, modis, monthly, opengeohub, openlandmap",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/OpenLandMap_CLM_CLM_LST_MOD11A2-DAY_M_v01_sample.png",
         "title": "OpenLandMap Long-term Land Surface Temperature daytime monthly median",
         "type": "image"
@@ -8262,7 +8262,7 @@
         "provider": "EnvirometriX Ltd",
         "start_date": "2000-01-01",
         "startyear": "2000",
-        "tags": "EnvirometriX, OpenGeoHub, OpenLandMap, lst, mod11a2, modis, monthly",
+        "tags": "envirometrix, lst, mod11a2, modis, monthly, opengeohub, openlandmap",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/OpenLandMap_CLM_CLM_LST_MOD11A2-DAY_SD_v01_sample.png",
         "title": "OpenLandMap Long-term Land Surface Temperature daytime monthly standard deviation",
         "type": "image"
@@ -8275,7 +8275,7 @@
         "provider": "EnvirometriX Ltd",
         "start_date": "2007-01-01",
         "startyear": "2007",
-        "tags": "EnvirometriX, OpenGeoHub, OpenLandMap, imerg, monthly, precipitation",
+        "tags": "envirometrix, imerg, monthly, opengeohub, openlandmap, precipitation",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/OpenLandMap_CLM_CLM_PRECIPITATION_SM2RAIN_M_v01_sample.png",
         "title": "OpenLandMap Precipitation monthly",
         "type": "image"
@@ -8288,7 +8288,7 @@
         "provider": "EnvirometriX Ltd",
         "start_date": "2001-01-01",
         "startyear": "2001",
-        "tags": "EnvirometriX, OpenGeoHub, OpenLandMap, biome, potential",
+        "tags": "biome, envirometrix, opengeohub, openlandmap, potential",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/OpenLandMap_PNV_PNV_BIOME-TYPE_BIOME00K_C_v01_sample.png",
         "title": "OpenLandMap Potential distribution of biomes",
         "type": "image"
@@ -8301,7 +8301,7 @@
         "provider": "EnvirometriX Ltd",
         "start_date": "2001-01-01",
         "startyear": "2001",
-        "tags": "EnvirometriX, OpenGeoHub, OpenLandMap, fapar, monthly, potential",
+        "tags": "envirometrix, fapar, monthly, opengeohub, openlandmap, potential",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/OpenLandMap_PNV_PNV_FAPAR_PROBA-V_D_v01_sample.png",
         "title": "OpenLandMap Potential FAPAR monthly",
         "type": "image"
@@ -8314,7 +8314,7 @@
         "provider": "EnvirometriX Ltd",
         "start_date": "1950-01-01",
         "startyear": "1950",
-        "tags": "EnvirometriX, OpenGeoHub, OpenLandMap, bulk, density, soil",
+        "tags": "bulk, density, envirometrix, opengeohub, openlandmap, soil",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/OpenLandMap_SOL_SOL_BULKDENS-FINEEARTH_USDA-4A1H_M_v02_sample.png",
         "title": "OpenLandMap Soil bulk density",
         "type": "image"
@@ -8327,7 +8327,7 @@
         "provider": "EnvirometriX Ltd",
         "start_date": "1950-01-01",
         "startyear": "1950",
-        "tags": "EnvirometriX, OpenGeoHub, OpenLandMap, clay, soil, usda",
+        "tags": "clay, envirometrix, opengeohub, openlandmap, soil, usda",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/OpenLandMap_SOL_SOL_CLAY-WFRACTION_USDA-3A1A1A_M_v02_sample.png",
         "title": "OpenLandMap Clay content",
         "type": "image"
@@ -8340,7 +8340,7 @@
         "provider": "EnvirometriX Ltd",
         "start_date": "1950-01-01",
         "startyear": "1950",
-        "tags": "EnvirometriX, OpenGeoHub, OpenLandMap, argillic, hapludalfs",
+        "tags": "argillic, envirometrix, hapludalfs, opengeohub, openlandmap",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/OpenLandMap_SOL_SOL_GRTGROUP_USDA-SOILTAX-HAPLUDALFS_P_v01_sample.png",
         "title": "OpenLandMap predicted Hapludalfs probability",
         "type": "image"
@@ -8353,7 +8353,7 @@
         "provider": "EnvirometriX Ltd",
         "start_date": "1950-01-01",
         "startyear": "1950",
-        "tags": "EnvirometriX, OpenGeoHub, OpenLandMap, soil, taxonomy, usda",
+        "tags": "envirometrix, opengeohub, openlandmap, soil, taxonomy, usda",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/OpenLandMap_SOL_SOL_GRTGROUP_USDA-SOILTAX_C_v01_sample.png",
         "title": "OpenLandMap USDA soil taxonomy great groups",
         "type": "image"
@@ -8366,7 +8366,7 @@
         "provider": "EnvirometriX Ltd",
         "start_date": "1950-01-01",
         "startyear": "1950",
-        "tags": "EnvirometriX, OpenGeoHub, OpenLandMap, carbon, organic, soil",
+        "tags": "carbon, envirometrix, opengeohub, openlandmap, organic, soil",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/OpenLandMap_SOL_SOL_ORGANIC-CARBON_USDA-6A1C_M_v02_sample.png",
         "title": "OpenLandMap Soil organic carbon content",
         "type": "image"
@@ -8379,7 +8379,7 @@
         "provider": "EnvirometriX Ltd",
         "start_date": "1950-01-01",
         "startyear": "1950",
-        "tags": "EnvirometriX, OpenGeoHub, OpenLandMap, ph, soil",
+        "tags": "envirometrix, opengeohub, openlandmap, ph, soil",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/OpenLandMap_SOL_SOL_PH-H2O_USDA-4C1A2A_M_v02_sample.png",
         "title": "OpenLandMap Soil pH in H2O",
         "type": "image"
@@ -8392,7 +8392,7 @@
         "provider": "EnvirometriX Ltd",
         "start_date": "1950-01-01",
         "startyear": "1950",
-        "tags": "EnvirometriX, OpenGeoHub, OpenLandMap, sand, soil, usda",
+        "tags": "envirometrix, opengeohub, openlandmap, sand, soil, usda",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/OpenLandMap_SOL_SOL_SAND-WFRACTION_USDA-3A1A1A_M_v02_sample.png",
         "title": "OpenLandMap Sand content",
         "type": "image"
@@ -8405,7 +8405,7 @@
         "provider": "EnvirometriX Ltd",
         "start_date": "1950-01-01",
         "startyear": "1950",
-        "tags": "EnvirometriX, OpenGeoHub, OpenLandMap, soil, texture, usda",
+        "tags": "envirometrix, opengeohub, openlandmap, soil, texture, usda",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/OpenLandMap_SOL_SOL_TEXTURE-CLASS_USDA-TT_M_v02_sample.png",
         "title": "OpenLandMap Soil texture class (USDA system)",
         "type": "image"
@@ -8418,7 +8418,7 @@
         "provider": "EnvirometriX Ltd",
         "start_date": "1950-01-01",
         "startyear": "1950",
-        "tags": "EnvirometriX, OpenGeoHub, OpenLandMap, soil, watercontent",
+        "tags": "envirometrix, opengeohub, openlandmap, soil, watercontent",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/OpenLandMap_SOL_SOL_WATERCONTENT-33KPA_USDA-4B1C_M_v01_sample.png",
         "title": "OpenLandMap Soil water content at 33kPa (field capacity)",
         "type": "image"
@@ -8698,7 +8698,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/TOMS_MERGED",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "TOMS/MERGED",
         "provider": "NASA / GES DISC",
@@ -8711,7 +8711,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/TRMM_3B42",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "TRMM/3B42",
         "provider": "NASA GES DISC at NASA Goddard Space Flight Center",
@@ -8724,7 +8724,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/TRMM_3B43V7",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "TRMM/3B43V7",
         "provider": "NASA GES DISC at NASA Goddard Space Flight Center",
@@ -8756,14 +8756,14 @@
         "provider": "Tsinghua University",
         "start_date": "1985-01-01",
         "startyear": "1985",
-        "tags": "Tsinghua, built, development, impervious, urban",
+        "tags": "built, development, impervious, tsinghua, urban",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/Tsinghua_FROM-GLC_GAIA_v10_sample.png",
         "title": "Tsinghua FROM-GLC year of change to impervious surface",
         "type": "image"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/UCSB-CHG_CHIRPS_DAILY",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "UCSB-CHG/CHIRPS/DAILY",
         "provider": "UCSB/CHG",
@@ -8776,7 +8776,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/UCSB-CHG_CHIRPS_PENTAD",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "UCSB-CHG/CHIRPS/PENTAD",
         "provider": "UCSB/CHG",
@@ -9010,20 +9010,20 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/UMT_Climate_IrrMapper_RF_v1_0",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "UMT/Climate/IrrMapper_RF/v1_0",
         "provider": "University of Montana / Montana Climate Office",
         "start_date": "1986-01-01",
         "startyear": "1986",
-        "tags": "Irrigated_land, landsat-derived",
+        "tags": "irrigated_land, landsat-derived",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/UMT_Climate_IrrMapper_RF_v1_0_sample.png",
         "title": "IrrMapper Irrigated Lands",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/UMT_NTSG_v2_LANDSAT_GPP",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "UMT/NTSG/v2/LANDSAT/GPP",
         "provider": "University of Montana Numerical Terradynamic Simulation Group (NTSG)",
@@ -9036,7 +9036,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/UMT_NTSG_v2_LANDSAT_NPP",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "UMT/NTSG/v2/LANDSAT/NPP",
         "provider": "University of Montana Numerical Terradynamic Simulation Group (NTSG)",
@@ -9049,7 +9049,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/UMT_NTSG_v2_MODIS_GPP",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "UMT/NTSG/v2/MODIS/GPP",
         "provider": "University of Montana Numerical Terradynamic Simulation Group (NTSG)",
@@ -9062,7 +9062,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/UMT_NTSG_v2_MODIS_NPP",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "UMT/NTSG/v2/MODIS/NPP",
         "provider": "University of Montana Numerical Terradynamic Simulation Group (NTSG)",
@@ -9127,7 +9127,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/USDA_NASS_CDL",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "USDA/NASS/CDL",
         "provider": "USDA National Agricultural Statistics Service",
@@ -9185,7 +9185,7 @@
         "provider": "USDA Forest Service (USFS) Geospatial Technology and Applications Center (GTAC)",
         "start_date": "1985-06-01",
         "startyear": "1985",
-        "tags": "GTAC, LCMS, RMRS, USDA, USFS, change, change-detection, forest, landcover, landsat-derived, landuse, redcastle-resources, sentinel2-derived, time-series",
+        "tags": "change, change-detection, forest, gtac, landcover, landsat-derived, landuse, lcms, redcastle-resources, rmrs, sentinel2-derived, time-series, usda, usfs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/USFS_GTAC_LCMS_v2020_5_sample.png",
         "title": "USFS Landscape Change Monitoring System v2020.5",
         "type": "image_collection"
@@ -9237,7 +9237,7 @@
         "provider": "US Geological Survey",
         "start_date": "2018-09-01",
         "startyear": "2018",
-        "tags": "USGS, conservation-easements, designation, management, ownership, protected-areas, public-lands",
+        "tags": "conservation-easements, designation, management, ownership, protected-areas, public-lands, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/USGS_GAP_PAD-US_v20_designation_sample.png",
         "title": "Designation: USGS GAP PAD-US v2.0",
         "type": "table"
@@ -9250,7 +9250,7 @@
         "provider": "US Geological Survey",
         "start_date": "2018-09-01",
         "startyear": "2018",
-        "tags": "USGS, conservation-easements, designation, management, ownership, protected-areas, public-lands",
+        "tags": "conservation-easements, designation, management, ownership, protected-areas, public-lands, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/USGS_GAP_PAD-US_v20_easement_sample.png",
         "title": "Easement: USGS GAP PAD-US v2.0",
         "type": "table"
@@ -9263,7 +9263,7 @@
         "provider": "US Geological Survey",
         "start_date": "2018-09-01",
         "startyear": "2018",
-        "tags": "USGS, conservation-easements, designation, management, ownership, protected-areas, public-lands",
+        "tags": "conservation-easements, designation, management, ownership, protected-areas, public-lands, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/USGS_GAP_PAD-US_v20_fee_sample.png",
         "title": "Fee: USGS GAP PAD-US v2.0",
         "type": "table"
@@ -9276,7 +9276,7 @@
         "provider": "US Geological Survey",
         "start_date": "2018-09-01",
         "startyear": "2018",
-        "tags": "USGS, conservation-easements, designation, management, ownership, protected-areas, public-lands",
+        "tags": "conservation-easements, designation, management, ownership, protected-areas, public-lands, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/USGS_GAP_PAD-US_v20_proclamation_sample.png",
         "title": "Proclamation: USGS GAP PAD-US v2.0",
         "type": "table"
@@ -9504,7 +9504,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/UTOKYO_WTLAB_KBDI_v1",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "UTOKYO/WTLAB/KBDI/v1",
         "provider": "Institute of Industrial Science, The University of Tokyo, Japan",
@@ -9517,78 +9517,78 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/VITO_PROBAV_C1_S1_TOC_100M",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "VITO/PROBAV/C1/S1_TOC_100M",
         "provider": "Vito / ESA",
         "start_date": "2013-10-17",
         "startyear": "2013",
-        "tags": "ESA, multispectral, nir, proba, probav, swir, vito",
+        "tags": "esa, multispectral, nir, proba, probav, swir, vito",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/VITO_PROBAV_sample.png",
         "title": "PROBA-V C1 Top Of Canopy Daily Synthesis 100m",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/VITO_PROBAV_C1_S1_TOC_333M",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "VITO/PROBAV/C1/S1_TOC_333M",
         "provider": "Vito / ESA",
         "start_date": "2013-10-17",
         "startyear": "2013",
-        "tags": "ESA, multispectral, nir, proba, probav, swir, vito",
+        "tags": "esa, multispectral, nir, proba, probav, swir, vito",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/VITO_PROBAV_sample.png",
         "title": "PROBA-V C1 Top Of Canopy Daily Synthesis 333m",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/VITO_PROBAV_S1_TOC_100M",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "VITO/PROBAV/S1_TOC_100M",
         "provider": "Vito / ESA",
         "start_date": "2013-10-17",
         "startyear": "2013",
-        "tags": "ESA, multispectral, nir, proba, probav, swir, vito",
+        "tags": "esa, multispectral, nir, proba, probav, swir, vito",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/VITO_PROBAV_sample.png",
         "title": "PROBA-V C0 Top Of Canopy Daily Synthesis 100m",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/VITO_PROBAV_S1_TOC_333M",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "VITO/PROBAV/S1_TOC_333M",
         "provider": "Vito / ESA",
         "start_date": "2013-10-17",
         "startyear": "2013",
-        "tags": "ESA, multispectral, nir, proba, probav, swir, vito",
+        "tags": "esa, multispectral, nir, proba, probav, swir, vito",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/VITO_PROBAV_sample.png",
         "title": "PROBA-V C0 Top Of Canopy Daily Synthesis 333m",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/WCMC_WDPA_current_points",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "WCMC/WDPA/current/points",
         "provider": "UN Environment World Conservation Monitoring Centre (UNEP-WCMC) / Protected Planet",
         "start_date": "2017-07-01",
         "startyear": "2017",
-        "tags": "IUCN, WCMC, WDPA, boundaries, marine, mpa, protected",
+        "tags": "boundaries, iucn, marine, mpa, protected, wcmc, wdpa",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/WDPA_points_sample.png",
         "title": "WDPA: World Database on Protected Areas (points)",
         "type": "table"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/WCMC_WDPA_current_polygons",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "WCMC/WDPA/current/polygons",
         "provider": "UN Environment World Conservation Monitoring Centre (UNEP-WCMC) / Protected Planet",
         "start_date": "2017-07-01",
         "startyear": "2017",
-        "tags": "IUCN, WCMC, WDPA, boundaries, marine, mpa, protected",
+        "tags": "boundaries, iucn, marine, mpa, protected, wcmc, wdpa",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/WDPA_polygons_sample.png",
         "title": "WDPA: World Database on Protected Areas (polygons)",
         "type": "table"
@@ -9601,14 +9601,14 @@
         "provider": "UNEP-WCMC (UN Environment Programme World Conservation Monitoring Centre)",
         "start_date": "2010-01-01",
         "startyear": "2010",
-        "tags": "UNEP, WCMC, biomass, carbon",
+        "tags": "biomass, carbon, unep, wcmc",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/WCMC_biomass_carbon_density_v1_0_sample.png",
         "title": "WCMC Above and below ground biomass carbon density",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/WHBU_NBAR_1YEAR",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "WHBU/NBAR_1YEAR",
         "provider": "Baccini, A. (Woods Hole Research Center), Sulla-Menashe, D. (Boston University)",
@@ -9621,7 +9621,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/WHBU_NBAR_2YEAR",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "WHBU/NBAR_2YEAR",
         "provider": "Baccini, A. (Woods Hole Research Center), Sulla-Menashe, D. (Boston University)",
@@ -9634,7 +9634,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/WHBU_NBAR_3YEAR",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "WHBU/NBAR_3YEAR",
         "provider": "Baccini, A. (Woods Hole Research Center), Sulla-Menashe, D. (Boston University)",
@@ -9666,7 +9666,7 @@
         "provider": "University of California, Berkeley",
         "start_date": "1960-01-01",
         "startyear": "1960",
-        "tags": "berkeley, bio1, bio10, bio11, bio12, bio13, bio14, bio15, bio16, bio17, bio18, bio19, bio2, bio3, bio4, bio5, bio6, bio7, bio8, bio9, bioclim, climate, coldest, diurnal, driest, isothermality, monthly, precipitation, seasonality, temperature, ucb, warmest, weather, wettest, worldclim",
+        "tags": "berkeley, bioclim, climate, coldest, diurnal, driest, isothermality, monthly, precipitation, precipitation, seasonality, temperature, temperature, ucb, warmest, weather, wettest, worldclim",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/WORLDCLIM_V1_BIO_sample.png",
         "title": "WorldClim BIO Variables V1",
         "type": "image"
@@ -9686,39 +9686,39 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/WRI_GFW_FORMA_alerts",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "WRI/GFW/FORMA/alerts",
         "provider": "World Resources Institute / Global Forest Watch",
         "start_date": "2012-01-01",
         "startyear": "2012",
-        "tags": "FORMA, GFW, MODIS, WRI, daily, deforestation, forests, monitoring",
+        "tags": "daily, deforestation, forests, forma, gfw, modis, monitoring, wri",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/WRI_GFW_FORMA_alerts_sample.png",
         "title": "FORMA Alerts",
         "type": "image"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/WRI_GFW_FORMA_raw_output_firms",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "WRI/GFW/FORMA/raw_output_firms",
         "provider": "World Resources Institute / Global Forest Watch",
         "start_date": "2017-04-08",
         "startyear": "2017",
-        "tags": "FORMA, GFW, MODIS, WRI, daily, deforestation, forests, monitoring",
+        "tags": "daily, deforestation, forests, forma, gfw, modis, monitoring, wri",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/WRI_GFW_FORMA_raw_output_firms_sample.png",
         "title": "FORMA Raw Output FIRMS",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/WRI_GFW_FORMA_raw_output_ndvi",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "WRI/GFW/FORMA/raw_output_ndvi",
         "provider": "World Resources Institute / Global Forest Watch",
         "start_date": "2012-01-01",
         "startyear": "2012",
-        "tags": "FORMA, GFW, MODIS, WRI, daily, deforestation, forests, monitoring",
+        "tags": "daily, deforestation, forests, forma, gfw, modis, monitoring, wri",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/WRI_GFW_FORMA_raw_output_ndvi_sample.png",
         "title": "FORMA Raw Output NDVI",
         "type": "image_collection"
@@ -9731,20 +9731,20 @@
         "provider": "World Resources Institute / Global Forest Watch",
         "start_date": "2012-01-01",
         "startyear": "2012",
-        "tags": "FORMA, GFW, MODIS, WRI, daily, deforestation, forests, monitoring",
+        "tags": "daily, deforestation, forests, forma, gfw, modis, monitoring, wri",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/WRI_GFW_FORMA_thresholds_sample.png",
         "title": "FORMA alert thresholds",
         "type": "image"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/WRI_GFW_FORMA_vegetation_tstats",
-        "end_date": "2021-04-13",
+        "end_date": "2021-04-14",
         "endyear": "2021",
         "id": "WRI/GFW/FORMA/vegetation_tstats",
         "provider": "World Resources Institute / Global Forest Watch",
         "start_date": "2012-01-01",
         "startyear": "2012",
-        "tags": "FORMA, GFW, MODIS, WRI, daily, deforestation, forests, monitoring",
+        "tags": "daily, deforestation, forests, forma, gfw, modis, monitoring, wri",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/WRI_GFW_FORMA_vegetation_tstats_sample.png",
         "title": "FORMA Vegetation T-Statistics",
         "type": "image_collection"
@@ -9757,7 +9757,7 @@
         "provider": "World Resources Institute",
         "start_date": "2018-06-11",
         "startyear": "2018",
-        "tags": "WRI, climate, energy, infrastructure, power, power_plants",
+        "tags": "climate, energy, infrastructure, power, power_plants, wri",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/WRI_GPPD_power_plants_sample.png",
         "title": "Global Power Plant Database",
         "type": "table"
@@ -9887,7 +9887,7 @@
         "provider": "WWF",
         "start_date": "2000-02-11",
         "startyear": "2000",
-        "tags": "geophysical, hydrography, hydrology, hydrosheds, srtm, water, watersheds, wwf",
+        "tags": "geophysical, hydrography, hydrology, hydrosheds, srtm, water, watershed, wwf",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/WWF_HydroSHEDS_v1_Basins_hybas_1_sample.png",
         "title": "WWF HydroSHEDS Basins level 1",
         "type": "table"
@@ -9900,7 +9900,7 @@
         "provider": "WWF",
         "start_date": "2000-02-11",
         "startyear": "2000",
-        "tags": "geophysical, hydrography, hydrology, hydrosheds, srtm, water, watersheds, wwf",
+        "tags": "geophysical, hydrography, hydrology, hydrosheds, srtm, water, watershed, wwf",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/WWF_HydroSHEDS_v1_Basins_hybas_1_sample.png",
         "title": "WWF HydroSHEDS Basins level 10",
         "type": "table"
@@ -9913,7 +9913,7 @@
         "provider": "WWF",
         "start_date": "2000-02-11",
         "startyear": "2000",
-        "tags": "geophysical, hydrography, hydrology, hydrosheds, srtm, water, watersheds, wwf",
+        "tags": "geophysical, hydrography, hydrology, hydrosheds, srtm, water, watershed, wwf",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/WWF_HydroSHEDS_v1_Basins_hybas_1_sample.png",
         "title": "WWF HydroSHEDS Basins level 11",
         "type": "table"
@@ -9926,7 +9926,7 @@
         "provider": "WWF",
         "start_date": "2000-02-11",
         "startyear": "2000",
-        "tags": "geophysical, hydrography, hydrology, hydrosheds, srtm, water, watersheds, wwf",
+        "tags": "geophysical, hydrography, hydrology, hydrosheds, srtm, water, watershed, wwf",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/WWF_HydroSHEDS_v1_Basins_hybas_1_sample.png",
         "title": "WWF HydroSHEDS Basins level 12",
         "type": "table"
@@ -9939,7 +9939,7 @@
         "provider": "WWF",
         "start_date": "2000-02-11",
         "startyear": "2000",
-        "tags": "geophysical, hydrography, hydrology, hydrosheds, srtm, water, watersheds, wwf",
+        "tags": "geophysical, hydrography, hydrology, hydrosheds, srtm, water, watershed, wwf",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/WWF_HydroSHEDS_v1_Basins_hybas_1_sample.png",
         "title": "WWF HydroSHEDS Basins level 2",
         "type": "table"
@@ -9952,7 +9952,7 @@
         "provider": "WWF",
         "start_date": "2000-02-11",
         "startyear": "2000",
-        "tags": "geophysical, hydrography, hydrology, hydrosheds, srtm, water, watersheds, wwf",
+        "tags": "geophysical, hydrography, hydrology, hydrosheds, srtm, water, watershed, wwf",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/WWF_HydroSHEDS_v1_Basins_hybas_1_sample.png",
         "title": "WWF HydroSHEDS Basins level 3",
         "type": "table"
@@ -9965,7 +9965,7 @@
         "provider": "WWF",
         "start_date": "2000-02-11",
         "startyear": "2000",
-        "tags": "geophysical, hydrography, hydrology, hydrosheds, srtm, water, watersheds, wwf",
+        "tags": "geophysical, hydrography, hydrology, hydrosheds, srtm, water, watershed, wwf",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/WWF_HydroSHEDS_v1_Basins_hybas_1_sample.png",
         "title": "WWF HydroSHEDS Basins level 4",
         "type": "table"
@@ -9978,7 +9978,7 @@
         "provider": "WWF",
         "start_date": "2000-02-11",
         "startyear": "2000",
-        "tags": "geophysical, hydrography, hydrology, hydrosheds, srtm, water, watersheds, wwf",
+        "tags": "geophysical, hydrography, hydrology, hydrosheds, srtm, water, watershed, wwf",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/WWF_HydroSHEDS_v1_Basins_hybas_1_sample.png",
         "title": "WWF HydroSHEDS Basins level 5",
         "type": "table"
@@ -9991,7 +9991,7 @@
         "provider": "WWF",
         "start_date": "2000-02-11",
         "startyear": "2000",
-        "tags": "geophysical, hydrography, hydrology, hydrosheds, srtm, water, watersheds, wwf",
+        "tags": "geophysical, hydrography, hydrology, hydrosheds, srtm, water, watershed, wwf",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/WWF_HydroSHEDS_v1_Basins_hybas_1_sample.png",
         "title": "WWF HydroSHEDS Basins level 6",
         "type": "table"
@@ -10004,7 +10004,7 @@
         "provider": "WWF",
         "start_date": "2000-02-11",
         "startyear": "2000",
-        "tags": "geophysical, hydrography, hydrology, hydrosheds, srtm, water, watersheds, wwf",
+        "tags": "geophysical, hydrography, hydrology, hydrosheds, srtm, water, watershed, wwf",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/WWF_HydroSHEDS_v1_Basins_hybas_1_sample.png",
         "title": "WWF HydroSHEDS Basins level 7",
         "type": "table"
@@ -10017,7 +10017,7 @@
         "provider": "WWF",
         "start_date": "2000-02-11",
         "startyear": "2000",
-        "tags": "geophysical, hydrography, hydrology, hydrosheds, srtm, water, watersheds, wwf",
+        "tags": "geophysical, hydrography, hydrology, hydrosheds, srtm, water, watershed, wwf",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/WWF_HydroSHEDS_v1_Basins_hybas_1_sample.png",
         "title": "WWF HydroSHEDS Basins level 8",
         "type": "table"
@@ -10030,7 +10030,7 @@
         "provider": "WWF",
         "start_date": "2000-02-11",
         "startyear": "2000",
-        "tags": "geophysical, hydrography, hydrology, hydrosheds, srtm, water, watersheds, wwf",
+        "tags": "geophysical, hydrography, hydrology, hydrosheds, srtm, water, watershed, wwf",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/WWF_HydroSHEDS_v1_Basins_hybas_1_sample.png",
         "title": "WWF HydroSHEDS Basins level 9",
         "type": "table"
