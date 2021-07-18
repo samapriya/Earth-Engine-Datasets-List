@@ -1,7 +1,7 @@
 [
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/AAFC_ACI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "AAFC/ACI",
         "provider": "Agriculture and Agri-Food Canada",
@@ -53,7 +53,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ASTER_AST_L1T_003",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "ASTER/AST_L1T_003",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -131,7 +131,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/CAS_IGSNRR_PML_V2",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "CAS/IGSNRR/PML/V2",
         "provider": "PML_V2",
@@ -417,7 +417,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S1_GRD",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "COPERNICUS/S1_GRD",
         "provider": "European Union/ESA/Copernicus",
@@ -430,7 +430,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "COPERNICUS/S2",
         "provider": "European Union/ESA/Copernicus",
@@ -443,7 +443,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_CLOUD_PROBABILITY",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "COPERNICUS/S2_CLOUD_PROBABILITY",
         "provider": "European Union/ESA/Copernicus/SentinelHub",
@@ -456,7 +456,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_SR",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "COPERNICUS/S2_SR",
         "provider": "European Union/ESA/Copernicus",
@@ -469,7 +469,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S3_OLCI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "COPERNICUS/S3/OLCI",
         "provider": "European Union/ESA/Copernicus",
@@ -482,7 +482,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_AER_AI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "COPERNICUS/S5P/NRTI/L3_AER_AI",
         "provider": "European Union/ESA/Copernicus",
@@ -495,7 +495,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_AER_LH",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "COPERNICUS/S5P/NRTI/L3_AER_LH",
         "provider": "European Union/ESA/Copernicus",
@@ -508,7 +508,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_CLOUD",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "COPERNICUS/S5P/NRTI/L3_CLOUD",
         "provider": "European Union/ESA/Copernicus",
@@ -521,7 +521,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_CO",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "COPERNICUS/S5P/NRTI/L3_CO",
         "provider": "European Union/ESA/Copernicus",
@@ -534,7 +534,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_HCHO",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "COPERNICUS/S5P/NRTI/L3_HCHO",
         "provider": "European Union/ESA/Copernicus",
@@ -547,7 +547,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_NO2",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "COPERNICUS/S5P/NRTI/L3_NO2",
         "provider": "European Union/ESA/Copernicus",
@@ -560,7 +560,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_O3",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "COPERNICUS/S5P/NRTI/L3_O3",
         "provider": "European Union/ESA/Copernicus",
@@ -573,7 +573,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_SO2",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "COPERNICUS/S5P/NRTI/L3_SO2",
         "provider": "European Union/ESA/Copernicus",
@@ -586,7 +586,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_AER_AI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "COPERNICUS/S5P/OFFL/L3_AER_AI",
         "provider": "European Union/ESA/Copernicus",
@@ -599,7 +599,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_AER_LH",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "COPERNICUS/S5P/OFFL/L3_AER_LH",
         "provider": "European Union/ESA/Copernicus",
@@ -612,7 +612,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_CH4",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "COPERNICUS/S5P/OFFL/L3_CH4",
         "provider": "European Union/ESA/Copernicus",
@@ -625,7 +625,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_CLOUD",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "COPERNICUS/S5P/OFFL/L3_CLOUD",
         "provider": "European Union/ESA/Copernicus",
@@ -638,7 +638,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_CO",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "COPERNICUS/S5P/OFFL/L3_CO",
         "provider": "European Union/ESA/Copernicus",
@@ -651,7 +651,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_HCHO",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "COPERNICUS/S5P/OFFL/L3_HCHO",
         "provider": "European Union/ESA/Copernicus",
@@ -664,7 +664,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_NO2",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "COPERNICUS/S5P/OFFL/L3_NO2",
         "provider": "European Union/ESA/Copernicus",
@@ -677,7 +677,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_O3",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "COPERNICUS/S5P/OFFL/L3_O3",
         "provider": "European Union/ESA/Copernicus",
@@ -690,7 +690,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_O3_TCL",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "COPERNICUS/S5P/OFFL/L3_O3_TCL",
         "provider": "European Union/ESA/Copernicus",
@@ -703,7 +703,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_SO2",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "COPERNICUS/S5P/OFFL/L3_SO2",
         "provider": "European Union/ESA/Copernicus",
@@ -950,7 +950,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ECMWF_CAMS_NRT",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "ECMWF/CAMS/NRT",
         "provider": "European Centre for Medium-Range Weather Forecasts (ECMWF)",
@@ -963,7 +963,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_DAILY",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "ECMWF/ERA5/DAILY",
         "provider": "ECMWF / Copernicus Climate Change Service",
@@ -976,7 +976,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_MONTHLY",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "ECMWF/ERA5/MONTHLY",
         "provider": "ECMWF / Copernicus Climate Change Service",
@@ -989,7 +989,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_HOURLY",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "ECMWF/ERA5_LAND/HOURLY",
         "provider": "Climate Data Store",
@@ -1002,7 +1002,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_MONTHLY",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "ECMWF/ERA5_LAND/MONTHLY",
         "provider": "Climate Data Store",
@@ -1015,7 +1015,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_MONTHLY_BY_HOUR",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "ECMWF/ERA5_LAND/MONTHLY_BY_HOUR",
         "provider": "Climate Data Store",
@@ -1028,7 +1028,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/EO1_HYPERION",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "EO1/HYPERION",
         "provider": "USGS",
@@ -1171,7 +1171,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/FAO_GHG_1_DROSA_A",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "FAO/GHG/1/DROSA_A",
         "provider": "FAO UN",
@@ -1184,7 +1184,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/FAO_GHG_1_DROSE_A",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "FAO/GHG/1/DROSE_A",
         "provider": "FAO UN",
@@ -1197,7 +1197,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/FAO_WAPOR_2_L1_AETI_D",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "FAO/WAPOR/2/L1_AETI_D",
         "provider": "FAO UN",
@@ -1210,7 +1210,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/FAO_WAPOR_2_L1_E_D",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "FAO/WAPOR/2/L1_E_D",
         "provider": "FAO UN",
@@ -1223,7 +1223,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/FAO_WAPOR_2_L1_I_D",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "FAO/WAPOR/2/L1_I_D",
         "provider": "FAO UN",
@@ -1236,7 +1236,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/FAO_WAPOR_2_L1_NPP_D",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "FAO/WAPOR/2/L1_NPP_D",
         "provider": "FAO UN",
@@ -1249,7 +1249,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/FAO_WAPOR_2_L1_RET_D",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "FAO/WAPOR/2/L1_RET_D",
         "provider": "FAO UN",
@@ -1262,7 +1262,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/FAO_WAPOR_2_L1_RET_E",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "FAO/WAPOR/2/L1_RET_E",
         "provider": "FAO UN",
@@ -1275,7 +1275,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/FAO_WAPOR_2_L1_T_D",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "FAO/WAPOR/2/L1_T_D",
         "provider": "FAO UN",
@@ -1288,7 +1288,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/FIRMS",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "FIRMS",
         "provider": "NASA / LANCE / EOSDIS",
@@ -1314,7 +1314,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/GFW_GFF_V1_fishing_hours",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "GFW/GFF/V1/fishing_hours",
         "provider": "Global Fishing Watch",
@@ -1327,7 +1327,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/GFW_GFF_V1_vessel_hours",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "GFW/GFF/V1/vessel_hours",
         "provider": "Global Fishing Watch",
@@ -1418,7 +1418,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/GRIDMET_DROUGHT",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "GRIDMET/DROUGHT",
         "provider": "University of California Merced",
@@ -1431,7 +1431,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/HYCOM_GLBu0_08_sea_surface_elevation",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "HYCOM/GLBu0_08/sea_surface_elevation",
         "provider": "NOPP",
@@ -1444,7 +1444,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/HYCOM_GLBu0_08_sea_temp_salinity",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "HYCOM/GLBu0_08/sea_temp_salinity",
         "provider": "NOPP",
@@ -1457,7 +1457,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/HYCOM_GLBu0_08_sea_water_velocity",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "HYCOM/GLBu0_08/sea_water_velocity",
         "provider": "NOPP",
@@ -1470,7 +1470,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/HYCOM_sea_surface_elevation",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "HYCOM/sea_surface_elevation",
         "provider": "NOPP",
@@ -1483,7 +1483,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/HYCOM_sea_temp_salinity",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "HYCOM/sea_temp_salinity",
         "provider": "NOPP",
@@ -1496,7 +1496,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/HYCOM_sea_water_velocity",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "HYCOM/sea_water_velocity",
         "provider": "NOPP",
@@ -1509,7 +1509,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/IDAHO_EPSCOR_GRIDMET",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "IDAHO_EPSCOR/GRIDMET",
         "provider": "University of California Merced",
@@ -1548,7 +1548,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/IDAHO_EPSCOR_PDSI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "IDAHO_EPSCOR/PDSI",
         "provider": "University of California Merced",
@@ -1561,7 +1561,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/IDAHO_EPSCOR_TERRACLIMATE",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "IDAHO_EPSCOR/TERRACLIMATE",
         "provider": "University of California Merced",
@@ -1678,7 +1678,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/JAXA_GCOM-C_L3_LAND_LAI_V2",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "JAXA/GCOM-C/L3/LAND/LAI/V2",
         "provider": "Global Change Observation Mission (GCOM)",
@@ -1704,7 +1704,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/JAXA_GCOM-C_L3_LAND_LST_V2",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "JAXA/GCOM-C/L3/LAND/LST/V2",
         "provider": "Global Change Observation Mission (GCOM)",
@@ -1730,7 +1730,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/JAXA_GCOM-C_L3_OCEAN_CHLA_V2",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "JAXA/GCOM-C/L3/OCEAN/CHLA/V2",
         "provider": "Global Change Observation Mission (GCOM)",
@@ -1756,7 +1756,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/JAXA_GCOM-C_L3_OCEAN_SST_V2",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "JAXA/GCOM-C/L3/OCEAN/SST/V2",
         "provider": "Global Change Observation Mission (GCOM)",
@@ -1769,7 +1769,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/JAXA_GPM_L3_GSMaP_v6_operational",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "JAXA/GPM_L3/GSMaP/v6/operational",
         "provider": "JAXA Earth Observation Research Center",
@@ -2393,254 +2393,254 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1",
         "provider": "USGS",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "c1, global, l8, landsat, lc8, oli_tirs, radiance, t1, tier1, usgs",
+        "tags": "c1, global, l8, landsat, landsat, lc8, oli_tirs, radiance, t1, tier1, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "USGS Landsat 8 Collection 1 Tier 1 Raw Scenes",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_32DAY_BAI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_32DAY_BAI",
         "provider": "Google",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "bai",
+        "tags": "bai, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/BAI_sample.png",
         "title": "Landsat 8 Collection 1 Tier 1 32-Day BAI Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_32DAY_EVI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_32DAY_EVI",
         "provider": "Google",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "evi",
+        "tags": "evi, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/EVI_sample.png",
         "title": "Landsat 8 Collection 1 Tier 1 32-Day EVI Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_32DAY_NBRT",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_32DAY_NBRT",
         "provider": "Google",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "nbrt",
+        "tags": "landsat, nbrt, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NBRT_sample.png",
         "title": "Landsat 8 Collection 1 Tier 1 32-Day NBRT Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_32DAY_NDSI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_32DAY_NDSI",
         "provider": "Google",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "ndsi",
+        "tags": "landsat, ndsi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDSI_sample.png",
         "title": "Landsat 8 Collection 1 Tier 1 32-Day NDSI Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_32DAY_NDVI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_32DAY_NDVI",
         "provider": "Google",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "ndvi",
+        "tags": "landsat, ndvi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDVI_sample.png",
         "title": "Landsat 8 Collection 1 Tier 1 32-Day NDVI Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_32DAY_NDWI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_32DAY_NDWI",
         "provider": "Google",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "ndwi",
+        "tags": "landsat, ndwi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDWI_sample.png",
         "title": "Landsat 8 Collection 1 Tier 1 32-Day NDWI Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_32DAY_RAW",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_32DAY_RAW",
         "provider": "USGS/Google",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "raw",
+        "tags": "landsat, raw, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "Landsat 8 Collection 1 Tier 1 32-Day Raw Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_32DAY_TOA",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_32DAY_TOA",
         "provider": "Google",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "toa",
+        "tags": "landsat, toa, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_TOA_sample.png",
         "title": "Landsat 8 Collection 1 Tier 1 32-Day TOA Reflectance Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_8DAY_BAI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_8DAY_BAI",
         "provider": "Google",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "bai",
+        "tags": "bai, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/BAI_sample.png",
         "title": "Landsat 8 Collection 1 Tier 1 8-Day BAI Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_8DAY_EVI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_8DAY_EVI",
         "provider": "Google",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "evi",
+        "tags": "evi, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/EVI_sample.png",
         "title": "Landsat 8 Collection 1 Tier 1 8-Day EVI Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_8DAY_NBRT",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_8DAY_NBRT",
         "provider": "Google",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "nbrt",
+        "tags": "landsat, nbrt, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NBRT_sample.png",
         "title": "Landsat 8 Collection 1 Tier 1 8-Day NBRT Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_8DAY_NDSI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_8DAY_NDSI",
         "provider": "Google",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "ndsi",
+        "tags": "landsat, ndsi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDSI_sample.png",
         "title": "Landsat 8 Collection 1 Tier 1 8-Day NDSI Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_8DAY_NDVI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_8DAY_NDVI",
         "provider": "Google",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "ndvi",
+        "tags": "landsat, ndvi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDVI_sample.png",
         "title": "Landsat 8 Collection 1 Tier 1 8-Day NDVI Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_8DAY_NDWI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_8DAY_NDWI",
         "provider": "Google",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "ndwi",
+        "tags": "landsat, ndwi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDWI_sample.png",
         "title": "Landsat 8 Collection 1 Tier 1 8-Day NDWI Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_8DAY_RAW",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_8DAY_RAW",
         "provider": "USGS/Google",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "raw",
+        "tags": "landsat, raw, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "Landsat 8 Collection 1 Tier 1 8-Day Raw Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_8DAY_TOA",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_8DAY_TOA",
         "provider": "Google",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "toa",
+        "tags": "landsat, toa, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_TOA_sample.png",
         "title": "Landsat 8 Collection 1 Tier 1 8-Day TOA Reflectance Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_ANNUAL_BAI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_ANNUAL_BAI",
         "provider": "Google",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "bai",
+        "tags": "bai, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/BAI_sample.png",
         "title": "Landsat 8 Collection 1 Tier 1 Annual BAI Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_ANNUAL_EVI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_ANNUAL_EVI",
         "provider": "Google",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "evi",
+        "tags": "evi, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/EVI_sample.png",
         "title": "Landsat 8 Collection 1 Tier 1 Annual EVI Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_ANNUAL_GREENEST_TOA",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_ANNUAL_GREENEST_TOA",
         "provider": "Google",
@@ -2653,111 +2653,111 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_ANNUAL_NBRT",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_ANNUAL_NBRT",
         "provider": "Google",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "nbrt",
+        "tags": "landsat, nbrt, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NBRT_sample.png",
         "title": "Landsat 8 Collection 1 Tier 1 Annual NBRT Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_ANNUAL_NDSI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_ANNUAL_NDSI",
         "provider": "Google",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "ndsi",
+        "tags": "landsat, ndsi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDSI_sample.png",
         "title": "Landsat 8 Collection 1 Tier 1 Annual NDSI Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_ANNUAL_NDVI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_ANNUAL_NDVI",
         "provider": "Google",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "ndvi",
+        "tags": "landsat, ndvi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDVI_sample.png",
         "title": "Landsat 8 Collection 1 Tier 1 Annual NDVI Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_ANNUAL_NDWI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_ANNUAL_NDWI",
         "provider": "Google",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "ndwi",
+        "tags": "landsat, ndwi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDWI_sample.png",
         "title": "Landsat 8 Collection 1 Tier 1 Annual NDWI Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_ANNUAL_RAW",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_ANNUAL_RAW",
         "provider": "USGS/Google",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "raw",
+        "tags": "landsat, raw, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "Landsat 8 Collection 1 Tier 1 Annual Raw Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_ANNUAL_TOA",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_ANNUAL_TOA",
         "provider": "Google",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "toa",
+        "tags": "landsat, toa, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_TOA_sample.png",
         "title": "Landsat 8 Collection 1 Tier 1 Annual TOA Reflectance Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_RT",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_RT",
         "provider": "USGS",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "c1, global, l8, landsat, lc8, nrt, oli_tirs, radiance, rt, t1, tier1, usgs",
+        "tags": "c1, global, l8, landsat, landsat, lc8, nrt, oli_tirs, radiance, rt, t1, tier1, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "USGS Landsat 8 Collection 1 Tier 1 and Real-Time data Raw Scenes",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_RT_TOA",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_RT_TOA",
         "provider": "USGS/Google",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "global, landsat, toa, usgs",
+        "tags": "global, landsat, landsat, toa, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_TOA_sample.png",
         "title": "USGS Landsat 8 Collection 1 Tier 1 and Real-Time data TOA Reflectance",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_SR",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_SR",
         "provider": "USGS",
@@ -2770,33 +2770,33 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_TOA",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T1_TOA",
         "provider": "USGS/Google",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "global, landsat, toa, usgs",
+        "tags": "global, landsat, landsat, toa, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_TOA_sample.png",
         "title": "USGS Landsat 8 Collection 1 Tier 1 TOA Reflectance",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T2",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T2",
         "provider": "USGS",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "c1, global, l8, landsat, lc8, oli_tirs, radiance, t2, tier2, usgs",
+        "tags": "c1, global, l8, landsat, landsat, lc8, oli_tirs, radiance, t2, tier2, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "USGS Landsat 8 Collection 1 Tier 2 Raw Scenes",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T2_SR",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T2_SR",
         "provider": "USGS",
@@ -2809,20 +2809,20 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T2_TOA",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C01/T2_TOA",
         "provider": "USGS/Google",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "global, landsat, toa, usgs",
+        "tags": "global, landsat, landsat, toa, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_TOA_sample.png",
         "title": "USGS Landsat 8 Collection 1 Tier 2 TOA Reflectance",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C02_T1_L2",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LC08/C02/T1_L2",
         "provider": "USGS",
@@ -2835,26 +2835,26 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC8",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LC8",
         "provider": "USGS",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "global, l8, landsat, lc8, oli_tirs, radiance, usgs",
+        "tags": "global, l8, landsat, landsat, lc8, oli_tirs, radiance, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "USGS Landsat 8 Raw Scenes [deprecated]",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC8_L1T",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LC8_L1T",
         "provider": "USGS",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "global, l8, landsat, lc8, oli_tirs, radiance, usgs",
+        "tags": "global, l8, landsat, landsat, lc8, oli_tirs, radiance, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "USGS Landsat 8 Raw Scenes (Orthorectified) [deprecated]",
         "type": "image_collection"
@@ -2867,7 +2867,7 @@
         "provider": "USGS",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "bai",
+        "tags": "bai, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/BAI_sample.png",
         "title": "Landsat 8 32-Day BAI Composite [deprecated]",
         "type": "image_collection"
@@ -2880,7 +2880,7 @@
         "provider": "USGS",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "evi",
+        "tags": "evi, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/EVI_sample.png",
         "title": "Landsat 8 32-Day EVI Composite [deprecated]",
         "type": "image_collection"
@@ -2893,7 +2893,7 @@
         "provider": "USGS",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "nbrt",
+        "tags": "landsat, nbrt, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NBRT_sample.png",
         "title": "Landsat 8 32-Day NBRT Composite [deprecated]",
         "type": "image_collection"
@@ -2906,7 +2906,7 @@
         "provider": "USGS",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "ndsi",
+        "tags": "landsat, ndsi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDSI_sample.png",
         "title": "Landsat 8 32-Day NDSI Composite [deprecated]",
         "type": "image_collection"
@@ -2919,7 +2919,7 @@
         "provider": "USGS",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "ndvi",
+        "tags": "landsat, ndvi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDVI_sample.png",
         "title": "Landsat 8 32-Day NDVI Composite [deprecated]",
         "type": "image_collection"
@@ -2932,7 +2932,7 @@
         "provider": "USGS",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "ndwi",
+        "tags": "landsat, ndwi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDWI_sample.png",
         "title": "Landsat 8 32-Day NDWI Composite [deprecated]",
         "type": "image_collection"
@@ -2945,7 +2945,7 @@
         "provider": "Google",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "raw",
+        "tags": "landsat, raw, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LC8_RAW_sample.png",
         "title": "Landsat 8 32-Day Raw Composite [deprecated]",
         "type": "image_collection"
@@ -2958,7 +2958,7 @@
         "provider": "Google",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "toa",
+        "tags": "landsat, toa, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LC8_TOA_sample.png",
         "title": "Landsat 8 32-Day TOA Reflectance Composite [deprecated]",
         "type": "image_collection"
@@ -2971,7 +2971,7 @@
         "provider": "USGS",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "bai",
+        "tags": "bai, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/BAI_sample.png",
         "title": "Landsat 8 8-Day BAI Composite [deprecated]",
         "type": "image_collection"
@@ -2984,7 +2984,7 @@
         "provider": "USGS",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "evi",
+        "tags": "evi, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/EVI_sample.png",
         "title": "Landsat 8 8-Day EVI Composite [deprecated]",
         "type": "image_collection"
@@ -2997,7 +2997,7 @@
         "provider": "USGS",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "nbrt",
+        "tags": "landsat, nbrt, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NBRT_sample.png",
         "title": "Landsat 8 8-Day NBRT Composite [deprecated]",
         "type": "image_collection"
@@ -3010,7 +3010,7 @@
         "provider": "USGS",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "ndsi",
+        "tags": "landsat, ndsi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDSI_sample.png",
         "title": "Landsat 8 8-Day NDSI Composite [deprecated]",
         "type": "image_collection"
@@ -3023,7 +3023,7 @@
         "provider": "USGS",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "ndvi",
+        "tags": "landsat, ndvi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDVI_sample.png",
         "title": "Landsat 8 8-Day NDVI Composite [deprecated]",
         "type": "image_collection"
@@ -3036,7 +3036,7 @@
         "provider": "USGS",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "ndwi",
+        "tags": "landsat, ndwi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDWI_sample.png",
         "title": "Landsat 8 8-Day NDWI Composite [deprecated]",
         "type": "image_collection"
@@ -3049,7 +3049,7 @@
         "provider": "Google",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "raw",
+        "tags": "landsat, raw, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LC8_RAW_sample.png",
         "title": "Landsat 8 8-Day Raw Composite [deprecated]",
         "type": "image_collection"
@@ -3062,7 +3062,7 @@
         "provider": "Google",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "toa",
+        "tags": "landsat, toa, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LC8_TOA_sample.png",
         "title": "Landsat 8 8-Day TOA Reflectance Composite [deprecated]",
         "type": "image_collection"
@@ -3075,7 +3075,7 @@
         "provider": "USGS",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "bai",
+        "tags": "bai, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/BAI_sample.png",
         "title": "Landsat 8 Annual BAI Composite [deprecated]",
         "type": "image_collection"
@@ -3088,7 +3088,7 @@
         "provider": "USGS",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "evi",
+        "tags": "evi, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/EVI_sample.png",
         "title": "Landsat 8 Annual EVI Composite [deprecated]",
         "type": "image_collection"
@@ -3114,7 +3114,7 @@
         "provider": "USGS",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "nbrt",
+        "tags": "landsat, nbrt, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NBRT_sample.png",
         "title": "Landsat 8 Annual NBRT Composite [deprecated]",
         "type": "image_collection"
@@ -3127,7 +3127,7 @@
         "provider": "USGS",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "ndsi",
+        "tags": "landsat, ndsi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDSI_sample.png",
         "title": "Landsat 8 Annual NDSI Composite [deprecated]",
         "type": "image_collection"
@@ -3140,7 +3140,7 @@
         "provider": "USGS",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "ndvi",
+        "tags": "landsat, ndvi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDVI_sample.png",
         "title": "Landsat 8 Annual NDVI Composite [deprecated]",
         "type": "image_collection"
@@ -3153,7 +3153,7 @@
         "provider": "USGS",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "ndwi",
+        "tags": "landsat, ndwi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDWI_sample.png",
         "title": "Landsat 8 Annual NDWI Composite [deprecated]",
         "type": "image_collection"
@@ -3166,7 +3166,7 @@
         "provider": "Google",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "raw",
+        "tags": "landsat, raw, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LC8_RAW_sample.png",
         "title": "Landsat 8 Annual Raw Composite [deprecated]",
         "type": "image_collection"
@@ -3179,7 +3179,7 @@
         "provider": "Google",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "toa",
+        "tags": "landsat, toa, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LC8_TOA_sample.png",
         "title": "Landsat 8 Annual TOA Reflectance Composite [deprecated]",
         "type": "image_collection"
@@ -3192,261 +3192,261 @@
         "provider": "USGS/Google",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "global, landsat, toa, usgs",
+        "tags": "global, landsat, landsat, toa, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/L5_TOA_sample.png",
         "title": "USGS Landsat 8 TOA Reflectance (Orthorectified) [deprecated]",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1",
         "provider": "USGS",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "c1, etm, global, l7, landsat, le7, radiance, t1, tier1, usgs",
+        "tags": "c1, etm, global, l7, landsat, landsat, le7, radiance, t1, tier1, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "USGS Landsat 7 Collection 1 Tier 1 Raw Scenes",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_32DAY_BAI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_32DAY_BAI",
         "provider": "Google",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "bai",
+        "tags": "bai, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/BAI_sample.png",
         "title": "Landsat 7 Collection 1 Tier 1 32-Day BAI Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_32DAY_EVI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_32DAY_EVI",
         "provider": "Google",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "evi",
+        "tags": "evi, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/EVI_sample.png",
         "title": "Landsat 7 Collection 1 Tier 1 32-Day EVI Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_32DAY_NBRT",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_32DAY_NBRT",
         "provider": "Google",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "nbrt",
+        "tags": "landsat, nbrt, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NBRT_sample.png",
         "title": "Landsat 7 Collection 1 Tier 1 32-Day NBRT Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_32DAY_NDSI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_32DAY_NDSI",
         "provider": "Google",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "ndsi",
+        "tags": "landsat, ndsi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDSI_sample.png",
         "title": "Landsat 7 Collection 1 Tier 1 32-Day NDSI Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_32DAY_NDVI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_32DAY_NDVI",
         "provider": "Google",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "ndvi",
+        "tags": "landsat, ndvi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDVI_sample.png",
         "title": "Landsat 7 Collection 1 Tier 1 32-Day NDVI Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_32DAY_NDWI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_32DAY_NDWI",
         "provider": "Google",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "ndwi",
+        "tags": "landsat, ndwi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDWI_sample.png",
         "title": "Landsat 7 Collection 1 Tier 1 32-Day NDWI Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_32DAY_RAW",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_32DAY_RAW",
         "provider": "USGS/Google",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "raw",
+        "tags": "landsat, raw, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "Landsat 7 Collection 1 Tier 1 32-Day Raw Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_32DAY_TOA",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_32DAY_TOA",
         "provider": "Google",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "toa",
+        "tags": "landsat, toa, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_TOA_sample.png",
         "title": "Landsat 7 Collection 1 Tier 1 32-Day TOA Reflectance Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_8DAY_BAI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_8DAY_BAI",
         "provider": "Google",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "bai",
+        "tags": "bai, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/BAI_sample.png",
         "title": "Landsat 7 Collection 1 Tier 1 8-Day BAI Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_8DAY_EVI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_8DAY_EVI",
         "provider": "Google",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "evi",
+        "tags": "evi, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/EVI_sample.png",
         "title": "Landsat 7 Collection 1 Tier 1 8-Day EVI Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_8DAY_NBRT",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_8DAY_NBRT",
         "provider": "Google",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "nbrt",
+        "tags": "landsat, nbrt, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NBRT_sample.png",
         "title": "Landsat 7 Collection 1 Tier 1 8-Day NBRT Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_8DAY_NDSI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_8DAY_NDSI",
         "provider": "Google",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "ndsi",
+        "tags": "landsat, ndsi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDSI_sample.png",
         "title": "Landsat 7 Collection 1 Tier 1 8-Day NDSI Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_8DAY_NDVI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_8DAY_NDVI",
         "provider": "Google",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "ndvi",
+        "tags": "landsat, ndvi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDVI_sample.png",
         "title": "Landsat 7 Collection 1 Tier 1 8-Day NDVI Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_8DAY_NDWI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_8DAY_NDWI",
         "provider": "Google",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "ndwi",
+        "tags": "landsat, ndwi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDWI_sample.png",
         "title": "Landsat 7 Collection 1 Tier 1 8-Day NDWI Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_8DAY_RAW",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_8DAY_RAW",
         "provider": "USGS/Google",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "raw",
+        "tags": "landsat, raw, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "Landsat 7 Collection 1 Tier 1 8-Day Raw Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_8DAY_TOA",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_8DAY_TOA",
         "provider": "Google",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "toa",
+        "tags": "landsat, toa, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_TOA_sample.png",
         "title": "Landsat 7 Collection 1 Tier 1 8-Day TOA Reflectance Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_ANNUAL_BAI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_ANNUAL_BAI",
         "provider": "Google",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "bai",
+        "tags": "bai, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/BAI_sample.png",
         "title": "Landsat 7 Collection 1 Tier 1 Annual BAI Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_ANNUAL_EVI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_ANNUAL_EVI",
         "provider": "Google",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "evi",
+        "tags": "evi, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/EVI_sample.png",
         "title": "Landsat 7 Collection 1 Tier 1 Annual EVI Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_ANNUAL_GREENEST_TOA",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_ANNUAL_GREENEST_TOA",
         "provider": "Google",
@@ -3459,111 +3459,111 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_ANNUAL_NBRT",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_ANNUAL_NBRT",
         "provider": "Google",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "nbrt",
+        "tags": "landsat, nbrt, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NBRT_sample.png",
         "title": "Landsat 7 Collection 1 Tier 1 Annual NBRT Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_ANNUAL_NDSI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_ANNUAL_NDSI",
         "provider": "Google",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "ndsi",
+        "tags": "landsat, ndsi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDSI_sample.png",
         "title": "Landsat 7 Collection 1 Tier 1 Annual NDSI Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_ANNUAL_NDVI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_ANNUAL_NDVI",
         "provider": "Google",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "ndvi",
+        "tags": "landsat, ndvi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDVI_sample.png",
         "title": "Landsat 7 Collection 1 Tier 1 Annual NDVI Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_ANNUAL_NDWI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_ANNUAL_NDWI",
         "provider": "Google",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "ndwi",
+        "tags": "landsat, ndwi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDWI_sample.png",
         "title": "Landsat 7 Collection 1 Tier 1 Annual NDWI Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_ANNUAL_RAW",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_ANNUAL_RAW",
         "provider": "USGS/Google",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "raw",
+        "tags": "landsat, raw, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "Landsat 7 Collection 1 Tier 1 Annual Raw Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_ANNUAL_TOA",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_ANNUAL_TOA",
         "provider": "Google",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "toa",
+        "tags": "landsat, toa, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_TOA_sample.png",
         "title": "Landsat 7 Collection 1 Tier 1 Annual TOA Reflectance Composite",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_RT",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_RT",
         "provider": "USGS",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "c1, etm, global, l7, landsat, le7, nrt, radiance, rt, t1, tier1, usgs",
+        "tags": "c1, etm, global, l7, landsat, landsat, le7, nrt, radiance, rt, t1, tier1, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "USGS Landsat 7 Collection 1 Tier 1 and Real-Time data Raw Scenes",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_RT_TOA",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_RT_TOA",
         "provider": "USGS/Google",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "global, landsat, toa, usgs",
+        "tags": "global, landsat, landsat, toa, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_TOA_sample.png",
         "title": "USGS Landsat 7 Collection 1 Tier 1 and Real-Time data TOA Reflectance",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_SR",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_SR",
         "provider": "USGS",
@@ -3576,33 +3576,33 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_TOA",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T1_TOA",
         "provider": "USGS/Google",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "global, landsat, toa, usgs",
+        "tags": "global, landsat, landsat, toa, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_TOA_sample.png",
         "title": "USGS Landsat 7 Collection 1 Tier 1 TOA Reflectance",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T2",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T2",
         "provider": "USGS",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "c1, etm, global, l7, landsat, le7, radiance, t2, tier2, usgs",
+        "tags": "c1, etm, global, l7, landsat, landsat, le7, radiance, t2, tier2, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "USGS Landsat 7 Collection 1 Tier 2 Raw Scenes",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T2_SR",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T2_SR",
         "provider": "USGS",
@@ -3615,20 +3615,20 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T2_TOA",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C01/T2_TOA",
         "provider": "USGS/Google",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "global, landsat, toa, usgs",
+        "tags": "global, landsat, landsat, toa, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_TOA_sample.png",
         "title": "USGS Landsat 7 Collection 1 Tier 2 TOA Reflectance",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C02_T1_L2",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LE07/C02/T1_L2",
         "provider": "USGS",
@@ -3641,26 +3641,26 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE7",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LE7",
         "provider": "USGS",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "etm, global, l7, landsat, le7, radiance, usgs",
+        "tags": "etm, global, l7, landsat, landsat, le7, radiance, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "USGS Landsat 7 Raw Scenes [deprecated]",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE7_L1T",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LE7_L1T",
         "provider": "USGS",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "etm, global, l7, landsat, le7, radiance, usgs",
+        "tags": "etm, global, l7, landsat, landsat, le7, radiance, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "USGS Landsat 7 Raw Scenes (Orthorectified) [deprecated]",
         "type": "image_collection"
@@ -3673,7 +3673,7 @@
         "provider": "USGS",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "bai",
+        "tags": "bai, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/BAI_sample.png",
         "title": "Landsat 7 32-Day BAI Composite [deprecated]",
         "type": "image_collection"
@@ -3686,7 +3686,7 @@
         "provider": "USGS",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "evi",
+        "tags": "evi, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/EVI_sample.png",
         "title": "Landsat 7 32-Day EVI Composite [deprecated]",
         "type": "image_collection"
@@ -3699,7 +3699,7 @@
         "provider": "USGS",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "nbrt",
+        "tags": "landsat, nbrt, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NBRT_sample.png",
         "title": "Landsat 7 32-Day NBRT Composite [deprecated]",
         "type": "image_collection"
@@ -3712,7 +3712,7 @@
         "provider": "USGS",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "ndsi",
+        "tags": "landsat, ndsi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDSI_sample.png",
         "title": "Landsat 7 32-Day NDSI Composite [deprecated]",
         "type": "image_collection"
@@ -3725,7 +3725,7 @@
         "provider": "USGS",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "ndvi",
+        "tags": "landsat, ndvi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDVI_sample.png",
         "title": "Landsat 7 32-Day NDVI Composite [deprecated]",
         "type": "image_collection"
@@ -3738,7 +3738,7 @@
         "provider": "USGS",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "ndwi",
+        "tags": "landsat, ndwi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDWI_sample.png",
         "title": "Landsat 7 32-Day NDWI Composite [deprecated]",
         "type": "image_collection"
@@ -3751,7 +3751,7 @@
         "provider": "Google",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "raw",
+        "tags": "landsat, raw, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LE7_RAW_sample.png",
         "title": "Landsat 7 32-Day Raw Composite [deprecated]",
         "type": "image_collection"
@@ -3764,7 +3764,7 @@
         "provider": "Google",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "toa",
+        "tags": "landsat, toa, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LE7_TOA_sample.png",
         "title": "Landsat 7 32-Day TOA Reflectance Composite [deprecated]",
         "type": "image_collection"
@@ -3777,7 +3777,7 @@
         "provider": "USGS",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "bai",
+        "tags": "bai, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/BAI_sample.png",
         "title": "Landsat 7 8-Day BAI Composite [deprecated]",
         "type": "image_collection"
@@ -3790,7 +3790,7 @@
         "provider": "USGS",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "evi",
+        "tags": "evi, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/EVI_sample.png",
         "title": "Landsat 7 8-Day EVI Composite [deprecated]",
         "type": "image_collection"
@@ -3803,7 +3803,7 @@
         "provider": "USGS",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "nbrt",
+        "tags": "landsat, nbrt, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NBRT_sample.png",
         "title": "Landsat 7 8-Day NBRT Composite [deprecated]",
         "type": "image_collection"
@@ -3816,7 +3816,7 @@
         "provider": "USGS",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "ndsi",
+        "tags": "landsat, ndsi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDSI_sample.png",
         "title": "Landsat 7 8-Day NDSI Composite [deprecated]",
         "type": "image_collection"
@@ -3829,7 +3829,7 @@
         "provider": "USGS",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "ndvi",
+        "tags": "landsat, ndvi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDVI_sample.png",
         "title": "Landsat 7 8-Day NDVI Composite [deprecated]",
         "type": "image_collection"
@@ -3842,7 +3842,7 @@
         "provider": "USGS",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "ndwi",
+        "tags": "landsat, ndwi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDWI_sample.png",
         "title": "Landsat 7 8-Day NDWI Composite [deprecated]",
         "type": "image_collection"
@@ -3855,7 +3855,7 @@
         "provider": "Google",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "raw",
+        "tags": "landsat, raw, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LE7_RAW_sample.png",
         "title": "Landsat 7 8-Day Raw Composite [deprecated]",
         "type": "image_collection"
@@ -3868,7 +3868,7 @@
         "provider": "Google",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "toa",
+        "tags": "landsat, toa, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LE7_TOA_sample.png",
         "title": "Landsat 7 8-Day TOA Reflectance Composite [deprecated]",
         "type": "image_collection"
@@ -3881,7 +3881,7 @@
         "provider": "USGS",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "bai",
+        "tags": "bai, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/BAI_sample.png",
         "title": "Landsat 7 Annual BAI Composite [deprecated]",
         "type": "image_collection"
@@ -3894,7 +3894,7 @@
         "provider": "USGS",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "evi",
+        "tags": "evi, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/EVI_sample.png",
         "title": "Landsat 7 Annual EVI Composite [deprecated]",
         "type": "image_collection"
@@ -3920,7 +3920,7 @@
         "provider": "USGS",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "nbrt",
+        "tags": "landsat, nbrt, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NBRT_sample.png",
         "title": "Landsat 7 Annual NBRT Composite [deprecated]",
         "type": "image_collection"
@@ -3933,7 +3933,7 @@
         "provider": "USGS",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "ndsi",
+        "tags": "landsat, ndsi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDSI_sample.png",
         "title": "Landsat 7 Annual NDSI Composite [deprecated]",
         "type": "image_collection"
@@ -3946,7 +3946,7 @@
         "provider": "USGS",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "ndvi",
+        "tags": "landsat, ndvi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDVI_sample.png",
         "title": "Landsat 7 Annual NDVI Composite [deprecated]",
         "type": "image_collection"
@@ -3959,7 +3959,7 @@
         "provider": "USGS",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "ndwi",
+        "tags": "landsat, ndwi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDWI_sample.png",
         "title": "Landsat 7 Annual NDWI Composite [deprecated]",
         "type": "image_collection"
@@ -3972,7 +3972,7 @@
         "provider": "Google",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "raw",
+        "tags": "landsat, raw, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LE7_RAW_sample.png",
         "title": "Landsat 7 Annual Raw Composite [deprecated]",
         "type": "image_collection"
@@ -3985,7 +3985,7 @@
         "provider": "Google",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "toa",
+        "tags": "landsat, toa, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LE7_TOA_sample.png",
         "title": "Landsat 7 Annual TOA Reflectance Composite [deprecated]",
         "type": "image_collection"
@@ -3998,7 +3998,7 @@
         "provider": "USGS/Google",
         "start_date": "1999-01-01",
         "startyear": "1999",
-        "tags": "global, landsat, toa, usgs",
+        "tags": "global, landsat, landsat, toa, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/L5_TOA_sample.png",
         "title": "USGS Landsat 7 TOA Reflectance (Orthorectified) [deprecated]",
         "type": "image_collection"
@@ -4050,7 +4050,7 @@
         "provider": "USGS",
         "start_date": "1972-07-23",
         "startyear": "1972",
-        "tags": "c1, global, l1, landsat, lm1, mss, radiance, t1, tier1, usgs",
+        "tags": "c1, global, l1, landsat, landsat, lm1, mss, radiance, t1, tier1, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "USGS Landsat 1 MSS Collection 1 Tier 1 Raw Scenes",
         "type": "image_collection"
@@ -4063,7 +4063,7 @@
         "provider": "USGS",
         "start_date": "1972-07-23",
         "startyear": "1972",
-        "tags": "c1, global, l1, landsat, lm1, mss, radiance, t2, tier2, usgs",
+        "tags": "c1, global, l1, landsat, landsat, lm1, mss, radiance, t2, tier2, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "USGS Landsat 1 MSS Collection 1 Tier 2 Raw Scenes",
         "type": "image_collection"
@@ -4076,7 +4076,7 @@
         "provider": "USGS",
         "start_date": "1975-01-22",
         "startyear": "1975",
-        "tags": "c1, global, l2, landsat, lm2, mss, radiance, t1, tier1, usgs",
+        "tags": "c1, global, l2, landsat, landsat, lm2, mss, radiance, t1, tier1, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "USGS Landsat 2 MSS Collection 1 Tier 1 Raw Scenes",
         "type": "image_collection"
@@ -4089,7 +4089,7 @@
         "provider": "USGS",
         "start_date": "1975-01-22",
         "startyear": "1975",
-        "tags": "c1, global, l2, landsat, lm2, mss, radiance, t2, tier2, usgs",
+        "tags": "c1, global, l2, landsat, landsat, lm2, mss, radiance, t2, tier2, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "USGS Landsat 2 MSS Collection 1 Tier 2 Raw Scenes",
         "type": "image_collection"
@@ -4102,7 +4102,7 @@
         "provider": "USGS",
         "start_date": "1978-03-05",
         "startyear": "1978",
-        "tags": "c1, global, l3, landsat, lm3, mss, radiance, t1, tier1, usgs",
+        "tags": "c1, global, l3, landsat, landsat, lm3, mss, radiance, t1, tier1, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "USGS Landsat 3 MSS Collection 1 Tier 1 Raw Scenes",
         "type": "image_collection"
@@ -4115,7 +4115,7 @@
         "provider": "USGS",
         "start_date": "1978-03-05",
         "startyear": "1978",
-        "tags": "c1, global, l3, landsat, lm3, mss, radiance, t2, tier2, usgs",
+        "tags": "c1, global, l3, landsat, landsat, lm3, mss, radiance, t2, tier2, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "USGS Landsat 3 MSS Collection 1 Tier 2 Raw Scenes",
         "type": "image_collection"
@@ -4128,7 +4128,7 @@
         "provider": "USGS",
         "start_date": "1982-07-16",
         "startyear": "1982",
-        "tags": "c1, global, l4, landsat, lm4, mss, radiance, t1, tier1, usgs",
+        "tags": "c1, global, l4, landsat, landsat, lm4, mss, radiance, t1, tier1, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "USGS Landsat 4 MSS Collection 1 Tier 1 Raw Scenes",
         "type": "image_collection"
@@ -4141,7 +4141,7 @@
         "provider": "USGS",
         "start_date": "1982-07-16",
         "startyear": "1982",
-        "tags": "c1, global, l4, landsat, lm4, mss, radiance, t2, tier2, usgs",
+        "tags": "c1, global, l4, landsat, landsat, lm4, mss, radiance, t2, tier2, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "USGS Landsat 4 MSS Collection 1 Tier 2 Raw Scenes",
         "type": "image_collection"
@@ -4154,7 +4154,7 @@
         "provider": "USGS",
         "start_date": "1984-03-01",
         "startyear": "1984",
-        "tags": "c1, global, l5, landsat, lm5, mss, radiance, t1, tier1, usgs",
+        "tags": "c1, global, l5, landsat, landsat, lm5, mss, radiance, t1, tier1, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "USGS Landsat 5 MSS Collection 1 Tier 1 Raw Scenes",
         "type": "image_collection"
@@ -4167,7 +4167,7 @@
         "provider": "USGS",
         "start_date": "1984-03-01",
         "startyear": "1984",
-        "tags": "c1, global, l5, landsat, lm5, mss, radiance, t2, tier2, usgs",
+        "tags": "c1, global, l5, landsat, landsat, lm5, mss, radiance, t2, tier2, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "USGS Landsat 5 MSS Collection 1 Tier 2 Raw Scenes",
         "type": "image_collection"
@@ -4180,7 +4180,7 @@
         "provider": "USGS",
         "start_date": "1972-07-23",
         "startyear": "1972",
-        "tags": "global, l1, landsat, lm1, mss, radiance, usgs",
+        "tags": "global, l1, landsat, landsat, lm1, mss, radiance, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "USGS Landsat 1 MSS Raw Scenes [deprecated]",
         "type": "image_collection"
@@ -4193,7 +4193,7 @@
         "provider": "USGS",
         "start_date": "1972-07-23",
         "startyear": "1972",
-        "tags": "global, l1, landsat, lm1, mss, radiance, usgs",
+        "tags": "global, l1, landsat, landsat, lm1, mss, radiance, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "USGS Landsat 1 MSS Raw Scenes (Orthorectified) [deprecated]",
         "type": "image_collection"
@@ -4206,7 +4206,7 @@
         "provider": "USGS",
         "start_date": "1975-01-22",
         "startyear": "1975",
-        "tags": "global, l2, landsat, lm2, mss, radiance, usgs",
+        "tags": "global, l2, landsat, landsat, lm2, mss, radiance, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "USGS Landsat 2 MSS Raw Scenes [deprecated]",
         "type": "image_collection"
@@ -4219,7 +4219,7 @@
         "provider": "USGS",
         "start_date": "1975-01-22",
         "startyear": "1975",
-        "tags": "global, l2, landsat, lm2, mss, radiance, usgs",
+        "tags": "global, l2, landsat, landsat, lm2, mss, radiance, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "USGS Landsat 2 MSS Raw Scenes (Orthorectified) [deprecated]",
         "type": "image_collection"
@@ -4232,7 +4232,7 @@
         "provider": "USGS",
         "start_date": "1978-03-05",
         "startyear": "1978",
-        "tags": "global, l3, landsat, lm3, mss, radiance, usgs",
+        "tags": "global, l3, landsat, landsat, lm3, mss, radiance, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "USGS Landsat 3 MSS Raw Scenes [deprecated]",
         "type": "image_collection"
@@ -4245,7 +4245,7 @@
         "provider": "USGS",
         "start_date": "1978-03-05",
         "startyear": "1978",
-        "tags": "global, l3, landsat, lm3, mss, radiance, usgs",
+        "tags": "global, l3, landsat, landsat, lm3, mss, radiance, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "USGS Landsat 3 MSS Raw Scenes (Orthorectified) [deprecated]",
         "type": "image_collection"
@@ -4258,7 +4258,7 @@
         "provider": "USGS",
         "start_date": "1982-07-16",
         "startyear": "1982",
-        "tags": "global, l4, landsat, lm4, mss, radiance, usgs",
+        "tags": "global, l4, landsat, landsat, lm4, mss, radiance, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "USGS Landsat 4 MSS Raw Scenes [deprecated]",
         "type": "image_collection"
@@ -4271,7 +4271,7 @@
         "provider": "USGS",
         "start_date": "1982-07-16",
         "startyear": "1982",
-        "tags": "global, l4, landsat, lm4, mss, radiance, usgs",
+        "tags": "global, l4, landsat, landsat, lm4, mss, radiance, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "USGS Landsat 4 MSS Raw Scenes (Orthorectified) [deprecated]",
         "type": "image_collection"
@@ -4284,7 +4284,7 @@
         "provider": "USGS",
         "start_date": "1984-03-01",
         "startyear": "1984",
-        "tags": "global, l5, landsat, lm5, mss, radiance, usgs",
+        "tags": "global, l5, landsat, landsat, lm5, mss, radiance, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "USGS Landsat 5 MSS Raw Scenes [deprecated]",
         "type": "image_collection"
@@ -4297,46 +4297,46 @@
         "provider": "USGS",
         "start_date": "1984-03-01",
         "startyear": "1984",
-        "tags": "global, l5, landsat, lm5, mss, radiance, usgs",
+        "tags": "global, l5, landsat, landsat, lm5, mss, radiance, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "USGS Landsat 5 MSS Raw Scenes (Orthorectified) [deprecated]",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LO08_C01_T1",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LO08/C01/T1",
         "provider": "USGS",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "c1, global, l8, landsat, lo8, oli, radiance, t1, tier1, usgs",
+        "tags": "c1, global, l8, landsat, landsat, lo8, oli, radiance, t1, tier1, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "USGS Landsat 8 Collection 1 Tier 1 OLI Raw Scenes",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LO08_C01_T1_RT",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LO08/C01/T1_RT",
         "provider": "USGS",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "c1, global, l8, landsat, lo8, nrt, oli, radiance, rt, t1, tier1, usgs",
+        "tags": "c1, global, l8, landsat, landsat, lo8, nrt, oli, radiance, rt, t1, tier1, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "USGS Landsat 8 Collection 1 Tier 1 and Real-Time data OLI Raw Scenes",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LO08_C01_T2",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LO08/C01/T2",
         "provider": "USGS",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "c1, global, l8, landsat, lo8, oli, radiance, t2, tier2, usgs",
+        "tags": "c1, global, l8, landsat, landsat, lo8, oli, radiance, t2, tier2, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "USGS Landsat 8 Collection 1 Tier 2 OLI Raw Scenes",
         "type": "image_collection"
@@ -4349,7 +4349,7 @@
         "provider": "USGS",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "c1, global, l4, landsat, lt4, radiance, t1, tier1, tm, usgs",
+        "tags": "c1, global, l4, landsat, landsat, lt4, radiance, t1, tier1, tm, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "USGS Landsat 4 TM Collection 1 Tier 1 Raw Scenes",
         "type": "image_collection"
@@ -4362,7 +4362,7 @@
         "provider": "Google",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "bai",
+        "tags": "bai, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/BAI_sample.png",
         "title": "Landsat 4 TM Collection 1 Tier 1 32-Day BAI Composite",
         "type": "image_collection"
@@ -4375,7 +4375,7 @@
         "provider": "Google",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "evi",
+        "tags": "evi, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/EVI_sample.png",
         "title": "Landsat 4 TM Collection 1 Tier 1 32-Day EVI Composite",
         "type": "image_collection"
@@ -4388,7 +4388,7 @@
         "provider": "Google",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "nbrt",
+        "tags": "landsat, nbrt, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NBRT_sample.png",
         "title": "Landsat 4 TM Collection 1 Tier 1 32-Day NBRT Composite",
         "type": "image_collection"
@@ -4401,7 +4401,7 @@
         "provider": "Google",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "ndsi",
+        "tags": "landsat, ndsi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDSI_sample.png",
         "title": "Landsat 4 TM Collection 1 Tier 1 32-Day NDSI Composite",
         "type": "image_collection"
@@ -4414,7 +4414,7 @@
         "provider": "Google",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "ndvi",
+        "tags": "landsat, ndvi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDVI_sample.png",
         "title": "Landsat 4 TM Collection 1 Tier 1 32-Day NDVI Composite",
         "type": "image_collection"
@@ -4427,7 +4427,7 @@
         "provider": "Google",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "ndwi",
+        "tags": "landsat, ndwi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDWI_sample.png",
         "title": "Landsat 4 TM Collection 1 Tier 1 32-Day NDWI Composite",
         "type": "image_collection"
@@ -4440,7 +4440,7 @@
         "provider": "USGS/Google",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "raw",
+        "tags": "landsat, raw, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "Landsat 4 TM Collection 1 Tier 1 32-Day Raw Composite",
         "type": "image_collection"
@@ -4453,7 +4453,7 @@
         "provider": "Google",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "toa",
+        "tags": "landsat, toa, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_TOA_sample.png",
         "title": "Landsat 4 TM Collection 1 Tier 1 32-Day TOA Reflectance Composite",
         "type": "image_collection"
@@ -4466,7 +4466,7 @@
         "provider": "Google",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "bai",
+        "tags": "bai, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/BAI_sample.png",
         "title": "Landsat 4 TM Collection 1 Tier 1 8-Day BAI Composite",
         "type": "image_collection"
@@ -4479,7 +4479,7 @@
         "provider": "Google",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "evi",
+        "tags": "evi, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/EVI_sample.png",
         "title": "Landsat 4 TM Collection 1 Tier 1 8-Day EVI Composite",
         "type": "image_collection"
@@ -4492,7 +4492,7 @@
         "provider": "Google",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "nbrt",
+        "tags": "landsat, nbrt, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NBRT_sample.png",
         "title": "Landsat 4 TM Collection 1 Tier 1 8-Day NBRT Composite",
         "type": "image_collection"
@@ -4505,7 +4505,7 @@
         "provider": "Google",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "ndsi",
+        "tags": "landsat, ndsi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDSI_sample.png",
         "title": "Landsat 4 TM Collection 1 Tier 1 8-Day NDSI Composite",
         "type": "image_collection"
@@ -4518,7 +4518,7 @@
         "provider": "Google",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "ndvi",
+        "tags": "landsat, ndvi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDVI_sample.png",
         "title": "Landsat 4 TM Collection 1 Tier 1 8-Day NDVI Composite",
         "type": "image_collection"
@@ -4531,7 +4531,7 @@
         "provider": "Google",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "ndwi",
+        "tags": "landsat, ndwi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDWI_sample.png",
         "title": "Landsat 4 TM Collection 1 Tier 1 8-Day NDWI Composite",
         "type": "image_collection"
@@ -4544,7 +4544,7 @@
         "provider": "USGS/Google",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "raw",
+        "tags": "landsat, raw, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "Landsat 4 TM Collection 1 Tier 1 8-Day Raw Composite",
         "type": "image_collection"
@@ -4557,7 +4557,7 @@
         "provider": "Google",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "toa",
+        "tags": "landsat, toa, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_TOA_sample.png",
         "title": "Landsat 4 TM Collection 1 Tier 1 8-Day TOA Reflectance Composite",
         "type": "image_collection"
@@ -4570,7 +4570,7 @@
         "provider": "Google",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "bai",
+        "tags": "bai, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/BAI_sample.png",
         "title": "Landsat 4 TM Collection 1 Tier 1 Annual BAI Composite",
         "type": "image_collection"
@@ -4583,7 +4583,7 @@
         "provider": "Google",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "evi",
+        "tags": "evi, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/EVI_sample.png",
         "title": "Landsat 4 TM Collection 1 Tier 1 Annual EVI Composite",
         "type": "image_collection"
@@ -4609,7 +4609,7 @@
         "provider": "Google",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "nbrt",
+        "tags": "landsat, nbrt, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NBRT_sample.png",
         "title": "Landsat 4 TM Collection 1 Tier 1 Annual NBRT Composite",
         "type": "image_collection"
@@ -4622,7 +4622,7 @@
         "provider": "Google",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "ndsi",
+        "tags": "landsat, ndsi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDSI_sample.png",
         "title": "Landsat 4 TM Collection 1 Tier 1 Annual NDSI Composite",
         "type": "image_collection"
@@ -4635,7 +4635,7 @@
         "provider": "Google",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "ndvi",
+        "tags": "landsat, ndvi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDVI_sample.png",
         "title": "Landsat 4 TM Collection 1 Tier 1 Annual NDVI Composite",
         "type": "image_collection"
@@ -4648,7 +4648,7 @@
         "provider": "Google",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "ndwi",
+        "tags": "landsat, ndwi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDWI_sample.png",
         "title": "Landsat 4 TM Collection 1 Tier 1 Annual NDWI Composite",
         "type": "image_collection"
@@ -4661,7 +4661,7 @@
         "provider": "USGS/Google",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "raw",
+        "tags": "landsat, raw, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "Landsat 4 TM Collection 1 Tier 1 Annual Raw Composite",
         "type": "image_collection"
@@ -4674,7 +4674,7 @@
         "provider": "Google",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "toa",
+        "tags": "landsat, toa, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_TOA_sample.png",
         "title": "Landsat 4 TM Collection 1 Tier 1 Annual TOA Reflectance Composite",
         "type": "image_collection"
@@ -4700,7 +4700,7 @@
         "provider": "USGS/Google",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "global, landsat, toa, usgs",
+        "tags": "global, landsat, landsat, toa, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_TOA_sample.png",
         "title": "USGS Landsat 4 TM Collection 1 Tier 1 TOA Reflectance",
         "type": "image_collection"
@@ -4713,7 +4713,7 @@
         "provider": "USGS",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "c1, global, l4, landsat, lt4, radiance, t2, tier2, tm, usgs",
+        "tags": "c1, global, l4, landsat, landsat, lt4, radiance, t2, tier2, tm, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "USGS Landsat 4 TM Collection 1 Tier 2 Raw Scenes",
         "type": "image_collection"
@@ -4739,7 +4739,7 @@
         "provider": "USGS/Google",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "global, landsat, toa, usgs",
+        "tags": "global, landsat, landsat, toa, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_TOA_sample.png",
         "title": "USGS Landsat 4 TM Collection 1 Tier 2 TOA Reflectance",
         "type": "image_collection"
@@ -4752,7 +4752,7 @@
         "provider": "USGS",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "c1, global, l5, landsat, lt5, radiance, t1, tier1, tm, usgs",
+        "tags": "c1, global, l5, landsat, landsat, lt5, radiance, t1, tier1, tm, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "USGS Landsat 5 TM Collection 1 Tier 1 Raw Scenes",
         "type": "image_collection"
@@ -4765,7 +4765,7 @@
         "provider": "Google",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "bai",
+        "tags": "bai, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/BAI_sample.png",
         "title": "Landsat 5 TM Collection 1 Tier 1 32-Day BAI Composite",
         "type": "image_collection"
@@ -4778,7 +4778,7 @@
         "provider": "Google",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "evi",
+        "tags": "evi, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/EVI_sample.png",
         "title": "Landsat 5 TM Collection 1 Tier 1 32-Day EVI Composite",
         "type": "image_collection"
@@ -4791,7 +4791,7 @@
         "provider": "Google",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "nbrt",
+        "tags": "landsat, nbrt, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NBRT_sample.png",
         "title": "Landsat 5 TM Collection 1 Tier 1 32-Day NBRT Composite",
         "type": "image_collection"
@@ -4804,7 +4804,7 @@
         "provider": "Google",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "ndsi",
+        "tags": "landsat, ndsi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDSI_sample.png",
         "title": "Landsat 5 TM Collection 1 Tier 1 32-Day NDSI Composite",
         "type": "image_collection"
@@ -4817,7 +4817,7 @@
         "provider": "Google",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "ndvi",
+        "tags": "landsat, ndvi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDVI_sample.png",
         "title": "Landsat 5 TM Collection 1 Tier 1 32-Day NDVI Composite",
         "type": "image_collection"
@@ -4830,7 +4830,7 @@
         "provider": "Google",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "ndwi",
+        "tags": "landsat, ndwi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDWI_sample.png",
         "title": "Landsat 5 TM Collection 1 Tier 1 32-Day NDWI Composite",
         "type": "image_collection"
@@ -4843,7 +4843,7 @@
         "provider": "USGS/Google",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "raw",
+        "tags": "landsat, raw, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "Landsat 5 TM Collection 1 Tier 1 32-Day Raw Composite",
         "type": "image_collection"
@@ -4856,7 +4856,7 @@
         "provider": "Google",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "toa",
+        "tags": "landsat, toa, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_TOA_sample.png",
         "title": "Landsat 5 TM Collection 1 Tier 1 32-Day TOA Reflectance Composite",
         "type": "image_collection"
@@ -4869,7 +4869,7 @@
         "provider": "Google",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "bai",
+        "tags": "bai, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/BAI_sample.png",
         "title": "Landsat 5 TM Collection 1 Tier 1 8-Day BAI Composite",
         "type": "image_collection"
@@ -4882,7 +4882,7 @@
         "provider": "Google",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "evi",
+        "tags": "evi, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/EVI_sample.png",
         "title": "Landsat 5 TM Collection 1 Tier 1 8-Day EVI Composite",
         "type": "image_collection"
@@ -4895,7 +4895,7 @@
         "provider": "Google",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "nbrt",
+        "tags": "landsat, nbrt, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NBRT_sample.png",
         "title": "Landsat 5 TM Collection 1 Tier 1 8-Day NBRT Composite",
         "type": "image_collection"
@@ -4908,7 +4908,7 @@
         "provider": "Google",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "ndsi",
+        "tags": "landsat, ndsi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDSI_sample.png",
         "title": "Landsat 5 TM Collection 1 Tier 1 8-Day NDSI Composite",
         "type": "image_collection"
@@ -4921,7 +4921,7 @@
         "provider": "Google",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "ndvi",
+        "tags": "landsat, ndvi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDVI_sample.png",
         "title": "Landsat 5 TM Collection 1 Tier 1 8-Day NDVI Composite",
         "type": "image_collection"
@@ -4934,7 +4934,7 @@
         "provider": "Google",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "ndwi",
+        "tags": "landsat, ndwi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDWI_sample.png",
         "title": "Landsat 5 TM Collection 1 Tier 1 8-Day NDWI Composite",
         "type": "image_collection"
@@ -4947,7 +4947,7 @@
         "provider": "USGS/Google",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "raw",
+        "tags": "landsat, raw, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "Landsat 5 TM Collection 1 Tier 1 8-Day Raw Composite",
         "type": "image_collection"
@@ -4960,7 +4960,7 @@
         "provider": "Google",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "toa",
+        "tags": "landsat, toa, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_TOA_sample.png",
         "title": "Landsat 5 TM Collection 1 Tier 1 8-Day TOA Reflectance Composite",
         "type": "image_collection"
@@ -4973,7 +4973,7 @@
         "provider": "Google",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "bai",
+        "tags": "bai, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/BAI_sample.png",
         "title": "Landsat 5 TM Collection 1 Tier 1 Annual BAI Composite",
         "type": "image_collection"
@@ -4986,7 +4986,7 @@
         "provider": "Google",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "evi",
+        "tags": "evi, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/EVI_sample.png",
         "title": "Landsat 5 TM Collection 1 Tier 1 Annual EVI Composite",
         "type": "image_collection"
@@ -5012,7 +5012,7 @@
         "provider": "Google",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "nbrt",
+        "tags": "landsat, nbrt, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NBRT_sample.png",
         "title": "Landsat 5 TM Collection 1 Tier 1 Annual NBRT Composite",
         "type": "image_collection"
@@ -5025,7 +5025,7 @@
         "provider": "Google",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "ndsi",
+        "tags": "landsat, ndsi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDSI_sample.png",
         "title": "Landsat 5 TM Collection 1 Tier 1 Annual NDSI Composite",
         "type": "image_collection"
@@ -5038,7 +5038,7 @@
         "provider": "Google",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "ndvi",
+        "tags": "landsat, ndvi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDVI_sample.png",
         "title": "Landsat 5 TM Collection 1 Tier 1 Annual NDVI Composite",
         "type": "image_collection"
@@ -5051,7 +5051,7 @@
         "provider": "Google",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "ndwi",
+        "tags": "landsat, ndwi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDWI_sample.png",
         "title": "Landsat 5 TM Collection 1 Tier 1 Annual NDWI Composite",
         "type": "image_collection"
@@ -5064,7 +5064,7 @@
         "provider": "USGS/Google",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "raw",
+        "tags": "landsat, raw, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "Landsat 5 TM Collection 1 Tier 1 Annual Raw Composite",
         "type": "image_collection"
@@ -5077,7 +5077,7 @@
         "provider": "Google",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "toa",
+        "tags": "landsat, toa, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_TOA_sample.png",
         "title": "Landsat 5 TM Collection 1 Tier 1 Annual TOA Reflectance Composite",
         "type": "image_collection"
@@ -5103,7 +5103,7 @@
         "provider": "USGS/Google",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "global, landsat, toa, usgs",
+        "tags": "global, landsat, landsat, toa, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_TOA_sample.png",
         "title": "USGS Landsat 5 TM Collection 1 Tier 1 TOA Reflectance",
         "type": "image_collection"
@@ -5116,7 +5116,7 @@
         "provider": "USGS",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "c1, global, l5, landsat, lt5, radiance, t2, tier2, tm, usgs",
+        "tags": "c1, global, l5, landsat, landsat, lt5, radiance, t2, tier2, tm, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "USGS Landsat 5 TM Collection 1 Tier 2 Raw Scenes",
         "type": "image_collection"
@@ -5142,20 +5142,20 @@
         "provider": "USGS/Google",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "global, landsat, toa, usgs",
+        "tags": "global, landsat, landsat, toa, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_TOA_sample.png",
         "title": "USGS Landsat 5 TM Collection 1 Tier 2 TOA Reflectance",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LT08_C01_T2",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "LANDSAT/LT08/C01/T2",
         "provider": "USGS",
         "start_date": "2013-04-11",
         "startyear": "2013",
-        "tags": "c1, global, l8, landsat, lt8, radiance, t2, tier2, tirs, usgs",
+        "tags": "c1, global, l8, landsat, landsat, lt8, radiance, t2, tier2, tirs, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "USGS Landsat 8 Collection 1 Tier 2 TIRS Raw Scenes",
         "type": "image_collection"
@@ -5168,7 +5168,7 @@
         "provider": "USGS",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "global, l4, landsat, lt4, radiance, tm, usgs",
+        "tags": "global, l4, landsat, landsat, lt4, radiance, tm, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "USGS Landsat 4 TM Raw Scenes [deprecated]",
         "type": "image_collection"
@@ -5181,7 +5181,7 @@
         "provider": "USGS",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "global, l4, landsat, lt4, radiance, tm, usgs",
+        "tags": "global, l4, landsat, landsat, lt4, radiance, tm, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "USGS Landsat 4 TM Raw Scenes (Orthorectified) [deprecated]",
         "type": "image_collection"
@@ -5194,7 +5194,7 @@
         "provider": "USGS",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "bai",
+        "tags": "bai, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/BAI_sample.png",
         "title": "Landsat 4 TM 32-Day BAI Composite [deprecated]",
         "type": "image_collection"
@@ -5207,7 +5207,7 @@
         "provider": "USGS",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "evi",
+        "tags": "evi, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/EVI_sample.png",
         "title": "Landsat 4 TM 32-Day EVI Composite [deprecated]",
         "type": "image_collection"
@@ -5220,7 +5220,7 @@
         "provider": "USGS",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "nbrt",
+        "tags": "landsat, nbrt, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NBRT_sample.png",
         "title": "Landsat 4 TM 32-Day NBRT Composite [deprecated]",
         "type": "image_collection"
@@ -5233,7 +5233,7 @@
         "provider": "USGS",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "ndsi",
+        "tags": "landsat, ndsi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDSI_sample.png",
         "title": "Landsat 4 TM 32-Day NDSI Composite [deprecated]",
         "type": "image_collection"
@@ -5246,7 +5246,7 @@
         "provider": "USGS",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "ndvi",
+        "tags": "landsat, ndvi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDVI_sample.png",
         "title": "Landsat 4 TM 32-Day NDVI Composite [deprecated]",
         "type": "image_collection"
@@ -5259,7 +5259,7 @@
         "provider": "USGS",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "ndwi",
+        "tags": "landsat, ndwi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDWI_sample.png",
         "title": "Landsat 4 TM 32-Day NDWI Composite [deprecated]",
         "type": "image_collection"
@@ -5272,7 +5272,7 @@
         "provider": "Google",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "raw",
+        "tags": "landsat, raw, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LT4_RAW_sample.png",
         "title": "Landsat 4 TM 32-Day Raw Composite [deprecated]",
         "type": "image_collection"
@@ -5285,7 +5285,7 @@
         "provider": "Google",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "toa",
+        "tags": "landsat, toa, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LT4_TOA_sample.png",
         "title": "Landsat 4 TM 32-Day TOA Reflectance Composite [deprecated]",
         "type": "image_collection"
@@ -5298,7 +5298,7 @@
         "provider": "USGS",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "bai",
+        "tags": "bai, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/BAI_sample.png",
         "title": "Landsat 4 TM 8-Day BAI Composite [deprecated]",
         "type": "image_collection"
@@ -5311,7 +5311,7 @@
         "provider": "USGS",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "evi",
+        "tags": "evi, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/EVI_sample.png",
         "title": "Landsat 4 TM 8-Day EVI Composite [deprecated]",
         "type": "image_collection"
@@ -5324,7 +5324,7 @@
         "provider": "USGS",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "nbrt",
+        "tags": "landsat, nbrt, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NBRT_sample.png",
         "title": "Landsat 4 TM 8-Day NBRT Composite [deprecated]",
         "type": "image_collection"
@@ -5337,7 +5337,7 @@
         "provider": "USGS",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "ndsi",
+        "tags": "landsat, ndsi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDSI_sample.png",
         "title": "Landsat 4 TM 8-Day NDSI Composite [deprecated]",
         "type": "image_collection"
@@ -5350,7 +5350,7 @@
         "provider": "USGS",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "ndvi",
+        "tags": "landsat, ndvi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDVI_sample.png",
         "title": "Landsat 4 TM 8-Day NDVI Composite [deprecated]",
         "type": "image_collection"
@@ -5363,7 +5363,7 @@
         "provider": "USGS",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "ndwi",
+        "tags": "landsat, ndwi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDWI_sample.png",
         "title": "Landsat 4 TM 8-Day NDWI Composite [deprecated]",
         "type": "image_collection"
@@ -5376,7 +5376,7 @@
         "provider": "Google",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "raw",
+        "tags": "landsat, raw, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LT4_RAW_sample.png",
         "title": "Landsat 4 TM 8-Day Raw Composite [deprecated]",
         "type": "image_collection"
@@ -5389,7 +5389,7 @@
         "provider": "Google",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "toa",
+        "tags": "landsat, toa, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LT4_TOA_sample.png",
         "title": "Landsat 4 TM 8-Day TOA Reflectance Composite [deprecated]",
         "type": "image_collection"
@@ -5402,7 +5402,7 @@
         "provider": "USGS",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "bai",
+        "tags": "bai, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/BAI_sample.png",
         "title": "Landsat 4 TM Annual BAI Composite [deprecated]",
         "type": "image_collection"
@@ -5415,7 +5415,7 @@
         "provider": "USGS",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "evi",
+        "tags": "evi, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/EVI_sample.png",
         "title": "Landsat 4 TM Annual EVI Composite [deprecated]",
         "type": "image_collection"
@@ -5441,7 +5441,7 @@
         "provider": "USGS",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "nbrt",
+        "tags": "landsat, nbrt, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NBRT_sample.png",
         "title": "Landsat 4 TM Annual NBRT Composite [deprecated]",
         "type": "image_collection"
@@ -5454,7 +5454,7 @@
         "provider": "USGS",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "ndsi",
+        "tags": "landsat, ndsi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDSI_sample.png",
         "title": "Landsat 4 TM Annual NDSI Composite [deprecated]",
         "type": "image_collection"
@@ -5467,7 +5467,7 @@
         "provider": "USGS",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "ndvi",
+        "tags": "landsat, ndvi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDVI_sample.png",
         "title": "Landsat 4 TM Annual NDVI Composite [deprecated]",
         "type": "image_collection"
@@ -5480,7 +5480,7 @@
         "provider": "USGS",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "ndwi",
+        "tags": "landsat, ndwi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDWI_sample.png",
         "title": "Landsat 4 TM Annual NDWI Composite [deprecated]",
         "type": "image_collection"
@@ -5493,7 +5493,7 @@
         "provider": "Google",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "raw",
+        "tags": "landsat, raw, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LT4_RAW_sample.png",
         "title": "Landsat 4 TM Annual Raw Composite [deprecated]",
         "type": "image_collection"
@@ -5506,7 +5506,7 @@
         "provider": "Google",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "toa",
+        "tags": "landsat, toa, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LT4_TOA_sample.png",
         "title": "Landsat 4 TM Annual TOA Reflectance Composite [deprecated]",
         "type": "image_collection"
@@ -5519,7 +5519,7 @@
         "provider": "USGS/Google",
         "start_date": "1982-08-22",
         "startyear": "1982",
-        "tags": "global, landsat, toa, usgs",
+        "tags": "global, landsat, landsat, toa, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/L5_TOA_sample.png",
         "title": "USGS Landsat 4 TM TOA Reflectance (Orthorectified) [deprecated]",
         "type": "image_collection"
@@ -5532,7 +5532,7 @@
         "provider": "USGS",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "global, l5, landsat, lt5, radiance, tm, usgs",
+        "tags": "global, l5, landsat, landsat, lt5, radiance, tm, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "USGS Landsat 5 TM Raw Scenes [deprecated]",
         "type": "image_collection"
@@ -5545,7 +5545,7 @@
         "provider": "USGS",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "global, l5, landsat, lt5, radiance, tm, usgs",
+        "tags": "global, l5, landsat, landsat, lt5, radiance, tm, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LANDSAT_RAW_sample.png",
         "title": "USGS Landsat 5 TM Raw Scenes (Orthorectified) [deprecated]",
         "type": "image_collection"
@@ -5558,7 +5558,7 @@
         "provider": "USGS",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "bai",
+        "tags": "bai, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/BAI_sample.png",
         "title": "Landsat 5 TM 32-Day BAI Composite [deprecated]",
         "type": "image_collection"
@@ -5571,7 +5571,7 @@
         "provider": "USGS",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "evi",
+        "tags": "evi, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/EVI_sample.png",
         "title": "Landsat 5 TM 32-Day EVI Composite [deprecated]",
         "type": "image_collection"
@@ -5584,7 +5584,7 @@
         "provider": "USGS",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "nbrt",
+        "tags": "landsat, nbrt, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NBRT_sample.png",
         "title": "Landsat 5 TM 32-Day NBRT Composite [deprecated]",
         "type": "image_collection"
@@ -5597,7 +5597,7 @@
         "provider": "USGS",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "ndsi",
+        "tags": "landsat, ndsi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDSI_sample.png",
         "title": "Landsat 5 TM 32-Day NDSI Composite [deprecated]",
         "type": "image_collection"
@@ -5610,7 +5610,7 @@
         "provider": "USGS",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "ndvi",
+        "tags": "landsat, ndvi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDVI_sample.png",
         "title": "Landsat 5 TM 32-Day NDVI Composite [deprecated]",
         "type": "image_collection"
@@ -5623,7 +5623,7 @@
         "provider": "USGS",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "ndwi",
+        "tags": "landsat, ndwi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDWI_sample.png",
         "title": "Landsat 5 TM 32-Day NDWI Composite [deprecated]",
         "type": "image_collection"
@@ -5636,7 +5636,7 @@
         "provider": "Google",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "raw",
+        "tags": "landsat, raw, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LT5_RAW_sample.png",
         "title": "Landsat 5 TM 32-Day Raw Composite [deprecated]",
         "type": "image_collection"
@@ -5649,7 +5649,7 @@
         "provider": "Google",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "toa",
+        "tags": "landsat, toa, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LT5_TOA_sample.png",
         "title": "Landsat 5 TM 32-Day TOA Reflectance Composite [deprecated]",
         "type": "image_collection"
@@ -5662,7 +5662,7 @@
         "provider": "USGS",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "bai",
+        "tags": "bai, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/BAI_sample.png",
         "title": "Landsat 5 TM 8-Day BAI Composite [deprecated]",
         "type": "image_collection"
@@ -5675,7 +5675,7 @@
         "provider": "USGS",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "evi",
+        "tags": "evi, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/EVI_sample.png",
         "title": "Landsat 5 TM 8-Day EVI Composite [deprecated]",
         "type": "image_collection"
@@ -5688,7 +5688,7 @@
         "provider": "USGS",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "nbrt",
+        "tags": "landsat, nbrt, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NBRT_sample.png",
         "title": "Landsat 5 TM 8-Day NBRT Composite [deprecated]",
         "type": "image_collection"
@@ -5701,7 +5701,7 @@
         "provider": "USGS",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "ndsi",
+        "tags": "landsat, ndsi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDSI_sample.png",
         "title": "Landsat 5 TM 8-Day NDSI Composite [deprecated]",
         "type": "image_collection"
@@ -5714,7 +5714,7 @@
         "provider": "USGS",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "ndvi",
+        "tags": "landsat, ndvi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDVI_sample.png",
         "title": "Landsat 5 TM 8-Day NDVI Composite [deprecated]",
         "type": "image_collection"
@@ -5727,7 +5727,7 @@
         "provider": "USGS",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "ndwi",
+        "tags": "landsat, ndwi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDWI_sample.png",
         "title": "Landsat 5 TM 8-Day NDWI Composite [deprecated]",
         "type": "image_collection"
@@ -5740,7 +5740,7 @@
         "provider": "Google",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "raw",
+        "tags": "landsat, raw, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LT5_RAW_sample.png",
         "title": "Landsat 5 TM 8-Day Raw Composite [deprecated]",
         "type": "image_collection"
@@ -5753,7 +5753,7 @@
         "provider": "Google",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "toa",
+        "tags": "landsat, toa, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LT5_TOA_sample.png",
         "title": "Landsat 5 TM 8-Day TOA Reflectance Composite [deprecated]",
         "type": "image_collection"
@@ -5766,7 +5766,7 @@
         "provider": "USGS",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "bai",
+        "tags": "bai, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/BAI_sample.png",
         "title": "Landsat 5 TM Annual BAI Composite [deprecated]",
         "type": "image_collection"
@@ -5779,7 +5779,7 @@
         "provider": "USGS",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "evi",
+        "tags": "evi, landsat, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/EVI_sample.png",
         "title": "Landsat 5 TM Annual EVI Composite [deprecated]",
         "type": "image_collection"
@@ -5805,7 +5805,7 @@
         "provider": "USGS",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "nbrt",
+        "tags": "landsat, nbrt, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NBRT_sample.png",
         "title": "Landsat 5 TM Annual NBRT Composite [deprecated]",
         "type": "image_collection"
@@ -5818,7 +5818,7 @@
         "provider": "USGS",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "ndsi",
+        "tags": "landsat, ndsi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDSI_sample.png",
         "title": "Landsat 5 TM Annual NDSI Composite [deprecated]",
         "type": "image_collection"
@@ -5831,7 +5831,7 @@
         "provider": "USGS",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "ndvi",
+        "tags": "landsat, ndvi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDVI_sample.png",
         "title": "Landsat 5 TM Annual NDVI Composite [deprecated]",
         "type": "image_collection"
@@ -5844,7 +5844,7 @@
         "provider": "USGS",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "ndwi",
+        "tags": "landsat, ndwi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDWI_sample.png",
         "title": "Landsat 5 TM Annual NDWI Composite [deprecated]",
         "type": "image_collection"
@@ -5857,7 +5857,7 @@
         "provider": "Google",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "raw",
+        "tags": "landsat, raw, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LT5_RAW_sample.png",
         "title": "Landsat 5 TM Annual Raw Composite [deprecated]",
         "type": "image_collection"
@@ -5870,7 +5870,7 @@
         "provider": "Google",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "toa",
+        "tags": "landsat, toa, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/LT5_TOA_sample.png",
         "title": "Landsat 5 TM Annual TOA Reflectance Composite [deprecated]",
         "type": "image_collection"
@@ -5883,7 +5883,7 @@
         "provider": "USGS/Google",
         "start_date": "1984-01-01",
         "startyear": "1984",
-        "tags": "global, landsat, toa, usgs",
+        "tags": "global, landsat, landsat, toa, usgs, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/L5_TOA_sample.png",
         "title": "USGS Landsat 5 TM TOA Reflectance (Orthorectified) [deprecated]",
         "type": "image_collection"
@@ -5942,7 +5942,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MCD12Q1",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MCD12Q1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -5955,7 +5955,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MCD12Q2",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MCD12Q2",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -5968,7 +5968,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MCD15A3H",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MCD15A3H",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -5981,7 +5981,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MCD19A2_GRANULES",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MCD19A2_GRANULES",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -5994,7 +5994,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MCD43A1",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MCD43A1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6007,7 +6007,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MCD43A2",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MCD43A2",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6020,7 +6020,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MCD43A3",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MCD43A3",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6033,7 +6033,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MCD43A4",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MCD43A4",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6046,7 +6046,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MCD43C3",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MCD43C3",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6059,7 +6059,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MCD64A1",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MCD64A1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6072,7 +6072,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD08_M3",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MOD08_M3",
         "provider": "NASA LAADS DAAC at NASA Goddard Space Flight Center",
@@ -6085,7 +6085,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD09A1",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MOD09A1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6098,7 +6098,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD09GA",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MOD09GA",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6111,7 +6111,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD09GQ",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MOD09GQ",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6124,7 +6124,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD09Q1",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MOD09Q1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6137,7 +6137,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD10A1",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MOD10A1",
         "provider": "NASA NSIDC DAAC at CIRES",
@@ -6150,7 +6150,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD11A1",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MOD11A1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6163,7 +6163,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD11A2",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MOD11A2",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6176,7 +6176,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD13A1",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MOD13A1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6189,7 +6189,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD13A2",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MOD13A2",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6202,7 +6202,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD13Q1",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MOD13Q1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6215,7 +6215,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD14A1",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MOD14A1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6228,7 +6228,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD14A2",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MOD14A2",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6241,7 +6241,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD15A2H",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MOD15A2H",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6254,7 +6254,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD16A2",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MOD16A2",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6267,7 +6267,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD17A2H",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MOD17A2H",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6280,7 +6280,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD17A3H",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MOD17A3H",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6293,7 +6293,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD17A3HGF",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MOD17A3HGF",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6306,7 +6306,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD44B",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MOD44B",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6319,7 +6319,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD44W",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MOD44W",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6332,7 +6332,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MODOCGA",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MODOCGA",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6345,7 +6345,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MYD08_M3",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MYD08_M3",
         "provider": "NASA LAADS DAAC at NASA Goddard Space Flight Center",
@@ -6358,7 +6358,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MYD09A1",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MYD09A1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6371,7 +6371,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MYD09GA",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MYD09GA",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6384,7 +6384,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MYD09GQ",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MYD09GQ",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6397,7 +6397,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MYD09Q1",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MYD09Q1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6410,7 +6410,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MYD10A1",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MYD10A1",
         "provider": "NASA NSIDC DAAC at CIRES",
@@ -6423,7 +6423,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MYD11A1",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MYD11A1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6436,7 +6436,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MYD11A2",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MYD11A2",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6449,7 +6449,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MYD13A1",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MYD13A1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6462,7 +6462,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MYD13A2",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MYD13A2",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6475,7 +6475,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MYD13Q1",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MYD13Q1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6488,7 +6488,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MYD14A1",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MYD14A1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6501,7 +6501,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MYD14A2",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MYD14A2",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6514,7 +6514,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MYD15A2H",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MYD15A2H",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6527,7 +6527,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MYD17A2H",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MYD17A2H",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6540,7 +6540,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MYD17A3H",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MYD17A3H",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6553,7 +6553,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MYD17A3HGF",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MYD17A3HGF",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6566,7 +6566,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MYDOCGA",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/006/MYDOCGA",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6579,7 +6579,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_055_MOD17A3",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/055/MOD17A3",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6592,7 +6592,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD08_M3",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/061/MOD08_M3",
         "provider": "NASA LAADS DAAC at NASA Goddard Space Flight Center",
@@ -6605,7 +6605,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MYD08_M3",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/061/MYD08_M3",
         "provider": "NASA LAADS DAAC at NASA Goddard Space Flight Center",
@@ -6657,65 +6657,65 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_MCD43A4_006_BAI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/MCD43A4_006_BAI",
         "provider": "Google",
         "start_date": "2000-02-18",
         "startyear": "2000",
-        "tags": "bai",
+        "tags": "bai, modis, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/BAI_sample.png",
         "title": "MODIS Combined 16-Day BAI",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_MCD43A4_006_EVI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/MCD43A4_006_EVI",
         "provider": "Google",
         "start_date": "2000-02-18",
         "startyear": "2000",
-        "tags": "evi",
+        "tags": "evi, modis, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/EVI_sample.png",
         "title": "MODIS Combined 16-Day EVI",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_MCD43A4_006_NDSI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/MCD43A4_006_NDSI",
         "provider": "Google",
         "start_date": "2000-02-18",
         "startyear": "2000",
-        "tags": "ndsi",
+        "tags": "modis, ndsi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDSI_sample.png",
         "title": "MODIS Combined 16-Day NDSI",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_MCD43A4_006_NDVI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/MCD43A4_006_NDVI",
         "provider": "Google",
         "start_date": "2000-02-18",
         "startyear": "2000",
-        "tags": "ndvi",
+        "tags": "modis, ndvi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDVI_sample.png",
         "title": "MODIS Combined 16-Day NDVI",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_MCD43A4_006_NDWI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/MCD43A4_006_NDWI",
         "provider": "Google",
         "start_date": "2000-02-18",
         "startyear": "2000",
-        "tags": "ndwi",
+        "tags": "modis, ndwi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDWI_sample.png",
         "title": "MODIS Combined 16-Day NDWI",
         "type": "image_collection"
@@ -6728,7 +6728,7 @@
         "provider": "Google",
         "start_date": "2000-02-18",
         "startyear": "2000",
-        "tags": "bai",
+        "tags": "bai, modis, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/BAI_sample.png",
         "title": "MODIS Combined 16-Day BAI [deprecated]",
         "type": "image_collection"
@@ -6741,7 +6741,7 @@
         "provider": "Google",
         "start_date": "2000-02-18",
         "startyear": "2000",
-        "tags": "evi",
+        "tags": "evi, modis, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/EVI_sample.png",
         "title": "MODIS Combined 16-Day EVI [deprecated]",
         "type": "image_collection"
@@ -6754,7 +6754,7 @@
         "provider": "Google",
         "start_date": "2000-02-18",
         "startyear": "2000",
-        "tags": "ndsi",
+        "tags": "modis, ndsi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDSI_sample.png",
         "title": "MODIS Combined 16-Day NDSI [deprecated]",
         "type": "image_collection"
@@ -6767,7 +6767,7 @@
         "provider": "Google",
         "start_date": "2000-02-18",
         "startyear": "2000",
-        "tags": "ndvi",
+        "tags": "modis, ndvi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDVI_sample.png",
         "title": "MODIS Combined 16-Day NDVI [deprecated]",
         "type": "image_collection"
@@ -6780,7 +6780,7 @@
         "provider": "Google",
         "start_date": "2000-02-18",
         "startyear": "2000",
-        "tags": "ndwi",
+        "tags": "modis, ndwi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDWI_sample.png",
         "title": "MODIS Combined 16-Day NDWI [deprecated]",
         "type": "image_collection"
@@ -6813,65 +6813,65 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_MOD09GA_006_BAI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/MOD09GA_006_BAI",
         "provider": "Google",
         "start_date": "2000-02-24",
         "startyear": "2000",
-        "tags": "bai",
+        "tags": "bai, modis, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/BAI_sample.png",
         "title": "MODIS Terra Daily BAI",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_MOD09GA_006_EVI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/MOD09GA_006_EVI",
         "provider": "Google",
         "start_date": "2000-02-24",
         "startyear": "2000",
-        "tags": "evi",
+        "tags": "evi, modis, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/EVI_sample.png",
         "title": "MODIS Terra Daily EVI",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_MOD09GA_006_NDSI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/MOD09GA_006_NDSI",
         "provider": "Google",
         "start_date": "2000-02-24",
         "startyear": "2000",
-        "tags": "ndsi",
+        "tags": "modis, ndsi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDSI_sample.png",
         "title": "MODIS Terra Daily NDSI",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_MOD09GA_006_NDVI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/MOD09GA_006_NDVI",
         "provider": "Google",
         "start_date": "2000-02-24",
         "startyear": "2000",
-        "tags": "ndvi",
+        "tags": "modis, ndvi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDVI_sample.png",
         "title": "MODIS Terra Daily NDVI",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_MOD09GA_006_NDWI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/MOD09GA_006_NDWI",
         "provider": "Google",
         "start_date": "2000-02-24",
         "startyear": "2000",
-        "tags": "ndwi",
+        "tags": "modis, ndwi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDWI_sample.png",
         "title": "MODIS Terra Daily NDWI",
         "type": "image_collection"
@@ -6884,7 +6884,7 @@
         "provider": "Google",
         "start_date": "2000-02-24",
         "startyear": "2000",
-        "tags": "bai",
+        "tags": "bai, modis, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/BAI_sample.png",
         "title": "MODIS Terra Daily BAI [deprecated]",
         "type": "image_collection"
@@ -6897,7 +6897,7 @@
         "provider": "Google",
         "start_date": "2000-02-24",
         "startyear": "2000",
-        "tags": "evi",
+        "tags": "evi, modis, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/EVI_sample.png",
         "title": "MODIS Terra Daily EVI [deprecated]",
         "type": "image_collection"
@@ -6910,7 +6910,7 @@
         "provider": "Google",
         "start_date": "2000-02-24",
         "startyear": "2000",
-        "tags": "ndsi",
+        "tags": "modis, ndsi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDSI_sample.png",
         "title": "MODIS Terra Daily NDSI [deprecated]",
         "type": "image_collection"
@@ -6923,7 +6923,7 @@
         "provider": "Google",
         "start_date": "2000-02-24",
         "startyear": "2000",
-        "tags": "ndvi",
+        "tags": "modis, ndvi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDVI_sample.png",
         "title": "MODIS Terra Daily NDVI [deprecated]",
         "type": "image_collection"
@@ -6936,7 +6936,7 @@
         "provider": "Google",
         "start_date": "2000-02-24",
         "startyear": "2000",
-        "tags": "ndwi",
+        "tags": "modis, ndwi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDWI_sample.png",
         "title": "MODIS Terra Daily NDWI [deprecated]",
         "type": "image_collection"
@@ -7008,7 +7008,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_MOD13A1",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/MOD13A1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -7021,7 +7021,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_MOD13Q1",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/MOD13Q1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -7073,65 +7073,65 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_MYD09GA_006_BAI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/MYD09GA_006_BAI",
         "provider": "Google",
         "start_date": "2002-07-04",
         "startyear": "2002",
-        "tags": "bai",
+        "tags": "bai, modis, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/BAI_sample.png",
         "title": "MODIS Aqua Daily BAI",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_MYD09GA_006_EVI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/MYD09GA_006_EVI",
         "provider": "Google",
         "start_date": "2002-07-04",
         "startyear": "2002",
-        "tags": "evi",
+        "tags": "evi, modis, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/EVI_sample.png",
         "title": "MODIS Aqua Daily EVI",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_MYD09GA_006_NDSI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/MYD09GA_006_NDSI",
         "provider": "Google",
         "start_date": "2002-07-04",
         "startyear": "2002",
-        "tags": "ndsi",
+        "tags": "modis, ndsi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDSI_sample.png",
         "title": "MODIS Aqua Daily NDSI",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_MYD09GA_006_NDVI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/MYD09GA_006_NDVI",
         "provider": "Google",
         "start_date": "2002-07-04",
         "startyear": "2002",
-        "tags": "ndvi",
+        "tags": "modis, ndvi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDVI_sample.png",
         "title": "MODIS Aqua Daily NDVI",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_MYD09GA_006_NDWI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/MYD09GA_006_NDWI",
         "provider": "Google",
         "start_date": "2002-07-04",
         "startyear": "2002",
-        "tags": "ndwi",
+        "tags": "modis, ndwi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDWI_sample.png",
         "title": "MODIS Aqua Daily NDWI",
         "type": "image_collection"
@@ -7144,7 +7144,7 @@
         "provider": "Google",
         "start_date": "2002-07-04",
         "startyear": "2002",
-        "tags": "bai",
+        "tags": "bai, modis, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/BAI_sample.png",
         "title": "MODIS Aqua Daily BAI [deprecated]",
         "type": "image_collection"
@@ -7157,7 +7157,7 @@
         "provider": "Google",
         "start_date": "2002-07-04",
         "startyear": "2002",
-        "tags": "evi",
+        "tags": "evi, modis, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/EVI_sample.png",
         "title": "MODIS Aqua Daily EVI [deprecated]",
         "type": "image_collection"
@@ -7170,7 +7170,7 @@
         "provider": "Google",
         "start_date": "2002-07-04",
         "startyear": "2002",
-        "tags": "ndsi",
+        "tags": "modis, ndsi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDSI_sample.png",
         "title": "MODIS Aqua Daily NDSI [deprecated]",
         "type": "image_collection"
@@ -7183,7 +7183,7 @@
         "provider": "Google",
         "start_date": "2002-07-04",
         "startyear": "2002",
-        "tags": "ndvi",
+        "tags": "modis, ndvi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDVI_sample.png",
         "title": "MODIS Aqua Daily NDVI [deprecated]",
         "type": "image_collection"
@@ -7196,7 +7196,7 @@
         "provider": "Google",
         "start_date": "2002-07-04",
         "startyear": "2002",
-        "tags": "ndwi",
+        "tags": "modis, ndwi, usgs",
         "thumbnail_url": "https://mw1.google.com/ges/dd/images/NDWI_sample.png",
         "title": "MODIS Aqua Daily NDWI [deprecated]",
         "type": "image_collection"
@@ -7268,7 +7268,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_MYD13A1",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/MYD13A1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -7281,7 +7281,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_MYD13Q1",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "MODIS/MYD13Q1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -7320,7 +7320,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_FLDAS_NOAH01_C_GL_M_V001",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NASA/FLDAS/NOAH01/C/GL/M/V001",
         "provider": "NASA GES DISC at NASA Goddard Space Flight Center",
@@ -7346,7 +7346,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_GLDAS_V021_NOAH_G025_T3H",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NASA/GLDAS/V021/NOAH/G025/T3H",
         "provider": "NASA GES DISC at NASA Goddard Space Flight Center",
@@ -7372,7 +7372,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_GPM_L3_IMERG_MONTHLY_V06",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NASA/GPM_L3/IMERG_MONTHLY_V06",
         "provider": "NASA GES DISC at NASA Goddard Space Flight Center",
@@ -7385,7 +7385,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_GPM_L3_IMERG_V06",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NASA/GPM_L3/IMERG_V06",
         "provider": "NASA GES DISC at NASA Goddard Space Flight Center",
@@ -7541,7 +7541,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_NLDAS_FORA0125_H002",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NASA/NLDAS/FORA0125_H002",
         "provider": "NASA GES DISC at NASA Goddard Space Flight Center",
@@ -7554,7 +7554,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_OCEANDATA_MODIS-Aqua_L3SMI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NASA/OCEANDATA/MODIS-Aqua/L3SMI",
         "provider": "NASA OB.DAAC at NASA Goddard Space Flight Center",
@@ -7567,7 +7567,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_OCEANDATA_MODIS-Terra_L3SMI",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NASA/OCEANDATA/MODIS-Terra/L3SMI",
         "provider": "NASA OB.DAAC at NASA Goddard Space Flight Center",
@@ -7593,7 +7593,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_ORNL_DAYMET_V3",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NASA/ORNL/DAYMET_V3",
         "provider": "NASA ORNL DAAC at Oak Ridge National Laboratory",
@@ -7606,7 +7606,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_ORNL_DAYMET_V4",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NASA/ORNL/DAYMET_V4",
         "provider": "NASA ORNL DAAC at Oak Ridge National Laboratory",
@@ -7632,7 +7632,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_USDA_HSL_SMAP10KM_soil_moisture",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NASA_USDA/HSL/SMAP10KM_soil_moisture",
         "provider": "NASA GSFC",
@@ -7645,7 +7645,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_USDA_HSL_SMAP_soil_moisture",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NASA_USDA/HSL/SMAP_soil_moisture",
         "provider": "NASA GSFC",
@@ -7658,7 +7658,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_USDA_HSL_soil_moisture",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NASA_USDA/HSL/soil_moisture",
         "provider": "NASA GSFC",
@@ -7671,7 +7671,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NCEP_RE_sea_level_pressure",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NCEP_RE/sea_level_pressure",
         "provider": "NCEP",
@@ -7684,7 +7684,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NCEP_RE_surface_temp",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NCEP_RE/surface_temp",
         "provider": "NCEP",
@@ -7697,7 +7697,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NCEP_RE_surface_wv",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NCEP_RE/surface_wv",
         "provider": "NCEP",
@@ -7710,7 +7710,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CDR_ATMOS_NEAR_SURFACE_V2",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NOAA/CDR/ATMOS_NEAR_SURFACE/V2",
         "provider": "NOAA",
@@ -7723,7 +7723,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CDR_AVHRR_AOT_V3",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NOAA/CDR/AVHRR/AOT/V3",
         "provider": "NOAA",
@@ -7736,7 +7736,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CDR_AVHRR_LAI_FAPAR_V4",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NOAA/CDR/AVHRR/LAI_FAPAR/V4",
         "provider": "NOAA",
@@ -7749,7 +7749,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CDR_AVHRR_LAI_FAPAR_V5",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NOAA/CDR/AVHRR/LAI_FAPAR/V5",
         "provider": "NOAA",
@@ -7762,7 +7762,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CDR_AVHRR_NDVI_V4",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NOAA/CDR/AVHRR/NDVI/V4",
         "provider": "NOAA",
@@ -7775,7 +7775,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CDR_AVHRR_NDVI_V5",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NOAA/CDR/AVHRR/NDVI/V5",
         "provider": "NOAA",
@@ -7788,7 +7788,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CDR_AVHRR_SR_V4",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NOAA/CDR/AVHRR/SR/V4",
         "provider": "NOAA",
@@ -7801,7 +7801,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CDR_AVHRR_SR_V5",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NOAA/CDR/AVHRR/SR/V5",
         "provider": "NOAA",
@@ -7814,7 +7814,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CDR_GRIDSAT-B1_V2",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NOAA/CDR/GRIDSAT-B1/V2",
         "provider": "NOAA",
@@ -7827,7 +7827,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CDR_HEAT_FLUXES_V2",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NOAA/CDR/HEAT_FLUXES/V2",
         "provider": "NOAA",
@@ -7840,7 +7840,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CDR_OISST_V2",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NOAA/CDR/OISST/V2",
         "provider": "NOAA",
@@ -7853,7 +7853,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CDR_OISST_V2_1",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NOAA/CDR/OISST/V2_1",
         "provider": "NOAA",
@@ -7866,7 +7866,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CDR_PATMOSX_V53",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NOAA/CDR/PATMOSX/V53",
         "provider": "NOAA",
@@ -7879,7 +7879,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CDR_SST_PATHFINDER_V53",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NOAA/CDR/SST_PATHFINDER/V53",
         "provider": "NOAA",
@@ -7892,7 +7892,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CDR_SST_WHOI_V2",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NOAA/CDR/SST_WHOI/V2",
         "provider": "NOAA",
@@ -7905,7 +7905,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CFSR",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NOAA/CFSR",
         "provider": "NOAA NWS National Centers for Environmental Prediction (NCEP)",
@@ -7918,7 +7918,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CFSV2_FOR6H",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NOAA/CFSV2/FOR6H",
         "provider": "NOAA NWS National Centers for Environmental Prediction (NCEP)",
@@ -7957,7 +7957,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GFS0P25",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NOAA/GFS0P25",
         "provider": "NOAA/NCEP/EMC",
@@ -7970,7 +7970,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_16_FDCC",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NOAA/GOES/16/FDCC",
         "provider": "NOAA",
@@ -7983,7 +7983,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_16_FDCF",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NOAA/GOES/16/FDCF",
         "provider": "NOAA",
@@ -7996,7 +7996,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_16_MCMIPC",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NOAA/GOES/16/MCMIPC",
         "provider": "NOAA",
@@ -8009,7 +8009,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_16_MCMIPF",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NOAA/GOES/16/MCMIPF",
         "provider": "NOAA",
@@ -8022,7 +8022,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_16_MCMIPM",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NOAA/GOES/16/MCMIPM",
         "provider": "NOAA",
@@ -8035,7 +8035,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_17_FDCC",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NOAA/GOES/17/FDCC",
         "provider": "NOAA",
@@ -8048,7 +8048,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_17_FDCF",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NOAA/GOES/17/FDCF",
         "provider": "NOAA",
@@ -8061,7 +8061,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_17_MCMIPC",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NOAA/GOES/17/MCMIPC",
         "provider": "NOAA",
@@ -8074,7 +8074,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_17_MCMIPF",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NOAA/GOES/17/MCMIPF",
         "provider": "NOAA",
@@ -8087,7 +8087,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_17_MCMIPM",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NOAA/GOES/17/MCMIPM",
         "provider": "NOAA",
@@ -8100,7 +8100,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_NCEP_DOE_RE2_total_cloud_coverage",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NOAA/NCEP_DOE_RE2/total_cloud_coverage",
         "provider": "NOAA",
@@ -8152,7 +8152,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_NWS_RTMA",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NOAA/NWS/RTMA",
         "provider": "NOAA/NWS",
@@ -8165,7 +8165,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_PERSIANN-CDR",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NOAA/PERSIANN-CDR",
         "provider": "NOAA NCDC",
@@ -8178,7 +8178,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_VIIRS_001_VNP09GA",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NOAA/VIIRS/001/VNP09GA",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -8191,7 +8191,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_VIIRS_001_VNP13A1",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NOAA/VIIRS/001/VNP13A1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -8204,7 +8204,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_VIIRS_DNB_MONTHLY_V1_VCMCFG",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NOAA/VIIRS/DNB/MONTHLY_V1/VCMCFG",
         "provider": "Earth Observation Group, Payne Institute for Public Policy, Colorado School of Mines",
@@ -8217,7 +8217,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_VIIRS_DNB_MONTHLY_V1_VCMSLCFG",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "NOAA/VIIRS/DNB/MONTHLY_V1/VCMSLCFG",
         "provider": "Earth Observation Group, Payne Institute for Public Policy, Colorado School of Mines",
@@ -8243,7 +8243,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/OREGONSTATE_PRISM_AN81d",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "OREGONSTATE/PRISM/AN81d",
         "provider": "PRISM / OREGONSTATE",
@@ -8256,7 +8256,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/OREGONSTATE_PRISM_AN81m",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "OREGONSTATE/PRISM/AN81m",
         "provider": "PRISM / OREGONSTATE",
@@ -8802,7 +8802,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/TOMS_MERGED",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "TOMS/MERGED",
         "provider": "NASA / GES DISC",
@@ -8815,7 +8815,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/TRMM_3B42",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "TRMM/3B42",
         "provider": "NASA GES DISC at NASA Goddard Space Flight Center",
@@ -8828,7 +8828,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/TRMM_3B43V7",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "TRMM/3B43V7",
         "provider": "NASA GES DISC at NASA Goddard Space Flight Center",
@@ -8867,7 +8867,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/UCSB-CHG_CHIRPS_DAILY",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "UCSB-CHG/CHIRPS/DAILY",
         "provider": "UCSB/CHG",
@@ -8880,7 +8880,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/UCSB-CHG_CHIRPS_PENTAD",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "UCSB-CHG/CHIRPS/PENTAD",
         "provider": "UCSB/CHG",
@@ -9114,7 +9114,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/UMT_Climate_IrrMapper_RF_v1_0",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "UMT/Climate/IrrMapper_RF/v1_0",
         "provider": "University of Montana / Montana Climate Office",
@@ -9127,7 +9127,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/UMT_NTSG_v2_LANDSAT_GPP",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "UMT/NTSG/v2/LANDSAT/GPP",
         "provider": "University of Montana Numerical Terradynamic Simulation Group (NTSG)",
@@ -9140,7 +9140,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/UMT_NTSG_v2_LANDSAT_NPP",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "UMT/NTSG/v2/LANDSAT/NPP",
         "provider": "University of Montana Numerical Terradynamic Simulation Group (NTSG)",
@@ -9153,7 +9153,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/UMT_NTSG_v2_MODIS_GPP",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "UMT/NTSG/v2/MODIS/GPP",
         "provider": "University of Montana Numerical Terradynamic Simulation Group (NTSG)",
@@ -9166,7 +9166,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/UMT_NTSG_v2_MODIS_NPP",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "UMT/NTSG/v2/MODIS/NPP",
         "provider": "University of Montana Numerical Terradynamic Simulation Group (NTSG)",
@@ -9231,7 +9231,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/USDA_NASS_CDL",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "USDA/NASS/CDL",
         "provider": "USDA National Agricultural Statistics Service",
@@ -9608,7 +9608,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/UTOKYO_WTLAB_KBDI_v1",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "UTOKYO/WTLAB/KBDI/v1",
         "provider": "Institute of Industrial Science, The University of Tokyo, Japan",
@@ -9621,7 +9621,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/VITO_PROBAV_C1_S1_TOC_100M",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "VITO/PROBAV/C1/S1_TOC_100M",
         "provider": "Vito / ESA",
@@ -9634,7 +9634,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/VITO_PROBAV_C1_S1_TOC_333M",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "VITO/PROBAV/C1/S1_TOC_333M",
         "provider": "Vito / ESA",
@@ -9647,7 +9647,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/VITO_PROBAV_S1_TOC_100M",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "VITO/PROBAV/S1_TOC_100M",
         "provider": "Vito / ESA",
@@ -9660,7 +9660,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/VITO_PROBAV_S1_TOC_333M",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "VITO/PROBAV/S1_TOC_333M",
         "provider": "Vito / ESA",
@@ -9673,7 +9673,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/WCMC_WDPA_current_points",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "WCMC/WDPA/current/points",
         "provider": "UN Environment World Conservation Monitoring Centre (UNEP-WCMC) / Protected Planet",
@@ -9686,7 +9686,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/WCMC_WDPA_current_polygons",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "WCMC/WDPA/current/polygons",
         "provider": "UN Environment World Conservation Monitoring Centre (UNEP-WCMC) / Protected Planet",
@@ -9712,7 +9712,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/WHBU_NBAR_1YEAR",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "WHBU/NBAR_1YEAR",
         "provider": "Baccini, A. (Woods Hole Research Center), Sulla-Menashe, D. (Boston University)",
@@ -9725,7 +9725,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/WHBU_NBAR_2YEAR",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "WHBU/NBAR_2YEAR",
         "provider": "Baccini, A. (Woods Hole Research Center), Sulla-Menashe, D. (Boston University)",
@@ -9738,7 +9738,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/WHBU_NBAR_3YEAR",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "WHBU/NBAR_3YEAR",
         "provider": "Baccini, A. (Woods Hole Research Center), Sulla-Menashe, D. (Boston University)",
@@ -9790,7 +9790,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/WRI_GFW_FORMA_alerts",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "WRI/GFW/FORMA/alerts",
         "provider": "World Resources Institute / Global Forest Watch",
@@ -9803,7 +9803,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/WRI_GFW_FORMA_raw_output_firms",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "WRI/GFW/FORMA/raw_output_firms",
         "provider": "World Resources Institute / Global Forest Watch",
@@ -9816,7 +9816,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/WRI_GFW_FORMA_raw_output_ndvi",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "WRI/GFW/FORMA/raw_output_ndvi",
         "provider": "World Resources Institute / Global Forest Watch",
@@ -9842,7 +9842,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/WRI_GFW_FORMA_vegetation_tstats",
-        "end_date": "2021-07-17",
+        "end_date": "2021-07-18",
         "endyear": "2021",
         "id": "WRI/GFW/FORMA/vegetation_tstats",
         "provider": "World Resources Institute / Global Forest Watch",
