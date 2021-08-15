@@ -144,6 +144,7 @@ jobs:
           git config --local user.name "GitHub Action"
           git add -A
           git commit -m "updated datasets ${today} UTC" -a
+          git pull origin master
       - name: push changes
         continue-on-error: true
         uses: ad-m/github-push-action@v0.6.0
