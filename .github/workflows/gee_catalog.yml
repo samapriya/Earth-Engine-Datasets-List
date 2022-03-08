@@ -41,29 +41,26 @@ jobs:
                     asset_uid)
                 thumbnail_url = 'https://mw1.google.com/ges/dd/images/{}_sample.png'.format(
                     asset_uid)
-
-                #print(thumbnail_url)
-
                 r = requests.get(thumbnail_url)
-
                 try:
                     if r.status_code != 200:
                         html_page = urllib.request.urlopen(asset_url)
                         soup = BeautifulSoup(html_page, features="html.parser")
-
                         for img in soup.findAll('img'):
                             if 'sample.png' in img.get('src'):
                                 thumbnail_url = img.get('src')
                                 return [asset_url,thumbnail_url]
-
                     return [asset_url,thumbnail_url]
                 except Exception as e:
                     print(e)
             def parseurl(url):
                 gparse= []
                 try:
+                    ## get child asset from main list
                     response=requests.get(url)
                     if response.status_code==200:
+                        asset_links = [assets for assets in response.json()['links'] if assets['rel']=='child']
+                        response = requests.get(asset_links[0]['href'])
                         r=response.json()
                         gee_id=r['id']
                         gee_title=r['title']
@@ -91,9 +88,7 @@ jobs:
                         "asset_url":asset_url,
                         "thumbnail_url":thumbnail_url
                         }
-                        #print([gee_id,gee_provider,gee_title,gee_start,gee_end,gee_start_year,gee_end_year,gee_type,', '.join(gee_tags),asset_url,thumbnail_url])
                         catalog.append(asset)
-                        #print(catalog)
                 except Exception as e:
                     print(e)
             def ee_catalog():
