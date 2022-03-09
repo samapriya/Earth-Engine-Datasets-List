@@ -22,7 +22,7 @@ jobs:
           python -m pip install --upgrade pip
           python -m pip install --upgrade pip
           pip install -U pip setuptools
-          pip install pendulum beautifulsoup4 requests
+          pip install pendulum beautifulsoup4 requests natsorted
       - name: Script check
         uses: jannekem/run-python-script-action@v1
         with:
@@ -33,75 +33,86 @@ jobs:
             import time
             import json
             import urllib
+            from natsort import natsorted
             now = datetime.now()
             catalog=[]
-            def ulink(asset_id):
-                asset_uid = asset_id.replace('/', '_')
-                asset_url = "https://developers.google.com/earth-engine/datasets/catalog/{}".format(
-                    asset_uid)
-                thumbnail_url = 'https://mw1.google.com/ges/dd/images/{}_sample.png'.format(
-                    asset_uid)
-                r = requests.get(thumbnail_url)
-                try:
-                    if r.status_code != 200:
-                        html_page = urllib.request.urlopen(asset_url)
-                        soup = BeautifulSoup(html_page, features="html.parser")
-                        for img in soup.findAll('img'):
-                            if 'sample.png' in img.get('src'):
-                                thumbnail_url = img.get('src')
-                                return [asset_url,thumbnail_url]
-                    return [asset_url,thumbnail_url]
-                except Exception as e:
-                    print(e)
+            i = 1
             def parseurl(url):
-                gparse= []
+                global i
+                gparse = []
+                sublinks = []
                 try:
-                    ## get child asset from main list
-                    response=requests.get(url)
-                    if response.status_code==200:
-                        asset_links = [assets for assets in response.json()['links'] if assets['rel']=='child']
-                        response = requests.get(asset_links[0]['href'])
-                        r=response.json()
-                        gee_id=r['id']
-                        gee_title=r['title']
-                        gee_type=r['gee:type']
-                        gee_start=r['extent']['temporal']['interval'][0][0].split('T')[0]
-                        if not r['extent']['temporal']['interval'][0][1]==None:
-                            gee_end=r['extent']['temporal']['interval'][0][1].split('T')[0]
-                        else:
-                            gee_end=now.strftime('%Y-%m-%d')
-                        gee_start_year=gee_start.split('-')[0]
-                        gee_end_year=gee_end.split('-')[0]
-                        gee_provider=r['providers'][0]['name']
-                        gee_tags=r['keywords']
-                        asset_url,thumbnail_url=ulink(gee_id)
-                        asset = {
+                    response = requests.get(url)
+                    r = response.json()
+                    gee_id = r["id"]
+                    print(f"{i}: {gee_id}")
+                    gee_title = r["title"]
+                    gee_type = r["gee:type"]
+                    gee_start = r["extent"]["temporal"]["interval"][0][0].split("T")[0]
+                    if not r["extent"]["temporal"]["interval"][0][1] == None:
+                        gee_end = r["extent"]["temporal"]["interval"][0][1].split("T")[0]
+                    else:
+                        gee_end = now.strftime("%Y-%m-%d")
+                    gee_start_year = gee_start.split("-")[0]
+                    gee_end_year = gee_end.split("-")[0]
+                    gee_provider = r["providers"][0]["name"]
+                    gee_tags = r["keywords"]
+                    thumbnail_url = [
+                        assets["href"] for assets in r["links"] if assets["rel"] == "preview"
+                    ][0]
+                    asset_url = [
+                        assets["href"] for assets in r["links"] if assets["rel"] == "license"
+                    ][0]
+                    asset = {
                         "id": gee_id,
                         "provider": gee_provider,
                         "title": gee_title,
-                        "start_date":gee_start,
-                        "end_date":gee_end,
-                        "startyear":gee_start_year,
-                        "endyear":gee_end_year,
-                        "type":gee_type,
-                        "tags":', '.join(gee_tags),
-                        "asset_url":asset_url,
-                        "thumbnail_url":thumbnail_url
-                        }
-                        catalog.append(asset)
+                        "start_date": gee_start,
+                        "end_date": gee_end,
+                        "startyear": gee_start_year,
+                        "endyear": gee_end_year,
+                        "type": gee_type,
+                        "tags": ", ".join(gee_tags),
+                        "asset_url": asset_url,
+                        "thumbnail_url": thumbnail_url,
+                    }
+                    catalog.append(asset)
+                    i = i + 1
                 except Exception as e:
+                    print(url)
                     print(e)
-            def ee_catalog():
-                obj = requests.get('https://earthengine-stac.storage.googleapis.com/catalog/catalog.json').json()
-                try:
-                    for assets in obj['links']:
-                        if assets['rel']=='child':
-                            parseurl(assets['href'])
-                except Exception as e:
-                    print(e)
+
+
+            asset_list = []
+
+
+            def yf(url):
+                page = requests.get(url)
+                if page.status_code == 200:
+                    features = [
+                        assets["href"]
+                        for assets in page.json()["links"]
+                        if assets["rel"] == "child"
+                    ]
+                    for feature in features:
+                        if not feature.endswith("catalog.json"):
+                            asset_list.append(feature)
+                        else:
+                            yf(feature)
+
+
+            yf(url="https://earthengine-stac.storage.googleapis.com/catalog/catalog.json")
+
+            item_list = natsorted(list(set(asset_list)))
+            try:
+                for items in item_list:
+                    parseurl(items)
+            except Exception as e:
+                print(f"Failed for {items}")
+                print(e)
+            finally:
                 with open("gee_catalog.json", "w") as file:
                     json.dump(catalog, file, indent=4, sort_keys=True)
-            ee_catalog()
       - name: json2csv
         uses: jannekem/run-python-script-action@v1
         with:
