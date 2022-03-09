@@ -1,7 +1,7 @@
 [
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/AAFC_ACI",
-        "end_date": "2022-03-08",
+        "end_date": "2022-03-09",
         "endyear": "2022",
         "id": "AAFC/ACI",
         "provider": "Agriculture and Agri-Food Canada",
@@ -40,7 +40,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ASTER_AST_L1T_003",
-        "end_date": "2022-03-08",
+        "end_date": "2022-03-09",
         "endyear": "2022",
         "id": "ASTER/AST_L1T_003",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -92,7 +92,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/CAS_IGSNRR_PML_V2",
-        "end_date": "2022-03-08",
+        "end_date": "2022-03-09",
         "endyear": "2022",
         "id": "CAS/IGSNRR/PML/V2",
         "provider": "PML_V2",
@@ -196,7 +196,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ECMWF_CAMS_NRT",
-        "end_date": "2022-03-08",
+        "end_date": "2022-03-09",
         "endyear": "2022",
         "id": "ECMWF/CAMS/NRT",
         "provider": "European Centre for Medium-Range Weather Forecasts (ECMWF)",
@@ -235,7 +235,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ESA_CCI_FireCCI_5_1",
-        "end_date": "2022-03-08",
+        "end_date": "2022-03-09",
         "endyear": "2022",
         "id": "ESA/CCI/FireCCI/5_1",
         "provider": "European Space Agency (ESA) Climate Change Initiative (CCI) Programme, Fire ECV",
@@ -261,7 +261,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/FIRMS",
-        "end_date": "2022-03-08",
+        "end_date": "2022-03-09",
         "endyear": "2022",
         "id": "FIRMS",
         "provider": "NASA / LANCE / EOSDIS",
@@ -352,7 +352,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/GRIDMET_DROUGHT",
-        "end_date": "2022-03-08",
+        "end_date": "2022-03-09",
         "endyear": "2022",
         "id": "GRIDMET/DROUGHT",
         "provider": "University of California Merced",
@@ -378,7 +378,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/IDAHO_EPSCOR_GRIDMET",
-        "end_date": "2022-03-08",
+        "end_date": "2022-03-09",
         "endyear": "2022",
         "id": "IDAHO_EPSCOR/GRIDMET",
         "provider": "University of California Merced",
@@ -482,7 +482,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MCD12Q1",
-        "end_date": "2022-03-08",
+        "end_date": "2022-03-09",
         "endyear": "2022",
         "id": "MODIS/006/MCD12Q1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -495,7 +495,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_USDA_HSL_SMAP10KM_soil_moisture",
-        "end_date": "2022-03-08",
+        "end_date": "2022-03-09",
         "endyear": "2022",
         "id": "NASA_USDA/HSL/SMAP10KM_soil_moisture",
         "provider": "NASA GSFC",
@@ -508,7 +508,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NCEP_RE_sea_level_pressure",
-        "end_date": "2022-03-08",
+        "end_date": "2022-03-09",
         "endyear": "2022",
         "id": "NCEP_RE/sea_level_pressure",
         "provider": "NCEP",
@@ -534,7 +534,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/OREGONSTATE_PRISM_AN81d",
-        "end_date": "2022-03-08",
+        "end_date": "2022-03-09",
         "endyear": "2022",
         "id": "OREGONSTATE/PRISM/AN81d",
         "provider": "PRISM / OREGONSTATE",
@@ -612,7 +612,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/SNU_ESL_BESS_Rad_v1",
-        "end_date": "2022-03-08",
+        "end_date": "2022-03-09",
         "endyear": "2022",
         "id": "SNU/ESL/BESS/Rad/v1",
         "provider": "Seoul National University (SNU)",
@@ -625,7 +625,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/TERN_AET_CMRSET_LANDSAT_V2_1",
-        "end_date": "2022-03-08",
+        "end_date": "2022-03-09",
         "endyear": "2022",
         "id": "TERN/AET/CMRSET_LANDSAT_V2_1",
         "provider": "TERN Landscapes / CSIRO Land and Water",
@@ -651,7 +651,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/TOMS_MERGED",
-        "end_date": "2022-03-08",
+        "end_date": "2022-03-09",
         "endyear": "2022",
         "id": "TOMS/MERGED",
         "provider": "NASA / GES DISC",
@@ -703,7 +703,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/UCSB-CHG_CHIRPS_DAILY",
-        "end_date": "2022-03-08",
+        "end_date": "2022-03-09",
         "endyear": "2022",
         "id": "UCSB-CHG/CHIRPS/DAILY",
         "provider": "UCSB/CHG",
@@ -742,7 +742,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/UMT_Climate_IrrMapper_RF_v1_0",
-        "end_date": "2022-03-08",
+        "end_date": "2022-03-09",
         "endyear": "2022",
         "id": "UMT/Climate/IrrMapper_RF/v1_0",
         "provider": "University of Montana / Montana Climate Office",
@@ -807,7 +807,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/UTOKYO_WTLAB_KBDI_v1",
-        "end_date": "2022-03-08",
+        "end_date": "2022-03-09",
         "endyear": "2022",
         "id": "UTOKYO/WTLAB/KBDI/v1",
         "provider": "Institute of Industrial Science, The University of Tokyo, Japan",
@@ -820,7 +820,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/VITO_PROBAV_C1_S1_TOC_100M",
-        "end_date": "2022-03-08",
+        "end_date": "2022-03-09",
         "endyear": "2022",
         "id": "VITO/PROBAV/C1/S1_TOC_100M",
         "provider": "Vito / ESA",
@@ -833,7 +833,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/WCMC_WDPA_current_points",
-        "end_date": "2022-03-08",
+        "end_date": "2022-03-09",
         "endyear": "2022",
         "id": "WCMC/WDPA/current/points",
         "provider": "UN Environment World Conservation Monitoring Centre (UNEP-WCMC) / Protected Planet",
@@ -846,7 +846,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/WHBU_NBAR_1YEAR",
-        "end_date": "2022-03-08",
+        "end_date": "2022-03-09",
         "endyear": "2022",
         "id": "WHBU/NBAR_1YEAR",
         "provider": "Baccini, A. (Woods Hole Research Center), Sulla-Menashe, D. (Boston University)",
@@ -885,7 +885,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/WRI_GFW_FORMA_alerts",
-        "end_date": "2022-03-08",
+        "end_date": "2022-03-09",
         "endyear": "2022",
         "id": "WRI/GFW/FORMA/alerts",
         "provider": "World Resources Institute / Global Forest Watch",
