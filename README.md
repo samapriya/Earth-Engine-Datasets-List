@@ -1,5 +1,7 @@
 [![gee_catalog](https://github.com/samapriya/Earth-Engine-Datasets-List/actions/workflows/gee_catalog.yml/badge.svg)](https://github.com/samapriya/Earth-Engine-Datasets-List/actions/workflows/gee_catalog.yml)
 ![GEE STAC Catalog](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/samapriya/34bc0c1280d475d3a69e3b60a706226e/raw/gee_catalog.json)
+[![Donate](https://img.shields.io/badge/Donate-Buy%20me%20a%20Chai-teal)](https://www.buymeacoffee.com/samapriya)
+[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/samapriya)
 
 # Updated Dataset List (Included in Google Earth Engine)
 The idea is to make this list machine readable so you can programmatically call assets based on filters and to have a list for users who are not yet registered but want to look at the dataset list within earth engine. Register for a free [Google Earth Engine account](https://earthengine.google.com/signup/). The datasets are generated as an always updated JSON file as well as a CSV file with the following setup
