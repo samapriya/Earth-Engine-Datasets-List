@@ -456,7 +456,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S1_GRD#terms-of-use",
-        "end_date": "2022-12-12",
+        "end_date": "2022-12-13",
         "endyear": "2022",
         "id": "COPERNICUS/S1_GRD",
         "provider": "European Union/ESA/Copernicus",
@@ -469,7 +469,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2#terms-of-use",
-        "end_date": "2022-12-12",
+        "end_date": "2022-12-13",
         "endyear": "2022",
         "id": "COPERNICUS/S2",
         "provider": "European Union/ESA/Copernicus",
@@ -482,7 +482,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_CLOUD_PROBABILITY#terms-of-use",
-        "end_date": "2022-12-12",
+        "end_date": "2022-12-13",
         "endyear": "2022",
         "id": "COPERNICUS/S2_CLOUD_PROBABILITY",
         "provider": "European Union/ESA/Copernicus/SentinelHub",
@@ -495,7 +495,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_HARMONIZED#terms-of-use",
-        "end_date": "2022-12-12",
+        "end_date": "2022-12-13",
         "endyear": "2022",
         "id": "COPERNICUS/S2_HARMONIZED",
         "provider": "European Union/ESA/Copernicus",
@@ -508,7 +508,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_SR#terms-of-use",
-        "end_date": "2022-12-12",
+        "end_date": "2022-12-13",
         "endyear": "2022",
         "id": "COPERNICUS/S2_SR",
         "provider": "European Union/ESA/Copernicus",
@@ -521,7 +521,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_SR_HARMONIZED#terms-of-use",
-        "end_date": "2022-12-12",
+        "end_date": "2022-12-13",
         "endyear": "2022",
         "id": "COPERNICUS/S2_SR_HARMONIZED",
         "provider": "European Union/ESA/Copernicus",
@@ -534,7 +534,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S3_OLCI#terms-of-use",
-        "end_date": "2022-12-11",
+        "end_date": "2022-12-13",
         "endyear": "2022",
         "id": "COPERNICUS/S3/OLCI",
         "provider": "European Union/ESA/Copernicus",
@@ -1574,7 +1574,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_DYNAMICWORLD_V1#terms-of-use",
-        "end_date": "2022-12-12",
+        "end_date": "2022-12-13",
         "endyear": "2022",
         "id": "GOOGLE/DYNAMICWORLD/V1",
         "provider": "World Resources Institute",
@@ -3550,7 +3550,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C02_T1_RT#terms-of-use",
-        "end_date": "2022-12-11",
+        "end_date": "2022-12-12",
         "endyear": "2022",
         "id": "LANDSAT/LC08/C02/T1_RT",
         "provider": "USGS",
@@ -3563,7 +3563,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C02_T1_RT_TOA#terms-of-use",
-        "end_date": "2022-12-11",
+        "end_date": "2022-12-12",
         "endyear": "2022",
         "id": "LANDSAT/LC08/C02/T1_RT_TOA",
         "provider": "USGS/Google",
@@ -3979,7 +3979,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC09_C02_T1#terms-of-use",
-        "end_date": "2022-12-12",
+        "end_date": "2022-12-13",
         "endyear": "2022",
         "id": "LANDSAT/LC09/C02/T1",
         "provider": "USGS",
@@ -3992,7 +3992,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC09_C02_T1_L2#terms-of-use",
-        "end_date": "2022-12-09",
+        "end_date": "2022-12-10",
         "endyear": "2022",
         "id": "LANDSAT/LC09/C02/T1_L2",
         "provider": "USGS",
@@ -4005,7 +4005,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC09_C02_T1_TOA#terms-of-use",
-        "end_date": "2022-12-12",
+        "end_date": "2022-12-13",
         "endyear": "2022",
         "id": "LANDSAT/LC09/C02/T1_TOA",
         "provider": "USGS/Google",
@@ -4499,7 +4499,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C02_T1#terms-of-use",
-        "end_date": "2022-11-16",
+        "end_date": "2022-11-17",
         "endyear": "2022",
         "id": "LANDSAT/LE07/C02/T1",
         "provider": "USGS",
@@ -4512,7 +4512,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C02_T1_L2#terms-of-use",
-        "end_date": "2022-11-15",
+        "end_date": "2022-11-16",
         "endyear": "2022",
         "id": "LANDSAT/LE07/C02/T1_L2",
         "provider": "USGS",
@@ -4525,7 +4525,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C02_T1_RT#terms-of-use",
-        "end_date": "2022-12-11",
+        "end_date": "2022-12-12",
         "endyear": "2022",
         "id": "LANDSAT/LE07/C02/T1_RT",
         "provider": "USGS",
@@ -4538,7 +4538,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C02_T1_RT_TOA#terms-of-use",
-        "end_date": "2022-12-11",
+        "end_date": "2022-12-12",
         "endyear": "2022",
         "id": "LANDSAT/LE07/C02/T1_RT_TOA",
         "provider": "USGS/Google",
@@ -4551,7 +4551,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C02_T1_TOA#terms-of-use",
-        "end_date": "2022-11-16",
+        "end_date": "2022-11-17",
         "endyear": "2022",
         "id": "LANDSAT/LE07/C02/T1_TOA",
         "provider": "USGS/Google",
@@ -7723,7 +7723,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MYD09GA#terms-of-use",
-        "end_date": "2022-12-09",
+        "end_date": "2022-12-10",
         "endyear": "2022",
         "id": "MODIS/006/MYD09GA",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -7736,7 +7736,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MYD09GQ#terms-of-use",
-        "end_date": "2022-12-09",
+        "end_date": "2022-12-10",
         "endyear": "2022",
         "id": "MODIS/006/MYD09GQ",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -7762,7 +7762,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MYD10A1#terms-of-use",
-        "end_date": "2022-12-08",
+        "end_date": "2022-12-09",
         "endyear": "2022",
         "id": "MODIS/006/MYD10A1",
         "provider": "NASA NSIDC DAAC at CIRES",
@@ -7775,7 +7775,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MYD11A1#terms-of-use",
-        "end_date": "2022-12-07",
+        "end_date": "2022-12-09",
         "endyear": "2022",
         "id": "MODIS/006/MYD11A1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -7918,7 +7918,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MYDOCGA#terms-of-use",
-        "end_date": "2022-12-06",
+        "end_date": "2022-12-08",
         "endyear": "2022",
         "id": "MODIS/006/MYDOCGA",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -8178,7 +8178,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MYD09GA#terms-of-use",
-        "end_date": "2022-12-09",
+        "end_date": "2022-12-10",
         "endyear": "2022",
         "id": "MODIS/061/MYD09GA",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -8191,7 +8191,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MYD09GQ#terms-of-use",
-        "end_date": "2022-12-09",
+        "end_date": "2022-12-10",
         "endyear": "2022",
         "id": "MODIS/061/MYD09GQ",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -8217,7 +8217,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MYD11A1#terms-of-use",
-        "end_date": "2022-12-07",
+        "end_date": "2022-12-09",
         "endyear": "2022",
         "id": "MODIS/061/MYD11A1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -8776,7 +8776,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_MYD09GA_006_BAI#terms-of-use",
-        "end_date": "2022-12-09",
+        "end_date": "2022-12-10",
         "endyear": "2022",
         "id": "MODIS/MYD09GA_006_BAI",
         "provider": "Google",
@@ -8789,7 +8789,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_MYD09GA_006_EVI#terms-of-use",
-        "end_date": "2022-12-09",
+        "end_date": "2022-12-10",
         "endyear": "2022",
         "id": "MODIS/MYD09GA_006_EVI",
         "provider": "Google",
@@ -8802,7 +8802,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_MYD09GA_006_NDSI#terms-of-use",
-        "end_date": "2022-12-09",
+        "end_date": "2022-12-10",
         "endyear": "2022",
         "id": "MODIS/MYD09GA_006_NDSI",
         "provider": "Google",
@@ -8815,7 +8815,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_MYD09GA_006_NDVI#terms-of-use",
-        "end_date": "2022-12-09",
+        "end_date": "2022-12-10",
         "endyear": "2022",
         "id": "MODIS/MYD09GA_006_NDVI",
         "provider": "Google",
@@ -8828,7 +8828,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_MYD09GA_006_NDWI#terms-of-use",
-        "end_date": "2022-12-09",
+        "end_date": "2022-12-10",
         "endyear": "2022",
         "id": "MODIS/MYD09GA_006_NDWI",
         "provider": "Google",
@@ -9751,7 +9751,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_16_FDCC#terms-of-use",
-        "end_date": "2022-12-12",
+        "end_date": "2022-12-13",
         "endyear": "2022",
         "id": "NOAA/GOES/16/FDCC",
         "provider": "NOAA",
@@ -9764,7 +9764,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_16_FDCF#terms-of-use",
-        "end_date": "2022-12-12",
+        "end_date": "2022-12-13",
         "endyear": "2022",
         "id": "NOAA/GOES/16/FDCF",
         "provider": "NOAA",
@@ -9777,7 +9777,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_16_MCMIPC#terms-of-use",
-        "end_date": "2022-12-12",
+        "end_date": "2022-12-13",
         "endyear": "2022",
         "id": "NOAA/GOES/16/MCMIPC",
         "provider": "NOAA",
@@ -9790,7 +9790,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_16_MCMIPF#terms-of-use",
-        "end_date": "2022-12-12",
+        "end_date": "2022-12-13",
         "endyear": "2022",
         "id": "NOAA/GOES/16/MCMIPF",
         "provider": "NOAA",
@@ -9803,7 +9803,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_16_MCMIPM#terms-of-use",
-        "end_date": "2022-12-12",
+        "end_date": "2022-12-13",
         "endyear": "2022",
         "id": "NOAA/GOES/16/MCMIPM",
         "provider": "NOAA",
@@ -9816,7 +9816,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_17_FDCC#terms-of-use",
-        "end_date": "2022-12-12",
+        "end_date": "2022-12-13",
         "endyear": "2022",
         "id": "NOAA/GOES/17/FDCC",
         "provider": "NOAA",
@@ -9829,7 +9829,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_17_FDCF#terms-of-use",
-        "end_date": "2022-12-12",
+        "end_date": "2022-12-13",
         "endyear": "2022",
         "id": "NOAA/GOES/17/FDCF",
         "provider": "NOAA",
@@ -9842,7 +9842,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_17_MCMIPC#terms-of-use",
-        "end_date": "2022-12-12",
+        "end_date": "2022-12-13",
         "endyear": "2022",
         "id": "NOAA/GOES/17/MCMIPC",
         "provider": "NOAA",
@@ -9855,7 +9855,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_17_MCMIPF#terms-of-use",
-        "end_date": "2022-12-12",
+        "end_date": "2022-12-13",
         "endyear": "2022",
         "id": "NOAA/GOES/17/MCMIPF",
         "provider": "NOAA",
@@ -9868,7 +9868,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_17_MCMIPM#terms-of-use",
-        "end_date": "2022-12-12",
+        "end_date": "2022-12-13",
         "endyear": "2022",
         "id": "NOAA/GOES/17/MCMIPM",
         "provider": "NOAA",
@@ -9881,7 +9881,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_18_FDCC#terms-of-use",
-        "end_date": "2022-12-12",
+        "end_date": "2022-12-13",
         "endyear": "2022",
         "id": "NOAA/GOES/18/FDCC",
         "provider": "NOAA",
@@ -9894,7 +9894,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_18_FDCF#terms-of-use",
-        "end_date": "2022-12-12",
+        "end_date": "2022-12-13",
         "endyear": "2022",
         "id": "NOAA/GOES/18/FDCF",
         "provider": "NOAA",
@@ -9907,7 +9907,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_18_MCMIPC#terms-of-use",
-        "end_date": "2022-12-12",
+        "end_date": "2022-12-13",
         "endyear": "2022",
         "id": "NOAA/GOES/18/MCMIPC",
         "provider": "NOAA",
@@ -9920,7 +9920,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_18_MCMIPF#terms-of-use",
-        "end_date": "2022-12-12",
+        "end_date": "2022-12-13",
         "endyear": "2022",
         "id": "NOAA/GOES/18/MCMIPF",
         "provider": "NOAA",
@@ -9933,7 +9933,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_18_MCMIPM#terms-of-use",
-        "end_date": "2022-12-12",
+        "end_date": "2022-12-13",
         "endyear": "2022",
         "id": "NOAA/GOES/18/MCMIPM",
         "provider": "NOAA",
@@ -10011,7 +10011,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GFS0P25#terms-of-use",
-        "end_date": "2022-12-12",
+        "end_date": "2022-12-13",
         "endyear": "2022",
         "id": "NOAA/GFS0P25",
         "provider": "NOAA/NCEP/EMC",
