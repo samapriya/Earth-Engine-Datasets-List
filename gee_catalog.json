@@ -165,7 +165,7 @@
         "startyear": "1992",
         "tags": "bnu, dmsp, eog, imagery, lights, nighttime, ols, visible, yearly",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/BNU/BNU_FGS_CCNL_v1_sample.png",
-        "title": "CCNL: Consistent And Corrected Nighttime Light Dataset from DMSP-OLS (1992-2013)",
+        "title": "CCNL: Consistent And Corrected Nighttime Light Dataset from DMSP-OLS (1992-2013) v1",
         "type": "image_collection"
     },
     {
@@ -1509,7 +1509,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/FIRMS#terms-of-use",
-        "end_date": "2023-05-08",
+        "end_date": "2023-05-09",
         "endyear": "2023",
         "id": "FIRMS",
         "provider": "NASA / LANCE / EOSDIS",
@@ -1730,7 +1730,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/GRIDMET_DROUGHT#terms-of-use",
-        "end_date": "2023-04-25",
+        "end_date": "2023-05-05",
         "endyear": "2023",
         "id": "GRIDMET/DROUGHT",
         "provider": "University of California Merced",
@@ -2341,7 +2341,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/JAXA_GCOM-C_L3_LAND_LAI_V3#terms-of-use",
-        "end_date": "2023-05-08",
+        "end_date": "2023-05-09",
         "endyear": "2023",
         "id": "JAXA/GCOM-C/L3/LAND/LAI/V3",
         "provider": "Global Change Observation Mission (GCOM)",
@@ -2380,7 +2380,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/JAXA_GCOM-C_L3_LAND_LST_V3#terms-of-use",
-        "end_date": "2023-05-08",
+        "end_date": "2023-05-09",
         "endyear": "2023",
         "id": "JAXA/GCOM-C/L3/LAND/LST/V3",
         "provider": "Global Change Observation Mission (GCOM)",
@@ -2419,7 +2419,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/JAXA_GCOM-C_L3_OCEAN_CHLA_V3#terms-of-use",
-        "end_date": "2023-05-07",
+        "end_date": "2023-05-08",
         "endyear": "2023",
         "id": "JAXA/GCOM-C/L3/OCEAN/CHLA/V3",
         "provider": "Global Change Observation Mission (GCOM)",
@@ -2458,7 +2458,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/JAXA_GCOM-C_L3_OCEAN_SST_V3#terms-of-use",
-        "end_date": "2023-05-07",
+        "end_date": "2023-05-08",
         "endyear": "2023",
         "id": "JAXA/GCOM-C/L3/OCEAN/SST/V3",
         "provider": "Global Change Observation Mission (GCOM)",
@@ -8139,7 +8139,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MCD19A2_GRANULES#terms-of-use",
-        "end_date": "2023-05-08",
+        "end_date": "2023-05-09",
         "endyear": "2023",
         "id": "MODIS/061/MCD19A2_GRANULES",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -8152,7 +8152,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MCD43A1#terms-of-use",
-        "end_date": "2023-04-30",
+        "end_date": "2023-05-01",
         "endyear": "2023",
         "id": "MODIS/061/MCD43A1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -8165,7 +8165,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MCD43A2#terms-of-use",
-        "end_date": "2023-04-30",
+        "end_date": "2023-05-01",
         "endyear": "2023",
         "id": "MODIS/061/MCD43A2",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -8178,7 +8178,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MCD43A3#terms-of-use",
-        "end_date": "2023-04-30",
+        "end_date": "2023-05-01",
         "endyear": "2023",
         "id": "MODIS/061/MCD43A3",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -8191,7 +8191,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MCD43A4#terms-of-use",
-        "end_date": "2023-04-30",
+        "end_date": "2023-05-01",
         "endyear": "2023",
         "id": "MODIS/061/MCD43A4",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -8204,7 +8204,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MCD43C3#terms-of-use",
-        "end_date": "2023-04-30",
+        "end_date": "2023-05-02",
         "endyear": "2023",
         "id": "MODIS/061/MCD43C3",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -8243,7 +8243,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD09A1#terms-of-use",
-        "end_date": "2023-04-23",
+        "end_date": "2023-05-01",
         "endyear": "2023",
         "id": "MODIS/061/MOD09A1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -8269,7 +8269,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD09GA#terms-of-use",
-        "end_date": "2023-05-07",
+        "end_date": "2023-05-08",
         "endyear": "2023",
         "id": "MODIS/061/MOD09GA",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -8282,7 +8282,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD09GQ#terms-of-use",
-        "end_date": "2023-05-07",
+        "end_date": "2023-05-08",
         "endyear": "2023",
         "id": "MODIS/061/MOD09GQ",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -8386,7 +8386,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD14A2#terms-of-use",
-        "end_date": "2023-04-23",
+        "end_date": "2023-05-01",
         "endyear": "2023",
         "id": "MODIS/061/MOD14A2",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -8451,7 +8451,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD21C1#terms-of-use",
-        "end_date": "2023-05-08",
+        "end_date": "2023-05-10",
         "endyear": "2023",
         "id": "MODIS/061/MOD21C1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -8503,7 +8503,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MYD09A1#terms-of-use",
-        "end_date": "2023-04-23",
+        "end_date": "2023-05-01",
         "endyear": "2023",
         "id": "MODIS/061/MYD09A1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -8542,7 +8542,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MYD09Q1#terms-of-use",
-        "end_date": "2023-04-23",
+        "end_date": "2023-05-01",
         "endyear": "2023",
         "id": "MODIS/061/MYD09Q1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -8555,7 +8555,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MYD11A1#terms-of-use",
-        "end_date": "2023-05-07",
+        "end_date": "2023-05-08",
         "endyear": "2023",
         "id": "MODIS/061/MYD11A1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -8568,7 +8568,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MYD11A2#terms-of-use",
-        "end_date": "2023-04-23",
+        "end_date": "2023-05-01",
         "endyear": "2023",
         "id": "MODIS/061/MYD11A2",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -8633,7 +8633,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MYD14A2#terms-of-use",
-        "end_date": "2023-04-23",
+        "end_date": "2023-05-01",
         "endyear": "2023",
         "id": "MODIS/061/MYD14A2",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -8711,7 +8711,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MYD21C2#terms-of-use",
-        "end_date": "2023-04-23",
+        "end_date": "2023-05-01",
         "endyear": "2023",
         "id": "MODIS/061/MYD21C2",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -9881,7 +9881,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_SMAP_SPL3SMP_E_005#terms-of-use",
-        "end_date": "2023-05-07",
+        "end_date": "2023-05-09",
         "endyear": "2023",
         "id": "NASA/SMAP/SPL3SMP_E/005",
         "provider": "Google and NSIDC",
@@ -9894,7 +9894,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_SMAP_SPL4SMGP_007#terms-of-use",
-        "end_date": "2023-05-06",
+        "end_date": "2023-05-08",
         "endyear": "2023",
         "id": "NASA/SMAP/SPL4SMGP/007",
         "provider": "Google and NSIDC",
