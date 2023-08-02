@@ -482,7 +482,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S1_GRD#terms-of-use",
-        "end_date": "2023-07-31",
+        "end_date": "2023-08-01",
         "endyear": "2023",
         "id": "COPERNICUS/S1_GRD",
         "provider": "European Union/ESA/Copernicus",
@@ -495,7 +495,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2#terms-of-use",
-        "end_date": "2023-07-31",
+        "end_date": "2023-08-01",
         "endyear": "2023",
         "id": "COPERNICUS/S2",
         "provider": "European Union/ESA/Copernicus",
@@ -508,7 +508,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_CLOUD_PROBABILITY#terms-of-use",
-        "end_date": "2023-07-31",
+        "end_date": "2023-08-01",
         "endyear": "2023",
         "id": "COPERNICUS/S2_CLOUD_PROBABILITY",
         "provider": "European Union/ESA/Copernicus/SentinelHub",
@@ -521,7 +521,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_HARMONIZED#terms-of-use",
-        "end_date": "2023-07-31",
+        "end_date": "2023-08-01",
         "endyear": "2023",
         "id": "COPERNICUS/S2_HARMONIZED",
         "provider": "European Union/ESA/Copernicus",
@@ -534,7 +534,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_SR#terms-of-use",
-        "end_date": "2023-07-31",
+        "end_date": "2023-08-01",
         "endyear": "2023",
         "id": "COPERNICUS/S2_SR",
         "provider": "European Union/ESA/Copernicus",
@@ -547,7 +547,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_SR_HARMONIZED#terms-of-use",
-        "end_date": "2023-07-31",
+        "end_date": "2023-08-01",
         "endyear": "2023",
         "id": "COPERNICUS/S2_SR_HARMONIZED",
         "provider": "European Union/ESA/Copernicus",
@@ -560,7 +560,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S3_OLCI#terms-of-use",
-        "end_date": "2023-07-29",
+        "end_date": "2023-07-31",
         "endyear": "2023",
         "id": "COPERNICUS/S3/OLCI",
         "provider": "European Union/ESA/Copernicus",
@@ -573,7 +573,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_AER_AI#terms-of-use",
-        "end_date": "2023-07-31",
+        "end_date": "2023-08-01",
         "endyear": "2023",
         "id": "COPERNICUS/S5P/NRTI/L3_AER_AI",
         "provider": "European Union/ESA/Copernicus",
@@ -586,7 +586,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_AER_LH#terms-of-use",
-        "end_date": "2023-07-31",
+        "end_date": "2023-08-01",
         "endyear": "2023",
         "id": "COPERNICUS/S5P/NRTI/L3_AER_LH",
         "provider": "European Union/ESA/Copernicus",
@@ -599,7 +599,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_CLOUD#terms-of-use",
-        "end_date": "2023-07-31",
+        "end_date": "2023-08-01",
         "endyear": "2023",
         "id": "COPERNICUS/S5P/NRTI/L3_CLOUD",
         "provider": "European Union/ESA/Copernicus",
@@ -612,7 +612,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_CO#terms-of-use",
-        "end_date": "2023-07-31",
+        "end_date": "2023-08-01",
         "endyear": "2023",
         "id": "COPERNICUS/S5P/NRTI/L3_CO",
         "provider": "European Union/ESA/Copernicus",
@@ -625,7 +625,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_HCHO#terms-of-use",
-        "end_date": "2023-07-31",
+        "end_date": "2023-08-01",
         "endyear": "2023",
         "id": "COPERNICUS/S5P/NRTI/L3_HCHO",
         "provider": "European Union/ESA/Copernicus",
@@ -638,7 +638,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_NO2#terms-of-use",
-        "end_date": "2023-07-31",
+        "end_date": "2023-08-01",
         "endyear": "2023",
         "id": "COPERNICUS/S5P/NRTI/L3_NO2",
         "provider": "European Union/ESA/Copernicus",
@@ -651,7 +651,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_O3#terms-of-use",
-        "end_date": "2023-07-31",
+        "end_date": "2023-08-01",
         "endyear": "2023",
         "id": "COPERNICUS/S5P/NRTI/L3_O3",
         "provider": "European Union/ESA/Copernicus",
@@ -664,7 +664,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_SO2#terms-of-use",
-        "end_date": "2023-07-31",
+        "end_date": "2023-08-01",
         "endyear": "2023",
         "id": "COPERNICUS/S5P/NRTI/L3_SO2",
         "provider": "European Union/ESA/Copernicus",
@@ -677,7 +677,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_AER_AI#terms-of-use",
-        "end_date": "2023-07-29",
+        "end_date": "2023-07-30",
         "endyear": "2023",
         "id": "COPERNICUS/S5P/OFFL/L3_AER_AI",
         "provider": "European Union/ESA/Copernicus",
@@ -716,7 +716,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_CLOUD#terms-of-use",
-        "end_date": "2023-07-29",
+        "end_date": "2023-07-30",
         "endyear": "2023",
         "id": "COPERNICUS/S5P/OFFL/L3_CLOUD",
         "provider": "European Union/ESA/Copernicus",
@@ -729,7 +729,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_CO#terms-of-use",
-        "end_date": "2023-07-29",
+        "end_date": "2023-07-30",
         "endyear": "2023",
         "id": "COPERNICUS/S5P/OFFL/L3_CO",
         "provider": "European Union/ESA/Copernicus",
@@ -742,7 +742,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_HCHO#terms-of-use",
-        "end_date": "2023-07-29",
+        "end_date": "2023-07-30",
         "endyear": "2023",
         "id": "COPERNICUS/S5P/OFFL/L3_HCHO",
         "provider": "European Union/ESA/Copernicus",
@@ -781,7 +781,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_O3_TCL#terms-of-use",
-        "end_date": "2023-07-16",
+        "end_date": "2023-07-17",
         "endyear": "2023",
         "id": "COPERNICUS/S5P/OFFL/L3_O3_TCL",
         "provider": "European Union/ESA/Copernicus",
@@ -794,7 +794,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_SO2#terms-of-use",
-        "end_date": "2023-07-29",
+        "end_date": "2023-07-30",
         "endyear": "2023",
         "id": "COPERNICUS/S5P/OFFL/L3_SO2",
         "provider": "European Union/ESA/Copernicus",
@@ -3771,7 +3771,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C02_T1_RT#terms-of-use",
-        "end_date": "2023-07-31",
+        "end_date": "2023-08-01",
         "endyear": "2023",
         "id": "LANDSAT/LC08/C02/T1_RT",
         "provider": "USGS",
@@ -3784,7 +3784,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C02_T1_RT_TOA#terms-of-use",
-        "end_date": "2023-07-31",
+        "end_date": "2023-08-01",
         "endyear": "2023",
         "id": "LANDSAT/LC08/C02/T1_RT_TOA",
         "provider": "USGS/Google",
@@ -4239,7 +4239,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC09_C02_T2#terms-of-use",
-        "end_date": "2023-07-31",
+        "end_date": "2023-08-01",
         "endyear": "2023",
         "id": "LANDSAT/LC09/C02/T2",
         "provider": "USGS",
@@ -4733,7 +4733,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C02_T1_L2#terms-of-use",
-        "end_date": "2023-07-05",
+        "end_date": "2023-07-06",
         "endyear": "2023",
         "id": "LANDSAT/LE07/C02/T1_L2",
         "provider": "USGS",
@@ -4746,7 +4746,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C02_T1_RT#terms-of-use",
-        "end_date": "2023-07-31",
+        "end_date": "2023-08-01",
         "endyear": "2023",
         "id": "LANDSAT/LE07/C02/T1_RT",
         "provider": "USGS",
@@ -4759,7 +4759,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C02_T1_RT_TOA#terms-of-use",
-        "end_date": "2023-07-31",
+        "end_date": "2023-08-01",
         "endyear": "2023",
         "id": "LANDSAT/LE07/C02/T1_RT_TOA",
         "provider": "USGS/Google",
@@ -4798,7 +4798,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C02_T2_L2#terms-of-use",
-        "end_date": "2023-07-05",
+        "end_date": "2023-07-06",
         "endyear": "2023",
         "id": "LANDSAT/LE07/C02/T2_L2",
         "provider": "USGS",
@@ -10128,7 +10128,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NCEP_RE_sea_level_pressure#terms-of-use",
-        "end_date": "2023-07-27",
+        "end_date": "2023-07-29",
         "endyear": "2023",
         "id": "NCEP_RE/sea_level_pressure",
         "provider": "NCEP",
@@ -10141,7 +10141,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NCEP_RE_surface_temp#terms-of-use",
-        "end_date": "2023-07-27",
+        "end_date": "2023-07-29",
         "endyear": "2023",
         "id": "NCEP_RE/surface_temp",
         "provider": "NCEP",
@@ -10154,7 +10154,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NCEP_RE_surface_wv#terms-of-use",
-        "end_date": "2023-07-28",
+        "end_date": "2023-07-29",
         "endyear": "2023",
         "id": "NCEP_RE/surface_wv",
         "provider": "NCEP",
