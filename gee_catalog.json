@@ -482,7 +482,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S1_GRD#terms-of-use",
-        "end_date": "2023-10-05",
+        "end_date": "2023-10-06",
         "endyear": "2023",
         "id": "COPERNICUS/S1_GRD",
         "provider": "European Union/ESA/Copernicus",
@@ -495,7 +495,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2#terms-of-use",
-        "end_date": "2023-10-05",
+        "end_date": "2023-10-06",
         "endyear": "2023",
         "id": "COPERNICUS/S2",
         "provider": "European Union/ESA/Copernicus",
@@ -508,7 +508,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_CLOUD_PROBABILITY#terms-of-use",
-        "end_date": "2023-10-05",
+        "end_date": "2023-10-06",
         "endyear": "2023",
         "id": "COPERNICUS/S2_CLOUD_PROBABILITY",
         "provider": "European Union/ESA/Copernicus/SentinelHub",
@@ -521,7 +521,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_HARMONIZED#terms-of-use",
-        "end_date": "2023-10-05",
+        "end_date": "2023-10-06",
         "endyear": "2023",
         "id": "COPERNICUS/S2_HARMONIZED",
         "provider": "European Union/ESA/Copernicus",
@@ -534,7 +534,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_SR#terms-of-use",
-        "end_date": "2023-10-05",
+        "end_date": "2023-10-06",
         "endyear": "2023",
         "id": "COPERNICUS/S2_SR",
         "provider": "European Union/ESA/Copernicus",
@@ -547,7 +547,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_SR_HARMONIZED#terms-of-use",
-        "end_date": "2023-10-05",
+        "end_date": "2023-10-06",
         "endyear": "2023",
         "id": "COPERNICUS/S2_SR_HARMONIZED",
         "provider": "European Union/ESA/Copernicus",
@@ -560,7 +560,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S3_OLCI#terms-of-use",
-        "end_date": "2023-10-04",
+        "end_date": "2023-10-05",
         "endyear": "2023",
         "id": "COPERNICUS/S3/OLCI",
         "provider": "European Union/ESA/Copernicus",
@@ -1106,7 +1106,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_DAILY_AGGR#terms-of-use",
-        "end_date": "2023-09-26",
+        "end_date": "2023-09-27",
         "endyear": "2023",
         "id": "ECMWF/ERA5_LAND/DAILY_AGGR",
         "provider": "Daily Aggregates: Google and Copernicus Climate Data Store",
@@ -1743,7 +1743,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_CLOUD_SCORE_PLUS_V1_S2_HARMONIZED#terms-of-use",
-        "end_date": "2023-10-04",
+        "end_date": "2023-10-05",
         "endyear": "2023",
         "id": "GOOGLE/CLOUD_SCORE_PLUS/V1/S2_HARMONIZED",
         "provider": "Google Earth Engine",
@@ -1756,7 +1756,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_DYNAMICWORLD_V1#terms-of-use",
-        "end_date": "2023-10-05",
+        "end_date": "2023-10-06",
         "endyear": "2023",
         "id": "GOOGLE/DYNAMICWORLD/V1",
         "provider": "World Resources Institute",
@@ -1912,7 +1912,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/IDAHO_EPSCOR_GRIDMET#terms-of-use",
-        "end_date": "2023-10-02",
+        "end_date": "2023-10-03",
         "endyear": "2023",
         "id": "IDAHO_EPSCOR/GRIDMET",
         "provider": "University of California Merced",
@@ -2557,7 +2557,7 @@
         "startyear": "2014",
         "tags": "climate, geophysical, gpm, hourly, jaxa, precipitation, weather",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/JAXA/JAXA_GPM_L3_GSMaP_v6_operational_sample.png",
-        "title": "GSMaP Operational: Global Satellite Mapping of Precipitation",
+        "title": "GSMaP Operational: Global Satellite Mapping of Precipitation - V6",
         "type": "image_collection"
     },
     {
@@ -2571,6 +2571,19 @@
         "tags": "climate, geophysical, gpm, hourly, jaxa, precipitation, weather",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/JAXA/JAXA_GPM_L3_GSMaP_v6_reanalysis_sample.png",
         "title": "GSMaP Reanalysis: Global Satellite Mapping of Precipitation",
+        "type": "image_collection"
+    },
+    {
+        "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/JAXA_GPM_L3_GSMaP_v7_operational#terms-of-use",
+        "end_date": "2023-10-05",
+        "endyear": "2023",
+        "id": "JAXA/GPM_L3/GSMaP/v7/operational",
+        "provider": "JAXA Earth Observation Research Center",
+        "start_date": "2014-03-01",
+        "startyear": "2014",
+        "tags": "climate, geophysical, gpm, hourly, jaxa, precipitation, weather",
+        "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/JAXA/JAXA_GPM_L3_GSMaP_v7_operational_sample.png",
+        "title": "GSMaP Operational: Global Satellite Mapping of Precipitation - V7",
         "type": "image_collection"
     },
     {
@@ -4278,7 +4291,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC09_C02_T1_L2#terms-of-use",
-        "end_date": "2023-10-03",
+        "end_date": "2023-10-04",
         "endyear": "2023",
         "id": "LANDSAT/LC09/C02/T1_L2",
         "provider": "USGS",
@@ -4317,7 +4330,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC09_C02_T2_L2#terms-of-use",
-        "end_date": "2023-10-03",
+        "end_date": "2023-10-04",
         "endyear": "2023",
         "id": "LANDSAT/LC09/C02/T2_L2",
         "provider": "USGS",
@@ -4785,7 +4798,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C02_T1#terms-of-use",
-        "end_date": "2023-09-08",
+        "end_date": "2023-09-10",
         "endyear": "2023",
         "id": "LANDSAT/LE07/C02/T1",
         "provider": "USGS",
@@ -4798,7 +4811,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C02_T1_L2#terms-of-use",
-        "end_date": "2023-09-08",
+        "end_date": "2023-09-10",
         "endyear": "2023",
         "id": "LANDSAT/LE07/C02/T1_L2",
         "provider": "USGS",
@@ -4837,7 +4850,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C02_T1_TOA#terms-of-use",
-        "end_date": "2023-09-08",
+        "end_date": "2023-09-10",
         "endyear": "2023",
         "id": "LANDSAT/LE07/C02/T1_TOA",
         "provider": "USGS/Google",
@@ -4850,7 +4863,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C02_T2#terms-of-use",
-        "end_date": "2023-09-08",
+        "end_date": "2023-09-09",
         "endyear": "2023",
         "id": "LANDSAT/LE07/C02/T2",
         "provider": "USGS",
@@ -4863,7 +4876,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C02_T2_L2#terms-of-use",
-        "end_date": "2023-09-08",
+        "end_date": "2023-09-09",
         "endyear": "2023",
         "id": "LANDSAT/LE07/C02/T2_L2",
         "provider": "USGS",
@@ -4876,7 +4889,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C02_T2_TOA#terms-of-use",
-        "end_date": "2023-09-08",
+        "end_date": "2023-09-09",
         "endyear": "2023",
         "id": "LANDSAT/LE07/C02/T2_TOA",
         "provider": "USGS/Google",
@@ -8321,7 +8334,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MCD19A1_GRANULES#terms-of-use",
-        "end_date": "2005-12-17",
+        "end_date": "2005-12-27",
         "endyear": "2005",
         "id": "MODIS/061/MCD19A1_GRANULES",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -8451,7 +8464,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD09CMG#terms-of-use",
-        "end_date": "2023-10-01",
+        "end_date": "2023-10-02",
         "endyear": "2023",
         "id": "MODIS/061/MOD09CMG",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -10180,7 +10193,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_SMAP_SPL3SMP_E_005#terms-of-use",
-        "end_date": "2023-10-03",
+        "end_date": "2023-10-04",
         "endyear": "2023",
         "id": "NASA/SMAP/SPL3SMP_E/005",
         "provider": "Google and NSIDC",
@@ -10193,7 +10206,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_SMAP_SPL4SMGP_007#terms-of-use",
-        "end_date": "2023-10-01",
+        "end_date": "2023-10-02",
         "endyear": "2023",
         "id": "NASA/SMAP/SPL4SMGP/007",
         "provider": "Google and NSIDC",
@@ -10531,7 +10544,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GFS0P25#terms-of-use",
-        "end_date": "2023-10-05",
+        "end_date": "2023-10-06",
         "endyear": "2023",
         "id": "NOAA/GFS0P25",
         "provider": "NOAA/NCEP/EMC",
@@ -10544,7 +10557,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_16_FDCC#terms-of-use",
-        "end_date": "2023-10-05",
+        "end_date": "2023-10-06",
         "endyear": "2023",
         "id": "NOAA/GOES/16/FDCC",
         "provider": "NOAA",
@@ -10557,7 +10570,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_16_FDCF#terms-of-use",
-        "end_date": "2023-10-05",
+        "end_date": "2023-10-06",
         "endyear": "2023",
         "id": "NOAA/GOES/16/FDCF",
         "provider": "NOAA",
@@ -10570,7 +10583,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_16_MCMIPC#terms-of-use",
-        "end_date": "2023-10-05",
+        "end_date": "2023-10-06",
         "endyear": "2023",
         "id": "NOAA/GOES/16/MCMIPC",
         "provider": "NOAA",
@@ -10583,7 +10596,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_16_MCMIPF#terms-of-use",
-        "end_date": "2023-10-05",
+        "end_date": "2023-10-06",
         "endyear": "2023",
         "id": "NOAA/GOES/16/MCMIPF",
         "provider": "NOAA",
@@ -10596,7 +10609,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_16_MCMIPM#terms-of-use",
-        "end_date": "2023-10-05",
+        "end_date": "2023-10-06",
         "endyear": "2023",
         "id": "NOAA/GOES/16/MCMIPM",
         "provider": "NOAA",
@@ -10674,7 +10687,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_18_FDCC#terms-of-use",
-        "end_date": "2023-10-05",
+        "end_date": "2023-10-06",
         "endyear": "2023",
         "id": "NOAA/GOES/18/FDCC",
         "provider": "NOAA",
@@ -10687,7 +10700,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_18_FDCF#terms-of-use",
-        "end_date": "2023-10-05",
+        "end_date": "2023-10-06",
         "endyear": "2023",
         "id": "NOAA/GOES/18/FDCF",
         "provider": "NOAA",
@@ -10700,7 +10713,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_18_MCMIPC#terms-of-use",
-        "end_date": "2023-10-05",
+        "end_date": "2023-10-06",
         "endyear": "2023",
         "id": "NOAA/GOES/18/MCMIPC",
         "provider": "NOAA",
@@ -10713,7 +10726,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_18_MCMIPF#terms-of-use",
-        "end_date": "2023-10-05",
+        "end_date": "2023-10-06",
         "endyear": "2023",
         "id": "NOAA/GOES/18/MCMIPF",
         "provider": "NOAA",
@@ -10726,7 +10739,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_18_MCMIPM#terms-of-use",
-        "end_date": "2023-10-05",
+        "end_date": "2023-10-06",
         "endyear": "2023",
         "id": "NOAA/GOES/18/MCMIPM",
         "provider": "NOAA",
@@ -13715,6 +13728,58 @@
         "type": "image"
     },
     {
+        "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/projects_geoscience-aus-cat_assets_ga_landcover#terms-of-use",
+        "end_date": "2023-10-07",
+        "endyear": "2023",
+        "id": "projects/geoscience-aus-cat/assets/ga_landcover",
+        "provider": "Geoscience Australia",
+        "start_date": "1988-01-01",
+        "startyear": "1988",
+        "tags": "australia, ga, landsat_derived, landcover",
+        "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/geoscience-aus-cat/projects_geoscience-aus-cat_assets_ga_landcover_sample.png",
+        "title": "DEA Land Cover 1.0.0",
+        "type": "image"
+    },
+    {
+        "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/projects_geoscience-aus-cat_assets_geomedians_LS5#terms-of-use",
+        "end_date": "2012-01-01",
+        "endyear": "2012",
+        "id": "projects/geoscience-aus-cat/assets/geomedians_LS5",
+        "provider": "Geoscience Australia",
+        "start_date": "1998-01-01",
+        "startyear": "1998",
+        "tags": "australia, ga, landsat_derived",
+        "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/geoscience-aus-cat/projects_geoscience-aus-cat_assets_geomedians_LS5_sample.png",
+        "title": "DEA Geometric Median and Median Absolute Deviation - Landsat 5 3.1.0",
+        "type": "image"
+    },
+    {
+        "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/projects_geoscience-aus-cat_assets_geomedians_LS7#terms-of-use",
+        "end_date": "2023-10-07",
+        "endyear": "2023",
+        "id": "projects/geoscience-aus-cat/assets/geomedians_LS7",
+        "provider": "Geoscience Australia",
+        "start_date": "2000-01-01",
+        "startyear": "2000",
+        "tags": "australia, ga, landsat_derived",
+        "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/geoscience-aus-cat/projects_geoscience-aus-cat_assets_geomedians_LS7_sample.png",
+        "title": "DEA Geometric Median and Median Absolute Deviation - Landsat 7 3.1.0",
+        "type": "image"
+    },
+    {
+        "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/projects_geoscience-aus-cat_assets_geomedians_LS8#terms-of-use",
+        "end_date": "2023-10-07",
+        "endyear": "2023",
+        "id": "projects/geoscience-aus-cat/assets/geomedians_LS8",
+        "provider": "Geoscience Australia",
+        "start_date": "2013-01-01",
+        "startyear": "2013",
+        "tags": "australia, ga, landsat_derived",
+        "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/geoscience-aus-cat/projects_geoscience-aus-cat_assets_geomedians_LS8_sample.png",
+        "title": "DEA Geometric Median and Median Absolute Deviation - Landsat 8 3.1.0",
+        "type": "image"
+    },
+    {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/projects_ngis-cat_assets_DEA_NIDEM#terms-of-use",
         "end_date": "2017-07-31",
         "endyear": "2017",
@@ -13729,7 +13794,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/projects_planet-nicfi_assets_basemaps_africa#terms-of-use",
-        "end_date": "2023-08-01",
+        "end_date": "2023-09-01",
         "endyear": "2023",
         "id": "projects/planet-nicfi/assets/basemaps/africa",
         "provider": "Planet",
@@ -13742,7 +13807,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/projects_planet-nicfi_assets_basemaps_americas#terms-of-use",
-        "end_date": "2023-08-01",
+        "end_date": "2023-09-01",
         "endyear": "2023",
         "id": "projects/planet-nicfi/assets/basemaps/americas",
         "provider": "Planet",
@@ -13755,7 +13820,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/projects_planet-nicfi_assets_basemaps_asia#terms-of-use",
-        "end_date": "2023-08-01",
+        "end_date": "2023-09-01",
         "endyear": "2023",
         "id": "projects/planet-nicfi/assets/basemaps/asia",
         "provider": "Planet",
@@ -13794,7 +13859,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/projects_sat-io_open-datasets_us-drought-monitor#terms-of-use",
-        "end_date": "2023-09-19",
+        "end_date": "2023-09-26",
         "endyear": "2023",
         "id": "projects/sat-io/open-datasets/us-drought-monitor",
         "provider": "National Drought Mitigation Center",
