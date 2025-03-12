@@ -15,15 +15,15 @@ jobs:
       - name: setup python
         uses: actions/setup-python@v2
         with:
-          python-version: '3.8' # install the python version needed
-          
+          python-version: '3.10' # upgrade to a newer Python version
+
       - name: install python packages
         run: |
           python -m pip install --upgrade pip
-          python -m pip install --upgrade pip
           pip install -U pip setuptools
-          pip install pendulum beautifulsoup4 requests natsort
-      - name: Script check
+          pip install aiohttp asyncio tqdm natsort beautifulsoup4 requests logging
+
+      - name: Run optimized script
         uses: jannekem/run-python-script-action@v1
         with:
           script: |
@@ -34,114 +34,416 @@ jobs:
             import json
             import urllib
             from natsort import natsorted
-            now = datetime.now()
-            catalog=[]
-            i = 1
-            def parseurl(url):
-                global i
-                gparse = []
-                sublinks = []
-                try:
-                    response = requests.get(url)
-                    r = response.json()
-                    gee_id = r["id"]
-                    print(f"{i}: {gee_id}")
-                    gee_title = r["title"]
-                    gee_type = r["gee:type"]
-                    gee_start = r["extent"]["temporal"]["interval"][0][0].split("T")[0]
-                    if not r["extent"]["temporal"]["interval"][0][1] == None:
-                        gee_end = r["extent"]["temporal"]["interval"][0][1].split("T")[0]
-                    else:
-                        gee_end = now.strftime("%Y-%m-%d")
-                    gee_start_year = gee_start.split("-")[0]
-                    gee_end_year = gee_end.split("-")[0]
-                    gee_provider = r["providers"][0]["name"]
-                    gee_tags = r["keywords"]
-                    thumbnail_url = [
-                        assets["href"] for assets in r["links"] if assets["rel"] == "preview"
-                    ][0]
-                    asset_url = [
-                        assets["href"] for assets in r["links"] if assets["rel"] == "license"
-                    ][0]
-                    asset = {
-                        "id": gee_id,
-                        "provider": gee_provider,
-                        "title": gee_title,
-                        "start_date": gee_start,
-                        "end_date": gee_end,
-                        "startyear": gee_start_year,
-                        "endyear": gee_end_year,
-                        "type": gee_type,
-                        "tags": ", ".join(gee_tags),
-                        "asset_url": asset_url,
-                        "thumbnail_url": thumbnail_url,
-                    }
-                    catalog.append(asset)
-                    i = i + 1
-                except Exception as e:
-                    print(url)
-                    print(e)
-
-
-            asset_list = []
-
-
-            def yf(url):
-                page = requests.get(url)
-                if page.status_code == 200:
-                    features = [
-                        assets["href"]
-                        for assets in page.json()["links"]
-                        if assets["rel"] == "child"
-                    ]
-                    for feature in features:
-                        if not feature.endswith("catalog.json"):
-                            asset_list.append(feature)
-                        else:
-                            yf(feature)
-
-
-            yf(url="https://earthengine-stac.storage.googleapis.com/catalog/catalog.json")
-
-            item_list = natsorted(list(set(asset_list)))
-            try:
-                for items in item_list:
-                    parseurl(items)
-            except Exception as e:
-                print(f"Failed for {items}")
-                print(e)
-            finally:
-                with open("gee_catalog.json", "w") as file:
-                    json.dump(catalog, file, indent=4, sort_keys=True)
-      - name: json2csv
-        uses: jannekem/run-python-script-action@v1
-        with:
-          script: |
+            import concurrent.futures
+            import logging
+            from pathlib import Path
+            from typing import List, Dict, Any, Optional
+            import asyncio
+            import aiohttp
+            from tqdm import tqdm
             import csv
-            import json
-            with open('gee_catalog.json') as f:
-              data = json.load(f)
-            with open('gee_catalog.csv','w') as csvfile:
-                writer=csv.DictWriter(csvfile,fieldnames=["id", "provider", "title", "start_date","end_date", "startyear","endyear","type","tags","asset_url","thumbnail_url"], delimiter=',',lineterminator='\n')
-                writer.writeheader()
-            for datasets in data:
-                gee_id = datasets['id']
-                gee_provider = datasets['provider']
-                gee_title = datasets['title']
-                gee_start = datasets['start_date']
-                gee_end = datasets['end_date']
-                gee_start_year = datasets['startyear']
-                gee_end_year = datasets['endyear']
-                gee_type = datasets['type']
-                gee_tags = datasets['tags']
-                asset_url = datasets['asset_url']
-                thumbnail_url = datasets['thumbnail_url']
-                with open('gee_catalog.csv','a') as csvfile:
-                    writer=csv.writer(csvfile,delimiter=',',lineterminator='\n')
-                    writer.writerow([gee_id,gee_provider,gee_title,gee_start,gee_end,gee_start_year,gee_end_year,gee_type,gee_tags,asset_url,thumbnail_url])
-                csvfile.close()
+
+            # Configure logging
+            logging.basicConfig(
+                level=logging.INFO,
+                format='%(asctime)s - %(levelname)s - %(message)s',
+                handlers=[
+                    logging.FileHandler("gee_catalog.log"),
+                    logging.StreamHandler()
+                ]
+            )
+            logger = logging.getLogger(__name__)
+
+            BASE_URL = "https://earthengine-stac.storage.googleapis.com/catalog/catalog.json"
+            OUTPUT_JSON = "gee_catalog.json"
+            OUTPUT_CSV = "gee_catalog.csv"
+            MAX_WORKERS = 20  # Adjust based on your system's capabilities and API limits
+
+            # Alternative endpoints for direct dataset listing (if main method fails)
+            ALTERNATIVE_GEE_ENDPOINTS = [
+                "https://earthengine.googleapis.com/v1alpha/projects/earthengine-public/assets",
+                "https://developers.google.com/earth-engine/datasets/catalog",
+                "https://code.earthengine.google.com/datasets"
+            ]
+
+            class GEECatalogBuilder:
+                """Class to build and manage the Google Earth Engine catalog."""
+                
+                def __init__(self):
+                    self.catalog = []
+                    self.asset_list = []
+                    self.now = datetime.now()
+                    self.session = None
+                
+                async def fetch_url(self, url: str) -> Dict:
+                    """Asynchronously fetch and parse JSON from a URL."""
+                    try:
+                        async with self.session.get(url, timeout=30) as response:
+                            if response.status == 200:
+                                # First get the text response
+                                text_response = await response.text()
+                                
+                                # Try to parse it as JSON
+                                try:
+                                    return json.loads(text_response)
+                                except json.JSONDecodeError:
+                                    logger.error(f"Response is not valid JSON from {url}")
+                                    logger.debug(f"First 100 chars: {text_response[:100]}")
+                                    return None
+                            else:
+                                logger.warning(f"Failed to fetch {url}, status code: {response.status}")
+                                return None
+                    except Exception as e:
+                        logger.error(f"Error fetching {url}: {str(e)}")
+                        return None
+                
+                async def parse_url(self, url: str, pbar: tqdm) -> Optional[Dict[str, Any]]:
+                    """Parse a GEE asset URL and extract metadata."""
+                    try:
+                        r = await self.fetch_url(url)
+                        if not r:
+                            return None
+                            
+                        # Skip deprecated assets
+                        if r.get("deprecated", False):
+                            logger.info(f"Skipping deprecated asset: {r.get('id', url)}")
+                            pbar.update(1)
+                            return None
+                            
+                        gee_id = r.get("id")
+                        if not gee_id:
+                            return None
+                            
+                        gee_title = r.get("title", "")
+                        gee_type = r.get("gee:type", "")
+                        
+                        # Handle temporal extent safely
+                        temporal_intervals = r.get("extent", {}).get("temporal", {}).get("interval", [[None, None]])
+                        if temporal_intervals and temporal_intervals[0]:
+                            gee_start = temporal_intervals[0][0].split("T")[0] if temporal_intervals[0][0] else None
+                            gee_end = temporal_intervals[0][1].split("T")[0] if temporal_intervals[0][1] else None
+                        else:
+                            gee_start = None
+                            gee_end = None
+                            
+                        if not gee_end:
+                            gee_end = self.now.strftime("%Y-%m-%d")
+                            
+                        # Extract years safely
+                        gee_start_year = gee_start.split("-")[0] if gee_start else ""
+                        gee_end_year = gee_end.split("-")[0] if gee_end else ""
+                        
+                        # Get provider safely
+                        providers = r.get("providers", [])
+                        gee_provider = providers[0].get("name", "") if providers else ""
+                        
+                        # Get keywords/tags safely
+                        gee_tags = r.get("keywords", [])
+                        
+                        # Extract URLs safely
+                        links = r.get("links", [])
+                        thumbnail_url = next((assets["href"] for assets in links if assets.get("rel") == "preview"), "")
+                        
+                        # Get asset URL and clean it by removing any fragment identifiers (#terms-of-use etc.)
+                        asset_url = next((assets["href"] for assets in links if assets.get("rel") == "license"), "")
+                        if asset_url and '#' in asset_url:
+                            asset_url = asset_url.split('#')[0]
+                        
+                        asset = {
+                            "id": gee_id,
+                            "provider": gee_provider,
+                            "title": gee_title,
+                            "start_date": gee_start or "",
+                            "end_date": gee_end or "",
+                            "startyear": gee_start_year,
+                            "endyear": gee_end_year,
+                            "type": gee_type,
+                            "tags": ", ".join(gee_tags),
+                            "asset_url": asset_url,
+                            "thumbnail_url": thumbnail_url,
+                        }
+                        
+                        pbar.update(1)
+                        return asset
+                        
+                    except Exception as e:
+                        logger.error(f"Error parsing {url}: {str(e)}")
+                        pbar.update(1)
+                        return None
+                
+                async def fetch_catalog_tree(self, url: str) -> None:
+                    """Recursively fetch the catalog tree structure."""
+                    try:
+                        data = await self.fetch_url(url)
+                        if not data:
+                            return
+                            
+                        features = [assets["href"] for assets in data.get("links", []) 
+                                  if assets.get("rel") == "child"]
+                        
+                        for feature in features:
+                            if not feature.endswith("catalog.json"):
+                                self.asset_list.append(feature)
+                            else:
+                                await self.fetch_catalog_tree(feature)
+                                
+                    except Exception as e:
+                        logger.error(f"Error fetching catalog tree at {url}: {str(e)}")
+                
+                async def build_catalog(self):
+                    """Main method to build the GEE catalog."""
+                    try:
+                        # Create an aiohttp session for all requests with specific headers
+                        headers = {
+                            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+                            'Accept': 'application/json'
+                        }
+                        
+                        connector = aiohttp.TCPConnector(ssl=False)  # Skip SSL verification if needed
+                        timeout = aiohttp.ClientTimeout(total=60)  # Longer timeout
+                        
+                        async with aiohttp.ClientSession(headers=headers, connector=connector, timeout=timeout) as session:
+                            self.session = session
+                            
+                            # Step 1: Attempt direct fetch first
+                            logger.info("Attempting to fetch catalog directly...")
+                            
+                            # Fallback URLs in case the primary one fails
+                            urls_to_try = [
+                                BASE_URL,
+                                "https://earthengine-stac.storage.googleapis.com/catalog/catalog.json",
+                                "https://storage.googleapis.com/earthengine-stac/catalog/catalog.json"
+                            ]
+                            
+                            success = False
+                            for url in urls_to_try:
+                                logger.info(f"Trying URL: {url}")
+                                try:
+                                    data = await self.fetch_url(url)
+                                    if data:
+                                        logger.info(f"Successfully connected to {url}")
+                                        
+                                        # Directly extract assets if possible
+                                        features = [assets["href"] for assets in data.get("links", []) 
+                                                  if assets.get("rel") == "child"]
+                                        
+                                        for feature in features:
+                                            if not feature.endswith("catalog.json"):
+                                                self.asset_list.append(feature)
+                                            else:
+                                                await self.fetch_catalog_tree(feature)
+                                        
+                                        success = True
+                                        break
+                                except Exception as e:
+                                    logger.warning(f"Failed to fetch from {url}: {str(e)}")
+                            
+                            if not success:
+                                # Fallback to loading from a local file if exists
+                                logger.warning("Could not connect to any GEE catalog URLs. Checking for local cache...")
+                                if Path("gee_catalog_previous.json").exists():
+                                    logger.info("Loading from previous catalog cache")
+                                    with open("gee_catalog_previous.json", "r") as f:
+                                        self.catalog = json.load(f)
+                                    return
+                                else:
+                                    logger.error("No local cache found and could not connect to catalog URLs.")
+                            
+                            # Step 2: Remove duplicates and sort
+                            self.asset_list = natsorted(list(set(self.asset_list)))
+                            logger.info(f"Found {len(self.asset_list)} unique assets to process")
+                            
+                            if not self.asset_list:
+                                logger.error("No assets found to process. Check the catalog URL or network connection.")
+                                return
+                            
+                            # Step 3: Process all assets concurrently with rate limiting
+                            logger.info("Processing assets...")
+                            semaphore = asyncio.Semaphore(10)  # Limit concurrent requests
+                            
+                            async def limited_parse(url, pbar):
+                                async with semaphore:
+                                    return await self.parse_url(url, pbar)
+                            
+                            with tqdm(total=len(self.asset_list), desc="Processing") as pbar:
+                                tasks = [limited_parse(url, pbar) for url in self.asset_list]
+                                results = await asyncio.gather(*tasks, return_exceptions=True)
+                                
+                            # Step 4: Filter out None results, exceptions, and any remaining deprecated assets
+                            self.catalog = [
+                                item for item in results 
+                                if item and not isinstance(item, Exception) and not "[deprecated]" in item.get("title", "").lower()
+                            ]
+                            logger.info(f"Successfully processed {len(self.catalog)} assets (after filtering deprecated items)")
+                            
+                            # Backup the current catalog for future fallback
+                            if self.catalog:
+                                with open("gee_catalog_previous.json", "w") as f:
+                                    json.dump(self.catalog, f, indent=4, sort_keys=True)
+                            
+                    except Exception as e:
+                        logger.error(f"Error building catalog: {str(e)}")
+                        import traceback
+                        logger.error(traceback.format_exc())
+                    finally:
+                        # Save results even if there's an error
+                        if self.catalog:
+                            self.save_outputs()
+                        else:
+                            logger.error("No catalog data to save.")
+                
+                def save_outputs(self):
+                    """Save the catalog to JSON and CSV files."""
+                    try:
+                        if not self.catalog:
+                            logger.warning("No data to save. Catalog is empty.")
+                            return
+                        
+                        # Final processing to ensure clean data
+                        processed_catalog = []
+                        for item in self.catalog:
+                            # Skip any item with "[deprecated]" in title
+                            if "[deprecated]" in item.get("title", "").lower():
+                                continue
+                            
+                            # Clean URLs by removing fragments
+                            if '#' in item.get("asset_url", ""):
+                                item["asset_url"] = item["asset_url"].split('#')[0]
+                            
+                            if '#' in item.get("thumbnail_url", ""):
+                                item["thumbnail_url"] = item["thumbnail_url"].split('#')[0]
+                            
+                            processed_catalog.append(item)
+                        
+                        # Save JSON
+                        logger.info(f"Saving {len(processed_catalog)} items to {OUTPUT_JSON}")
+                        with open(OUTPUT_JSON, "w") as file:
+                            json.dump(processed_catalog, file, indent=4, sort_keys=True)
+                        
+                        # Save CSV
+                        logger.info(f"Saving to {OUTPUT_CSV}")
+                        with open(OUTPUT_CSV, 'w', newline='') as csvfile:
+                            fieldnames = [
+                                "id", "provider", "title", "start_date", "end_date", 
+                                "startyear", "endyear", "type", "tags", "asset_url", "thumbnail_url"
+                            ]
+                            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+                            writer.writeheader()
+                            writer.writerows(processed_catalog)
+                            
+                        logger.info(f"All data saved successfully. Processed {len(processed_catalog)} non-deprecated assets.")
+                        
+                    except Exception as e:
+                        logger.error(f"Error saving outputs: {str(e)}")
+                        import traceback
+                        logger.error(traceback.format_exc())
+
+            async def try_alternative_methods():
+                """Try alternative methods to get GEE catalog data."""
+                logger.info("Attempting to use Earth Engine Python API...")
+                
+                try:
+                    # Try to import Earth Engine Python API
+                    import ee
+                    
+                    # Initialize Earth Engine
+                    try:
+                        ee.Initialize()
+                        logger.info("Successfully initialized Earth Engine API")
+                    except:
+                        # Try to authenticate if needed
+                        ee.Authenticate()
+                        ee.Initialize()
+                        logger.info("Successfully authenticated and initialized Earth Engine API")
+                    
+                    # Get all assets
+                    catalog = []
+                    
+                    # Get root collections
+                    collections = ee.data.listAssets({'parent': 'projects/earthengine-public/assets'})
+                    
+                    # Process each collection
+                    for collection in collections.get('assets', []):
+                        try:
+                            collection_id = collection['name'].split('/')[-1]
+                            logger.info(f"Processing collection: {collection_id}")
+                            
+                            # Get metadata
+                            info = ee.data.getAsset(collection['name'])
+                            
+                            # Extract basic metadata
+                            asset = {
+                                "id": collection_id,
+                                "provider": "Google Earth Engine",
+                                "title": info.get('displayName', collection_id),
+                                "start_date": "",
+                                "end_date": "",
+                                "startyear": "",
+                                "endyear": "",
+                                "type": info.get('type', ''),
+                                "tags": ", ".join(info.get('tags', [])),
+                                "asset_url": f"https://developers.google.com/earth-engine/datasets/catalog/{collection_id}",
+                                "thumbnail_url": "",
+                            }
+                            
+                            catalog.append(asset)
+                            
+                            # Save as we go to capture partial results
+                            with open("gee_catalog.json", "w") as file:
+                                json.dump(catalog, file, indent=4, sort_keys=True)
+                            
+                        except Exception as e:
+                            logger.error(f"Error processing collection {collection.get('name')}: {str(e)}")
+                    
+                    # Save final results
+                    if catalog:
+                        logger.info(f"Found {len(catalog)} collections using EE API")
+                        with open("gee_catalog.json", "w") as file:
+                            json.dump(catalog, file, indent=4, sort_keys=True)
+                        
+                        # Save CSV
+                        with open("gee_catalog.csv", 'w', newline='') as csvfile:
+                            fieldnames = [
+                                "id", "provider", "title", "start_date", "end_date", 
+                                "startyear", "endyear", "type", "tags", "asset_url", "thumbnail_url"
+                            ]
+                            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+                            writer.writeheader()
+                            writer.writerows(catalog)
+                    
+                except ImportError:
+                    logger.warning("Earth Engine Python API not installed. Trying direct scraping...")
+                    # Could implement a web scraping fallback here if needed
+                    
+                except Exception as e:
+                    logger.error(f"Error in alternative methods: {str(e)}")
+                    import traceback
+                    logger.error(traceback.format_exc())
+
+            async def main():
+                start_time = time.time()
+                logger.info("Starting GEE catalog extraction")
+                
+                builder = GEECatalogBuilder()
+                await builder.build_catalog()
+                
+                # If no results were found, try alternative methods
+                if not builder.catalog:
+                    logger.info("Primary method failed. Trying alternative methods...")
+                    try:
+                        await try_alternative_methods()
+                    except Exception as e:
+                        logger.error(f"Alternative methods also failed: {str(e)}")
+                
+                elapsed_time = time.time() - start_time
+                logger.info(f"Completed in {elapsed_time:.2f} seconds")
+
+            # Run the async main function
+            asyncio.run(main())
+
       - name: file_check
         run: ls -l -a
+        
       - name: commit files
         continue-on-error: true
         run: |
@@ -151,6 +453,7 @@ jobs:
           git add -A
           git commit -m "updated datasets ${today} UTC" -a
           git pull origin master
+          
       - name: push changes
         continue-on-error: true
         uses: ad-m/github-push-action@v0.6.0
