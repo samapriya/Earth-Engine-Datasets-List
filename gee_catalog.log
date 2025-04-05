@@ -5023,3 +5023,225 @@
 2025-04-04 00:35:36,740 - INFO - Saving to gee_catalog.csv
 2025-04-04 00:35:36,747 - INFO - All data saved successfully. Processed 736 non-deprecated assets.
 2025-04-04 00:35:36,747 - INFO - Completed in 19.39 seconds
+2025-04-05 00:34:36,639 - INFO - Starting GEE catalog extraction
+2025-04-05 00:34:36,639 - INFO - Attempting to fetch catalog directly...
+2025-04-05 00:34:36,639 - INFO - Trying URL: https://earthengine-stac.storage.googleapis.com/catalog/catalog.json
+2025-04-05 00:34:36,789 - INFO - Successfully connected to https://earthengine-stac.storage.googleapis.com/catalog/catalog.json
+2025-04-05 00:34:49,110 - INFO - Found 935 unique assets to process
+2025-04-05 00:34:49,110 - INFO - Processing assets...
+2025-04-05 00:34:49,373 - INFO - Skipping deprecated asset: CAS/IGSNRR/PML/V2_v017
+2025-04-05 00:34:49,419 - INFO - Skipping deprecated asset: CIESIN/GPWv4/ancillary-data-grids
+2025-04-05 00:34:49,453 - INFO - Skipping deprecated asset: CIESIN/GPWv4/population-count
+2025-04-05 00:34:49,454 - INFO - Skipping deprecated asset: CIESIN/GPWv4/unwpp-adjusted-population-count
+2025-04-05 00:34:49,463 - INFO - Skipping deprecated asset: CIESIN/GPWv4/unwpp-adjusted-population-density
+2025-04-05 00:34:49,467 - INFO - Skipping deprecated asset: CIESIN/GPWv4/population-density
+2025-04-05 00:34:49,597 - INFO - Skipping deprecated asset: CAS/IGSNRR/PML/V2
+2025-04-05 00:34:49,728 - INFO - Skipping deprecated asset: COPERNICUS/Landcover/100m/Proba-V/Global
+2025-04-05 00:34:49,781 - INFO - Skipping deprecated asset: COPERNICUS/S2
+2025-04-05 00:34:49,829 - INFO - Skipping deprecated asset: COPERNICUS/CORINE/V18_5_1/100m
+2025-04-05 00:34:50,357 - INFO - Skipping deprecated asset: CSIC/SPEI/2_8
+2025-04-05 00:34:50,375 - INFO - Skipping deprecated asset: CSIC/SPEI/2_9
+2025-04-05 00:34:50,995 - INFO - Skipping deprecated asset: ECMWF/ERA5_LAND/MONTHLY
+2025-04-05 00:34:51,077 - INFO - Skipping deprecated asset: EDF/MethaneSAT/MethaneAIR/methaneair-L4area-2021
+2025-04-05 00:34:51,094 - INFO - Skipping deprecated asset: EDF/MethaneSAT/MethaneAIR/methaneair-L4point-2021
+2025-04-05 00:34:51,127 - INFO - Skipping deprecated asset: EDF/OGIM/OGIM_v2-4_RF06_RF08
+2025-04-05 00:34:52,367 - INFO - Skipping deprecated asset: FORMA/FORMA_500m
+2025-04-05 00:34:52,698 - INFO - Skipping deprecated asset: GLCF/GLS_TCC
+2025-04-05 00:34:52,761 - INFO - Skipping deprecated asset: GLIMS/20171027
+2025-04-05 00:34:52,866 - INFO - Skipping deprecated asset: GLIMS/20210914
+2025-04-05 00:34:53,057 - INFO - Skipping deprecated asset: GLIMS/current
+2025-04-05 00:34:53,126 - INFO - Skipping deprecated asset: GLIMS/2016
+2025-04-05 00:34:53,293 - INFO - Skipping deprecated asset: GOOGLE/Research/open-buildings/v1/polygons
+2025-04-05 00:34:53,341 - INFO - Skipping deprecated asset: GOOGLE/Research/open-buildings/v2/polygons
+2025-04-05 00:34:53,536 - INFO - Skipping deprecated asset: HYCOM/GLBu0_08/sea_surface_elevation
+2025-04-05 00:34:53,543 - INFO - Skipping deprecated asset: HYCOM/GLBu0_08/sea_temp_salinity
+2025-04-05 00:34:53,619 - INFO - Skipping deprecated asset: HYCOM/GLBu0_08/sea_water_velocity
+2025-04-05 00:34:53,814 - INFO - Skipping deprecated asset: IDAHO_EPSCOR/PDSI
+2025-04-05 00:34:53,989 - INFO - Skipping deprecated asset: ACA/reef_habitat/v1_0
+2025-04-05 00:34:54,907 - WARNING - Failed to fetch https://storage.googleapis.com/earthengine-stac/catalog/COPERNICUS/COPERNICUS_S2_SR.json, status code: 500
+2025-04-05 00:34:54,970 - WARNING - Failed to fetch https://storage.googleapis.com/earthengine-stac/catalog/COPERNICUS/COPERNICUS_S5P_NRTI_L3_HCHO.json, status code: 500
+2025-04-05 00:34:54,980 - WARNING - Failed to fetch https://storage.googleapis.com/earthengine-stac/catalog/COPERNICUS/COPERNICUS_S5P_NRTI_L3_CLOUD.json, status code: 500
+2025-04-05 00:34:55,055 - INFO - Skipping deprecated asset: JAXA/ALOS/AW3D30/V1_1
+2025-04-05 00:34:55,070 - INFO - Skipping deprecated asset: JAXA/ALOS/AW3D30/V2_1
+2025-04-05 00:34:55,140 - INFO - Skipping deprecated asset: JAXA/ALOS/AW3D30/V2_2
+2025-04-05 00:34:55,277 - WARNING - Failed to fetch https://storage.googleapis.com/earthengine-stac/catalog/COPERNICUS/COPERNICUS_S5P_OFFL_L3_HCHO.json, status code: 500
+2025-04-05 00:34:55,851 - INFO - Skipping deprecated asset: JRC/GFC2020/V1
+2025-04-05 00:34:55,927 - INFO - Skipping deprecated asset: JRC/GHSL/P2016/POP_GPW_GLOBE_V1
+2025-04-05 00:34:55,940 - INFO - Skipping deprecated asset: JRC/GHSL/P2016/BUILT_LDSMT_GLOBE_V1
+2025-04-05 00:34:56,007 - INFO - Skipping deprecated asset: JRC/GHSL/P2016/SMOD_POP_GLOBE_V1
+2025-04-05 00:34:56,103 - INFO - Skipping deprecated asset: JRC/GHSL/P2023A/GHS_SMOD
+2025-04-05 00:34:56,128 - INFO - Skipping deprecated asset: JRC/GSW1_0/GlobalSurfaceWater
+2025-04-05 00:34:56,189 - INFO - Skipping deprecated asset: JRC/GSW1_0/Metadata
+2025-04-05 00:34:56,212 - INFO - Skipping deprecated asset: JRC/GSW1_0/MonthlyHistory
+2025-04-05 00:34:56,212 - INFO - Skipping deprecated asset: JRC/GSW1_0/MonthlyRecurrence
+2025-04-05 00:34:56,249 - WARNING - Failed to fetch https://storage.googleapis.com/earthengine-stac/catalog/EPA/EPA_Ecoregions_2013_L4.json, status code: 500
+2025-04-05 00:34:56,255 - INFO - Skipping deprecated asset: JRC/GSW1_1/GlobalSurfaceWater
+2025-04-05 00:34:56,266 - INFO - Skipping deprecated asset: JRC/GSW1_0/YearlyHistory
+2025-04-05 00:34:56,272 - INFO - Skipping deprecated asset: JRC/GSW1_1/Metadata
+2025-04-05 00:34:56,295 - INFO - Skipping deprecated asset: JRC/GSW1_2/GlobalSurfaceWater
+2025-04-05 00:34:56,318 - INFO - Skipping deprecated asset: JRC/GSW1_1/MonthlyHistory
+2025-04-05 00:34:56,341 - INFO - Skipping deprecated asset: JRC/GSW1_1/MonthlyRecurrence
+2025-04-05 00:34:56,346 - INFO - Skipping deprecated asset: JRC/GSW1_1/YearlyHistory
+2025-04-05 00:34:56,360 - INFO - Skipping deprecated asset: JRC/GSW1_2/Metadata
+2025-04-05 00:34:56,409 - INFO - Skipping deprecated asset: JRC/GSW1_3/GlobalSurfaceWater
+2025-04-05 00:34:56,413 - INFO - Skipping deprecated asset: JRC/GSW1_2/MonthlyHistory
+2025-04-05 00:34:56,417 - INFO - Skipping deprecated asset: JRC/GSW1_2/YearlyHistory
+2025-04-05 00:34:56,466 - INFO - Skipping deprecated asset: JRC/GSW1_3/Metadata
+2025-04-05 00:34:56,476 - INFO - Skipping deprecated asset: JRC/GSW1_3/MonthlyHistory
+2025-04-05 00:34:56,483 - INFO - Skipping deprecated asset: JRC/GSW1_3/YearlyHistory
+2025-04-05 00:34:56,490 - INFO - Skipping deprecated asset: JRC/GSW1_3/MonthlyRecurrence
+2025-04-05 00:34:59,437 - INFO - Skipping deprecated asset: JRC/GSW1_2/MonthlyRecurrence
+2025-04-05 00:34:59,557 - WARNING - Failed to fetch https://storage.googleapis.com/earthengine-stac/catalog/ISDASOIL/ISDASOIL_Africa_v1_silt_content.json, status code: 500
+2025-04-05 00:34:59,566 - INFO - Skipping deprecated asset: MODIS/006/MCD12Q1
+2025-04-05 00:34:59,616 - INFO - Skipping deprecated asset: MODIS/006/MCD12Q2
+2025-04-05 00:34:59,623 - INFO - Skipping deprecated asset: MODIS/006/MCD15A3H
+2025-04-05 00:34:59,625 - INFO - Skipping deprecated asset: MODIS/006/MCD19A2_GRANULES
+2025-04-05 00:34:59,649 - INFO - Skipping deprecated asset: MODIS/006/MCD43A1
+2025-04-05 00:34:59,689 - INFO - Skipping deprecated asset: MODIS/006/MCD43A2
+2025-04-05 00:34:59,704 - INFO - Skipping deprecated asset: MODIS/006/MCD43C3
+2025-04-05 00:34:59,714 - INFO - Skipping deprecated asset: MODIS/006/MCD43A3
+2025-04-05 00:34:59,734 - INFO - Skipping deprecated asset: MODIS/006/MCD43A4
+2025-04-05 00:34:59,751 - INFO - Skipping deprecated asset: MODIS/006/MCD64A1
+2025-04-05 00:34:59,766 - INFO - Skipping deprecated asset: MODIS/006/MOD08_M3
+2025-04-05 00:34:59,774 - INFO - Skipping deprecated asset: MODIS/006/MOD09A1
+2025-04-05 00:34:59,822 - INFO - Skipping deprecated asset: MODIS/006/MOD09GQ
+2025-04-05 00:34:59,835 - INFO - Skipping deprecated asset: MODIS/006/MOD09Q1
+2025-04-05 00:34:59,842 - INFO - Skipping deprecated asset: MODIS/006/MOD11A2
+2025-04-05 00:34:59,847 - INFO - Skipping deprecated asset: MODIS/006/MOD11A1
+2025-04-05 00:34:59,850 - INFO - Skipping deprecated asset: MODIS/006/MOD10A1
+2025-04-05 00:34:59,904 - INFO - Skipping deprecated asset: MODIS/006/MOD13A2
+2025-04-05 00:34:59,906 - INFO - Skipping deprecated asset: MODIS/006/MOD13Q1
+2025-04-05 00:34:59,970 - INFO - Skipping deprecated asset: MODIS/006/MOD15A2H
+2025-04-05 00:35:00,019 - INFO - Skipping deprecated asset: MODIS/006/MOD16A2
+2025-04-05 00:35:00,036 - INFO - Skipping deprecated asset: MODIS/006/MOD09GA
+2025-04-05 00:35:00,055 - INFO - Skipping deprecated asset: MODIS/006/MOD17A2H
+2025-04-05 00:35:00,107 - INFO - Skipping deprecated asset: MODIS/006/MOD17A3HGF
+2025-04-05 00:35:00,117 - INFO - Skipping deprecated asset: MODIS/006/MOD17A3H
+2025-04-05 00:35:00,287 - INFO - Skipping deprecated asset: MODIS/006/MYD08_M3
+2025-04-05 00:35:00,339 - INFO - Skipping deprecated asset: MODIS/006/MYD09GA
+2025-04-05 00:35:00,372 - INFO - Skipping deprecated asset: MODIS/006/MOD44B
+2025-04-05 00:35:00,392 - INFO - Skipping deprecated asset: MODIS/006/MYD09GQ
+2025-04-05 00:35:00,396 - INFO - Skipping deprecated asset: MODIS/006/MYD09Q1
+2025-04-05 00:35:00,431 - INFO - Skipping deprecated asset: MODIS/006/MYD09A1
+2025-04-05 00:35:00,459 - INFO - Skipping deprecated asset: MODIS/006/MYD10A1
+2025-04-05 00:35:00,464 - INFO - Skipping deprecated asset: MODIS/006/MYD11A2
+2025-04-05 00:35:00,478 - INFO - Skipping deprecated asset: MODIS/006/MYD11A1
+2025-04-05 00:35:00,525 - INFO - Skipping deprecated asset: MODIS/006/MYD13A1
+2025-04-05 00:35:00,531 - INFO - Skipping deprecated asset: MODIS/006/MYD13Q1
+2025-04-05 00:35:00,561 - INFO - Skipping deprecated asset: MODIS/006/MYD14A1
+2025-04-05 00:35:00,596 - INFO - Skipping deprecated asset: MODIS/006/MYD14A2
+2025-04-05 00:35:00,639 - INFO - Skipping deprecated asset: MODIS/006/MYD17A2H
+2025-04-05 00:35:00,706 - INFO - Skipping deprecated asset: MODIS/006/MYD17A3HGF
+2025-04-05 00:35:00,707 - INFO - Skipping deprecated asset: MODIS/006/MYD17A3H
+2025-04-05 00:35:00,771 - INFO - Skipping deprecated asset: MODIS/055/MOD17A3
+2025-04-05 00:35:00,957 - INFO - Skipping deprecated asset: MODIS/006/MOD14A1
+2025-04-05 00:35:01,028 - INFO - Skipping deprecated asset: MODIS/061/MCD18C2
+2025-04-05 00:35:01,036 - INFO - Skipping deprecated asset: MODIS/061/MCD18A1
+2025-04-05 00:35:01,270 - INFO - Skipping deprecated asset: MODIS/006/MOD14A2
+2025-04-05 00:35:01,296 - INFO - Skipping deprecated asset: MODIS/006/MOD13A1
+2025-04-05 00:35:01,602 - WARNING - Failed to fetch https://storage.googleapis.com/earthengine-stac/catalog/JRC/JRC_GSW1_4_GlobalSurfaceWater.json, status code: 500
+2025-04-05 00:35:02,102 - INFO - Skipping deprecated asset: MODIS/006/MYD15A2H
+2025-04-05 00:35:02,684 - INFO - Skipping deprecated asset: MODIS/006/MYD13A2
+2025-04-05 00:35:02,776 - INFO - Skipping deprecated asset: MODIS/MCD43A1
+2025-04-05 00:35:02,785 - INFO - Skipping deprecated asset: MODIS/MCD43A4
+2025-04-05 00:35:02,812 - INFO - Skipping deprecated asset: MODIS/MCD43A2
+2025-04-05 00:35:02,931 - INFO - Skipping deprecated asset: MODIS/MCD43A4_BAI
+2025-04-05 00:35:02,946 - INFO - Skipping deprecated asset: MODIS/MCD43A4_NDSI
+2025-04-05 00:35:02,952 - INFO - Skipping deprecated asset: MODIS/MCD43A4_EVI
+2025-04-05 00:35:02,988 - INFO - Skipping deprecated asset: MODIS/MOD09A1
+2025-04-05 00:35:03,006 - INFO - Skipping deprecated asset: MODIS/MCD43A4_NDVI
+2025-04-05 00:35:03,007 - INFO - Skipping deprecated asset: MODIS/MCD43A4_NDWI
+2025-04-05 00:35:03,035 - INFO - Skipping deprecated asset: MODIS/MOD09GA
+2025-04-05 00:35:03,174 - INFO - Skipping deprecated asset: MODIS/MOD09GA_NDVI
+2025-04-05 00:35:03,174 - INFO - Skipping deprecated asset: MODIS/MOD09GA_EVI
+2025-04-05 00:35:03,219 - INFO - Skipping deprecated asset: MODIS/MOD09GA_NDSI
+2025-04-05 00:35:03,260 - INFO - Skipping deprecated asset: MODIS/MOD09GA_BAI
+2025-04-05 00:35:03,261 - INFO - Skipping deprecated asset: MODIS/MOD10A1
+2025-04-05 00:35:03,261 - INFO - Skipping deprecated asset: MODIS/MOD09GA_NDWI
+2025-04-05 00:35:03,288 - INFO - Skipping deprecated asset: MODIS/MOD11A1
+2025-04-05 00:35:03,290 - INFO - Skipping deprecated asset: MODIS/MOD09Q1
+2025-04-05 00:35:03,319 - INFO - Skipping deprecated asset: MODIS/MOD11A2
+2025-04-05 00:35:03,345 - INFO - Skipping deprecated asset: MODIS/MOD13Q1
+2025-04-05 00:35:03,356 - INFO - Skipping deprecated asset: MODIS/MOD09GQ
+2025-04-05 00:35:03,403 - INFO - Skipping deprecated asset: MODIS/MYD09A1
+2025-04-05 00:35:03,472 - INFO - Skipping deprecated asset: MODIS/MYD09GA_BAI
+2025-04-05 00:35:03,581 - INFO - Skipping deprecated asset: MODIS/MYD09GA_NDSI
+2025-04-05 00:35:03,657 - INFO - Skipping deprecated asset: MODIS/MYD09GA_NDVI
+2025-04-05 00:35:03,739 - INFO - Skipping deprecated asset: MODIS/MYD09GA_NDWI
+2025-04-05 00:35:03,810 - INFO - Skipping deprecated asset: MODIS/MYD09GQ
+2025-04-05 00:35:03,905 - INFO - Skipping deprecated asset: MODIS/MYD09Q1
+2025-04-05 00:35:04,000 - INFO - Skipping deprecated asset: MODIS/MYD10A1
+2025-04-05 00:35:04,071 - INFO - Skipping deprecated asset: MODIS/MYD11A2
+2025-04-05 00:35:04,160 - INFO - Skipping deprecated asset: MODIS/MYD13A1
+2025-04-05 00:35:04,200 - INFO - Skipping deprecated asset: MODIS/MYD13Q1
+2025-04-05 00:35:04,648 - INFO - Skipping deprecated asset: MODIS/MOD13A1
+2025-04-05 00:35:04,859 - INFO - Skipping deprecated asset: NASA/GPM_L3/IMERG_V06
+2025-04-05 00:35:04,923 - INFO - Skipping deprecated asset: NASA/GRACE/MASS_GRIDS/MASCON
+2025-04-05 00:35:04,932 - INFO - Skipping deprecated asset: NASA/GRACE/MASS_GRIDS/LAND
+2025-04-05 00:35:04,992 - INFO - Skipping deprecated asset: NASA/GRACE/MASS_GRIDS/OCEAN
+2025-04-05 00:35:04,993 - INFO - Skipping deprecated asset: NASA/GRACE/MASS_GRIDS/MASCON_CRI
+2025-04-05 00:35:05,074 - INFO - Skipping deprecated asset: NASA/GRACE/MASS_GRIDS_V03/MASCON
+2025-04-05 00:35:05,133 - INFO - Skipping deprecated asset: NASA/GRACE/MASS_GRIDS_V03/MASCON_CRI
+2025-04-05 00:35:05,594 - INFO - Skipping deprecated asset: NASA/ORNL/DAYMET_V3
+2025-04-05 00:35:05,892 - WARNING - Failed to fetch https://storage.googleapis.com/earthengine-stac/catalog/LANDFIRE/LANDFIRE_Fire_PRS_v1_2_0.json, status code: 500
+2025-04-05 00:35:05,967 - INFO - Skipping deprecated asset: NASA_USDA/HSL/SMAP10KM_soil_moisture
+2025-04-05 00:35:06,060 - INFO - Skipping deprecated asset: NASA_USDA/HSL/soil_moisture
+2025-04-05 00:35:06,099 - INFO - Skipping deprecated asset: NOAA/CDR/AVHRR/AOT/V3
+2025-04-05 00:35:06,119 - INFO - Skipping deprecated asset: NOAA/CDR/AVHRR/LAI_FAPAR/V4
+2025-04-05 00:35:06,140 - INFO - Skipping deprecated asset: NASA_USDA/HSL/SMAP_soil_moisture
+2025-04-05 00:35:06,146 - INFO - Skipping deprecated asset: NOAA/CDR/AVHRR/SR/V4
+2025-04-05 00:35:06,177 - INFO - Skipping deprecated asset: NOAA/CDR/AVHRR/NDVI/V4
+2025-04-05 00:35:06,270 - INFO - Skipping deprecated asset: NOAA/CDR/OISST/V2
+2025-04-05 00:35:06,913 - INFO - Skipping deprecated asset: NOAA/VIIRS/001/VNP09GA
+2025-04-05 00:35:06,920 - WARNING - Failed to fetch https://storage.googleapis.com/earthengine-stac/catalog/MODIS/MODIS_061_MOD16A2.json, status code: 500
+2025-04-05 00:35:06,961 - INFO - Skipping deprecated asset: NOAA/VIIRS/001/VNP09H1
+2025-04-05 00:35:07,004 - INFO - Skipping deprecated asset: NOAA/VIIRS/001/VNP14A1
+2025-04-05 00:35:07,100 - INFO - Skipping deprecated asset: NOAA/VIIRS/001/VNP21A1D
+2025-04-05 00:35:07,131 - INFO - Skipping deprecated asset: NOAA/VIIRS/001/VNP21A1N
+2025-04-05 00:35:07,159 - INFO - Skipping deprecated asset: NOAA/VIIRS/001/VNP15A2H
+2025-04-05 00:35:07,199 - INFO - Skipping deprecated asset: NOAA/VIIRS/001/VNP46A2
+2025-04-05 00:35:07,300 - INFO - Skipping deprecated asset: MODIS/MYD09GA
+2025-04-05 00:35:07,341 - INFO - Skipping deprecated asset: NOAA/VIIRS/001/VNP13A1
+2025-04-05 00:35:07,633 - INFO - Skipping deprecated asset: MODIS/MYD09GA_EVI
+2025-04-05 00:35:08,047 - INFO - Skipping deprecated asset: RUB/RUBCLIM/LCZ/global_lcz_map/v1
+2025-04-05 00:35:08,180 - INFO - Skipping deprecated asset: TERN/AET/CMRSET_LANDSAT_V2_1
+2025-04-05 00:35:09,019 - WARNING - Failed to fetch https://storage.googleapis.com/earthengine-stac/catalog/MODIS/MODIS_MYD11A1.json, status code: 500
+2025-04-05 00:35:09,286 - INFO - Skipping deprecated asset: UMD/hansen/global_forest_change_2014
+2025-04-05 00:35:09,311 - INFO - Skipping deprecated asset: UMD/hansen/global_forest_change_2015
+2025-04-05 00:35:09,327 - INFO - Skipping deprecated asset: UMD/hansen/global_forest_change_2013
+2025-04-05 00:35:09,402 - INFO - Skipping deprecated asset: UMD/hansen/global_forest_change_2015_v1_3
+2025-04-05 00:35:09,413 - INFO - Skipping deprecated asset: UMD/hansen/global_forest_change_2016_v1_4
+2025-04-05 00:35:09,424 - INFO - Skipping deprecated asset: UMD/hansen/global_forest_change_2017_v1_5
+2025-04-05 00:35:09,492 - INFO - Skipping deprecated asset: UMD/hansen/global_forest_change_2018_v1_6
+2025-04-05 00:35:09,500 - INFO - Skipping deprecated asset: UMD/hansen/global_forest_change_2019_v1_7
+2025-04-05 00:35:09,521 - INFO - Skipping deprecated asset: UMD/hansen/global_forest_change_2021_v1_9
+2025-04-05 00:35:09,576 - INFO - Skipping deprecated asset: UMD/hansen/global_forest_change_2022_v1_10
+2025-04-05 00:35:09,632 - INFO - Skipping deprecated asset: Oxford/MAP/friction_surface_2015_v1_0
+2025-04-05 00:35:09,705 - INFO - Skipping deprecated asset: UMN/PGC/ArcticDEM/V2/2m
+2025-04-05 00:35:09,925 - INFO - Skipping deprecated asset: UMD/hansen/global_forest_change_2020_v1_8
+2025-04-05 00:35:09,996 - INFO - Skipping deprecated asset: UMT/Climate/IrrMapper_RF/v1_1
+2025-04-05 00:35:10,447 - INFO - Skipping deprecated asset: USDOS/LSIB/2013
+2025-04-05 00:35:10,549 - INFO - Skipping deprecated asset: USFS/GTAC/LCMS/v2020-5
+2025-04-05 00:35:10,600 - INFO - Skipping deprecated asset: USFS/GTAC/LCMS/v2020-6
+2025-04-05 00:35:10,689 - INFO - Skipping deprecated asset: USFS/GTAC/LCMS/v2021-7
+2025-04-05 00:35:10,750 - INFO - Skipping deprecated asset: OREGONSTATE/PRISM/Norm81m
+2025-04-05 00:35:10,887 - INFO - Skipping deprecated asset: USFS/GTAC/LCMS/v2022-8
+2025-04-05 00:35:11,021 - INFO - Skipping deprecated asset: USGS/GFSAD1000_V0
+2025-04-05 00:35:11,082 - INFO - Skipping deprecated asset: USGS/GMTED2010
+2025-04-05 00:35:11,260 - INFO - Skipping deprecated asset: USGS/NED
+2025-04-05 00:35:11,276 - INFO - Skipping deprecated asset: USGS/NLCD_RELEASES/2016_REL
+2025-04-05 00:35:11,285 - INFO - Skipping deprecated asset: USGS/NLCD
+2025-04-05 00:35:11,708 - INFO - Skipping deprecated asset: VITO/PROBAV/S1_TOC_100M
+2025-04-05 00:35:11,739 - INFO - Skipping deprecated asset: VITO/PROBAV/S1_TOC_333M
+2025-04-05 00:35:12,498 - WARNING - Failed to fetch https://storage.googleapis.com/earthengine-stac/catalog/OSU/OSU_GIMP_2000_IMAGERY_MOSAIC.json, status code: 500
+2025-04-05 00:35:12,932 - INFO - Skipping deprecated asset: WorldPop/POP
+2025-04-05 00:35:13,088 - INFO - Skipping deprecated asset: projects/forestdatapartnership/assets/community_palm/20240312
+2025-04-05 00:35:13,670 - WARNING - Failed to fetch https://storage.googleapis.com/earthengine-stac/catalog/TOMS/TOMS_MERGED.json, status code: 500
+2025-04-05 00:35:14,515 - INFO - Skipping deprecated asset: UMN/PGC/ArcticDEM/V2/5m
+2025-04-05 00:35:18,040 - WARNING - Failed to fetch https://storage.googleapis.com/earthengine-stac/catalog/edf-methanesat-ee/projects_edf-methanesat-ee_assets_public-preview_L3concentration.json, status code: 500
+2025-04-05 00:35:18,523 - WARNING - Failed to fetch https://storage.googleapis.com/earthengine-stac/catalog/neon-prod-earthengine/projects_neon-prod-earthengine_assets_DEM_001.json, status code: 500
+2025-04-05 00:35:18,525 - INFO - Successfully processed 724 assets (after filtering deprecated items)
+2025-04-05 00:35:18,535 - INFO - Saving 724 items to gee_catalog.json
+2025-04-05 00:35:18,544 - INFO - Saving to gee_catalog.csv
+2025-04-05 00:35:18,551 - INFO - All data saved successfully. Processed 724 non-deprecated assets.
+2025-04-05 00:35:18,551 - INFO - Completed in 41.91 seconds
