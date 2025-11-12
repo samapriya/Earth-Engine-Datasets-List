@@ -690,7 +690,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S1_GRD",
-        "end_date": "2025-11-10",
+        "end_date": "2025-11-11",
         "endyear": "2025",
         "id": "COPERNICUS/S1_GRD",
         "provider": "European Union/ESA/Copernicus",
@@ -703,7 +703,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_CLOUD_PROBABILITY",
-        "end_date": "2025-11-10",
+        "end_date": "2025-11-11",
         "endyear": "2025",
         "id": "COPERNICUS/S2_CLOUD_PROBABILITY",
         "provider": "European Union/ESA/Copernicus/SentinelHub",
@@ -716,7 +716,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_HARMONIZED",
-        "end_date": "2025-11-10",
+        "end_date": "2025-11-11",
         "endyear": "2025",
         "id": "COPERNICUS/S2_HARMONIZED",
         "provider": "European Union/ESA/Copernicus",
@@ -729,7 +729,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_SR_HARMONIZED",
-        "end_date": "2025-11-10",
+        "end_date": "2025-11-11",
         "endyear": "2025",
         "id": "COPERNICUS/S2_SR_HARMONIZED",
         "provider": "European Union/ESA/Copernicus",
@@ -755,7 +755,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_AER_AI",
-        "end_date": "2025-11-10",
+        "end_date": "2025-11-11",
         "endyear": "2025",
         "id": "COPERNICUS/S5P/NRTI/L3_AER_AI",
         "provider": "European Union/ESA/Copernicus",
@@ -794,7 +794,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_CO",
-        "end_date": "2025-11-10",
+        "end_date": "2025-11-11",
         "endyear": "2025",
         "id": "COPERNICUS/S5P/NRTI/L3_CO",
         "provider": "European Union/ESA/Copernicus",
@@ -820,7 +820,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_NO2",
-        "end_date": "2025-11-10",
+        "end_date": "2025-11-11",
         "endyear": "2025",
         "id": "COPERNICUS/S5P/NRTI/L3_NO2",
         "provider": "European Union/ESA/Copernicus",
@@ -1262,7 +1262,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ECMWF_CAMS_NRT",
-        "end_date": "2025-11-14",
+        "end_date": "2025-11-15",
         "endyear": "2025",
         "id": "ECMWF/CAMS/NRT",
         "provider": "European Centre for Medium-Range Weather Forecasts (ECMWF)",
@@ -1301,7 +1301,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_DAILY_AGGR",
-        "end_date": "2025-11-02",
+        "end_date": "2025-11-04",
         "endyear": "2025",
         "id": "ECMWF/ERA5_LAND/DAILY_AGGR",
         "provider": "Daily Aggregates: Google and Copernicus Climate Data Store",
@@ -1366,7 +1366,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ECMWF_NRT_FORECAST_IFS_OPER",
-        "end_date": "2025-11-10",
+        "end_date": "2025-11-11",
         "endyear": "2025",
         "id": "ECMWF/NRT_FORECAST/IFS/OPER",
         "provider": "ECMWF",
@@ -1379,7 +1379,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ECMWF_NRT_FORECAST_IFS_SCWV",
-        "end_date": "2025-11-10",
+        "end_date": "2025-11-11",
         "endyear": "2025",
         "id": "ECMWF/NRT_FORECAST/IFS/SCWV",
         "provider": "ECMWF",
@@ -1392,7 +1392,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ECMWF_NRT_FORECAST_IFS_WAVE",
-        "end_date": "2025-11-10",
+        "end_date": "2025-11-11",
         "endyear": "2025",
         "id": "ECMWF/NRT_FORECAST/IFS/WAVE",
         "provider": "ECMWF",
@@ -1912,7 +1912,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/FAO_WAPOR_3_L1_RET_E",
-        "end_date": "2025-11-08",
+        "end_date": "2025-11-09",
         "endyear": "2025",
         "id": "FAO/WAPOR/3/L1_RET_E",
         "provider": "FAO UN",
@@ -2081,7 +2081,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_CLOUD_SCORE_PLUS_V1_S2_HARMONIZED",
-        "end_date": "2025-11-10",
+        "end_date": "2025-11-11",
         "endyear": "2025",
         "id": "GOOGLE/CLOUD_SCORE_PLUS/V1/S2_HARMONIZED",
         "provider": "Google Earth Engine",
@@ -2094,7 +2094,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_DYNAMICWORLD_V1",
-        "end_date": "2025-11-10",
+        "end_date": "2025-11-11",
         "endyear": "2025",
         "id": "GOOGLE/DYNAMICWORLD/V1",
         "provider": "World Resources Institute",
@@ -3745,7 +3745,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C02_T1_RT",
-        "end_date": "2025-11-10",
+        "end_date": "2025-11-11",
         "endyear": "2025",
         "id": "LANDSAT/LC08/C02/T1_RT",
         "provider": "USGS",
@@ -3758,7 +3758,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C02_T1_RT_TOA",
-        "end_date": "2025-11-10",
+        "end_date": "2025-11-11",
         "endyear": "2025",
         "id": "LANDSAT/LC08/C02/T1_RT_TOA",
         "provider": "USGS/Google",
@@ -3823,7 +3823,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC09_C02_T1",
-        "end_date": "2025-11-10",
+        "end_date": "2025-11-11",
         "endyear": "2025",
         "id": "LANDSAT/LC09/C02/T1",
         "provider": "USGS",
@@ -3849,7 +3849,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC09_C02_T1_TOA",
-        "end_date": "2025-11-10",
+        "end_date": "2025-11-11",
         "endyear": "2025",
         "id": "LANDSAT/LC09/C02/T1_TOA",
         "provider": "USGS/Google",
@@ -4811,7 +4811,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD09GA",
-        "end_date": "2025-11-07",
+        "end_date": "2025-11-09",
         "endyear": "2025",
         "id": "MODIS/061/MOD09GA",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -4824,7 +4824,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD09GQ",
-        "end_date": "2025-11-07",
+        "end_date": "2025-11-09",
         "endyear": "2025",
         "id": "MODIS/061/MOD09GQ",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -4850,7 +4850,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD10A1",
-        "end_date": "2025-11-07",
+        "end_date": "2025-11-09",
         "endyear": "2025",
         "id": "MODIS/061/MOD10A1",
         "provider": "NASA NSIDC DAAC at CIRES",
@@ -5071,7 +5071,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD21A1D",
-        "end_date": "2025-11-07",
+        "end_date": "2025-11-09",
         "endyear": "2025",
         "id": "MODIS/061/MOD21A1D",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -5084,7 +5084,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD21A1N",
-        "end_date": "2025-11-09",
+        "end_date": "2025-11-10",
         "endyear": "2025",
         "id": "MODIS/061/MOD21A1N",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -5097,7 +5097,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD21C1",
-        "end_date": "2025-11-09",
+        "end_date": "2025-11-10",
         "endyear": "2025",
         "id": "MODIS/061/MOD21C1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -5760,7 +5760,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_EMIT_L2A_RFL",
-        "end_date": "2025-10-20",
+        "end_date": "2025-10-21",
         "endyear": "2025",
         "id": "NASA/EMIT/L2A/RFL",
         "provider": "NASA Jet Propulsion Laboratory",
@@ -6826,7 +6826,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GFS0P25",
-        "end_date": "2025-11-10",
+        "end_date": "2025-11-11",
         "endyear": "2025",
         "id": "NOAA/GFS0P25",
         "provider": "NOAA/NCEP/EMC",
@@ -6995,7 +6995,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_18_MCMIPC",
-        "end_date": "2025-11-10",
+        "end_date": "2025-11-11",
         "endyear": "2025",
         "id": "NOAA/GOES/18/MCMIPC",
         "provider": "NOAA",
@@ -7008,7 +7008,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_18_MCMIPF",
-        "end_date": "2025-11-10",
+        "end_date": "2025-11-11",
         "endyear": "2025",
         "id": "NOAA/GOES/18/MCMIPF",
         "provider": "NOAA",
@@ -7021,7 +7021,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_18_MCMIPM",
-        "end_date": "2025-11-10",
+        "end_date": "2025-11-11",
         "endyear": "2025",
         "id": "NOAA/GOES/18/MCMIPM",
         "provider": "NOAA",
@@ -7034,7 +7034,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_19_FDCC",
-        "end_date": "2025-11-10",
+        "end_date": "2025-11-11",
         "endyear": "2025",
         "id": "NOAA/GOES/19/FDCC",
         "provider": "NOAA",
@@ -7047,7 +7047,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_19_FDCF",
-        "end_date": "2025-11-10",
+        "end_date": "2025-11-11",
         "endyear": "2025",
         "id": "NOAA/GOES/19/FDCF",
         "provider": "NOAA",
@@ -7060,7 +7060,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_19_MCMIPC",
-        "end_date": "2025-11-10",
+        "end_date": "2025-11-11",
         "endyear": "2025",
         "id": "NOAA/GOES/19/MCMIPC",
         "provider": "NOAA",
@@ -7073,7 +7073,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_19_MCMIPF",
-        "end_date": "2025-11-10",
+        "end_date": "2025-11-11",
         "endyear": "2025",
         "id": "NOAA/GOES/19/MCMIPF",
         "provider": "NOAA",
@@ -7086,7 +7086,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_19_MCMIPM",
-        "end_date": "2025-11-10",
+        "end_date": "2025-11-11",
         "endyear": "2025",
         "id": "NOAA/GOES/19/MCMIPM",
         "provider": "NOAA",
@@ -7332,19 +7332,6 @@
         "type": "image_collection"
     },
     {
-        "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/OREGONSTATE_PRISM_AN81m",
-        "end_date": "2020-12-01",
-        "endyear": "2020",
-        "id": "OREGONSTATE/PRISM/AN81m",
-        "provider": "PRISM / OREGONSTATE",
-        "start_date": "1895-01-01",
-        "startyear": "1895",
-        "tags": "climate, geophysical, monthly, oregonstate, precipitation, pressure, prism, temperature, vapor, weather",
-        "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/OREGONSTATE/OREGONSTATE_PRISM_AN81m_sample.png",
-        "title": "PRISM Monthly Spatial Climate Dataset AN81m",
-        "type": "image_collection"
-    },
-    {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/OREGONSTATE_PRISM_ANd",
         "end_date": "2025-11-07",
         "endyear": "2025",
@@ -7355,6 +7342,19 @@
         "tags": "climate, daily, geophysical, oregonstate, precipitation, pressure, prism, temperature, vapor, weather",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/OREGONSTATE/OREGONSTATE_PRISM_ANd_sample.png",
         "title": "PRISM Daily Spatial Climate Dataset ANd",
+        "type": "image_collection"
+    },
+    {
+        "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/OREGONSTATE_PRISM_ANm",
+        "end_date": "2025-10-01",
+        "endyear": "2025",
+        "id": "OREGONSTATE/PRISM/ANm",
+        "provider": "PRISM / OREGONSTATE",
+        "start_date": "1895-01-01",
+        "startyear": "1895",
+        "tags": "climate, geophysical, monthly, oregonstate, precipitation, pressure, prism, temperature, vapor, weather",
+        "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/OREGONSTATE/OREGONSTATE_PRISM_ANm_sample.png",
+        "title": "PRISM Monthly Spatial Climate Dataset ANm",
         "type": "image_collection"
     },
     {
@@ -9959,7 +9959,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/projects_gcp-public-data-weathernext_assets_59572747_4_0",
-        "end_date": "2025-11-10",
+        "end_date": "2025-11-11",
         "endyear": "2025",
         "id": "projects/gcp-public-data-weathernext/assets/59572747_4_0",
         "provider": "Google",
@@ -9972,7 +9972,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/projects_gcp-public-data-weathernext_assets_126478713_1_0",
-        "end_date": "2025-11-10",
+        "end_date": "2025-11-11",
         "endyear": "2025",
         "id": "projects/gcp-public-data-weathernext/assets/126478713_1_0",
         "provider": "Google",
@@ -10349,12 +10349,12 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/projects_nature-trace_assets_species_distribution_models_australia_mammals_v0",
-        "end_date": "2025-11-11",
+        "end_date": "2025-01-01",
         "endyear": "2025",
         "id": "projects/nature-trace/assets/species_distribution_models/australia_mammals/v0",
         "provider": "Google",
-        "start_date": "2025-11-05",
-        "startyear": "2025",
+        "start_date": "2017-01-01",
+        "startyear": "2017",
         "tags": "alphaearth-derived, biodiversity, conservation, ecosystems, pre-review, species",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/nature-trace/projects_nature-trace_assets_species_distribution_models_australia_mammals_v0_sample.png",
         "title": "Species Distribution, Australia Mammals",
