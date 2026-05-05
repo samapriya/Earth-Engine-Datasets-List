@@ -20,7 +20,7 @@
         "provider": "Allen Coral Atlas Partnership (ACA)",
         "start_date": "2018-01-01",
         "startyear": "2018",
-        "tags": "coral, ocean, oceans, planet-derived, reef, seagrass, sentinel2-derived",
+        "tags": "coral, oceans, planet-derived, reef, seagrass, sentinel2-derived",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/ACA/ACA_reef_habitat_v2_0_sample.png",
         "title": "Allen Coral Atlas (ACA) - Geomorphic Zonation and Benthic Habitat - v2.0",
         "type": "image"
@@ -462,7 +462,7 @@
         "provider": "Copernicus",
         "start_date": "2022-01-01",
         "startyear": "2022",
-        "tags": "copernicus, daily, forecast, marine, ocean, oceans",
+        "tags": "copernicus, daily, forecast, oceans",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/COPERNICUS/COPERNICUS_MARINE_GLOBAL_ANALYSISFORECAST_BGC_001_028_BIO_sample.png",
         "title": "Copernicus Global Ocean Bio-Geo-Chemical Forecast - BIO",
         "type": "image_collection"
@@ -475,7 +475,7 @@
         "provider": "Copernicus",
         "start_date": "2022-01-01",
         "startyear": "2022",
-        "tags": "copernicus, daily, forecast, marine, ocean, oceans",
+        "tags": "copernicus, daily, forecast, oceans",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/COPERNICUS/COPERNICUS_MARINE_GLOBAL_ANALYSISFORECAST_BGC_001_028_CAR_sample.png",
         "title": "Copernicus Global Ocean Bio-Geo-Chemical Forecast - CAR",
         "type": "image_collection"
@@ -488,7 +488,7 @@
         "provider": "Copernicus",
         "start_date": "2022-01-01",
         "startyear": "2022",
-        "tags": "copernicus, daily, forecast, marine, ocean, oceans",
+        "tags": "copernicus, daily, forecast, oceans",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/COPERNICUS/COPERNICUS_MARINE_GLOBAL_ANALYSISFORECAST_BGC_001_028_CO2_sample.png",
         "title": "Copernicus Global Ocean Bio-Geo-Chemical Forecast - CO2",
         "type": "image_collection"
@@ -501,7 +501,7 @@
         "provider": "Copernicus",
         "start_date": "2022-01-01",
         "startyear": "2022",
-        "tags": "copernicus, daily, forecast, marine, ocean, oceans",
+        "tags": "copernicus, daily, forecast, oceans",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/COPERNICUS/COPERNICUS_MARINE_GLOBAL_ANALYSISFORECAST_BGC_001_028_NUT_sample.png",
         "title": "Copernicus Global Ocean Bio-Geo-Chemical Forecast - NUT",
         "type": "image_collection"
@@ -514,7 +514,7 @@
         "provider": "Copernicus",
         "start_date": "2022-01-01",
         "startyear": "2022",
-        "tags": "copernicus, daily, forecast, marine, ocean, oceans",
+        "tags": "copernicus, daily, forecast, oceans",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/COPERNICUS/COPERNICUS_MARINE_GLOBAL_ANALYSISFORECAST_BGC_001_028_OPTICS_sample.png",
         "title": "Copernicus Global Ocean Bio-Geo-Chemical Forecast - OPTICS",
         "type": "image_collection"
@@ -527,7 +527,7 @@
         "provider": "Copernicus",
         "start_date": "2022-01-01",
         "startyear": "2022",
-        "tags": "copernicus, daily, forecast, marine, ocean, oceans",
+        "tags": "copernicus, daily, forecast, oceans",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/COPERNICUS/COPERNICUS_MARINE_GLOBAL_ANALYSISFORECAST_BGC_001_028_PFT_sample.png",
         "title": "Copernicus Global Ocean Bio-Geo-Chemical Forecast - PFT",
         "type": "image_collection"
@@ -540,33 +540,33 @@
         "provider": "Copernicus",
         "start_date": "2022-01-01",
         "startyear": "2022",
-        "tags": "copernicus, daily, forecast, marine, ocean, oceans",
+        "tags": "copernicus, daily, forecast, oceans",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/COPERNICUS/COPERNICUS_MARINE_GLOBAL_ANALYSISFORECAST_BGC_001_028_PLANKTON_sample.png",
         "title": "Copernicus Global Ocean Bio-Geo-Chemical Forecast - PLANKTON",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_MARINE_GLOBAL_ANALYSISFORECAST_PHY_DAILY",
-        "end_date": "2026-05-11",
+        "end_date": "2026-05-12",
         "endyear": "2026",
         "id": "COPERNICUS/MARINE/GLOBAL_ANALYSISFORECAST_PHY_DAILY",
         "provider": "Copernicus Marine Service",
         "start_date": "2022-06-01",
         "startyear": "2022",
-        "tags": "copernicus, daily, forecast, marine, oceans",
+        "tags": "copernicus, daily, forecast, oceans",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/COPERNICUS/COPERNICUS_MARINE_GLOBAL_ANALYSISFORECAST_PHY_DAILY_sample.png",
         "title": "Global Ocean Physics Analysis and Forecast Daily",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_MARINE_GLOBAL_SEA_SURFACE_NRT_DAILY",
-        "end_date": "2026-04-26",
+        "end_date": "2026-04-27",
         "endyear": "2026",
         "id": "COPERNICUS/MARINE/GLOBAL_SEA_SURFACE/NRT_DAILY",
         "provider": "Copernicus",
         "start_date": "2023-01-01",
         "startyear": "2023",
-        "tags": "copernicus, marine, oceans",
+        "tags": "copernicus, oceans",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/COPERNICUS/COPERNICUS_MARINE_GLOBAL_SEA_SURFACE_NRT_DAILY_sample.png",
         "title": "Multi Observation Global Ocean Sea Surface Salinity and Sea Surface Density : Daily, Near Real Time",
         "type": "image_collection"
@@ -579,59 +579,59 @@
         "provider": "Copernicus",
         "start_date": "1993-01-01",
         "startyear": "1993",
-        "tags": "copernicus, marine, oceans",
+        "tags": "copernicus, oceans",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/COPERNICUS/COPERNICUS_MARINE_GLOBAL_SEA_SURFACE_REP_DAILY_sample.png",
         "title": "Multi Observation Global Ocean Sea Surface Salinity and Sea Surface Density : Daily, Multi-Year Reprocessed",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_MARINE_INSITU_MULTI_4KM_ARGO",
-        "end_date": "2026-05-04",
+        "end_date": "2026-05-05",
         "endyear": "2026",
         "id": "COPERNICUS/MARINE/INSITU_MULTI_4KM/ARGO",
         "provider": "Copernicus",
         "start_date": "2025-03-28",
         "startyear": "2025",
-        "tags": "copernicus, currents, insitu, marine, ocean, oceans",
+        "tags": "copernicus, currents, insitu, oceans",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/COPERNICUS/COPERNICUS_MARINE_INSITU_MULTI_4KM_ARGO_sample.png",
         "title": "Copernicus Global In-situ Observations of Ocean Currents - Argo",
         "type": "bigquery_table"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_MARINE_INSITU_MULTI_4KM_DRIFTER",
-        "end_date": "2026-05-04",
+        "end_date": "2026-05-05",
         "endyear": "2026",
         "id": "COPERNICUS/MARINE/INSITU_MULTI_4KM/DRIFTER",
         "provider": "Copernicus",
         "start_date": "2025-03-28",
         "startyear": "2025",
-        "tags": "copernicus, currents, insitu, marine, ocean, oceans",
+        "tags": "copernicus, currents, insitu, oceans",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/COPERNICUS/COPERNICUS_MARINE_INSITU_MULTI_4KM_DRIFTER_sample.png",
         "title": "Copernicus Global In-situ Observations of Ocean Currents - Drifter",
         "type": "bigquery_table"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_MARINE_INSITU_MULTI_4KM_RADAR_RADIAL",
-        "end_date": "2026-05-04",
+        "end_date": "2026-05-05",
         "endyear": "2026",
         "id": "COPERNICUS/MARINE/INSITU_MULTI_4KM/RADAR_RADIAL",
         "provider": "Copernicus",
         "start_date": "2025-03-28",
         "startyear": "2025",
-        "tags": "copernicus, currents, insitu, marine, ocean, oceans, radar",
+        "tags": "copernicus, currents, insitu, oceans, radar",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/COPERNICUS/COPERNICUS_MARINE_INSITU_MULTI_4KM_RADAR_RADIAL_sample.png",
         "title": "Copernicus Global In-situ Observations of Ocean Currents - Radar Radial",
         "type": "bigquery_table"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_MARINE_INSITU_MULTI_4KM_RADAR_TOTAL",
-        "end_date": "2026-05-04",
+        "end_date": "2026-05-05",
         "endyear": "2026",
         "id": "COPERNICUS/MARINE/INSITU_MULTI_4KM/RADAR_TOTAL",
         "provider": "Copernicus",
         "start_date": "2025-03-28",
         "startyear": "2025",
-        "tags": "copernicus, currents, insitu, marine, ocean, oceans, radar",
+        "tags": "copernicus, currents, insitu, oceans, radar",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/COPERNICUS/COPERNICUS_MARINE_INSITU_MULTI_4KM_RADAR_TOTAL_sample.png",
         "title": "Copernicus Global In-situ Observations of Ocean Currents - Radar Total",
         "type": "bigquery_table"
@@ -644,20 +644,20 @@
         "provider": "Copernicus",
         "start_date": "2025-03-01",
         "startyear": "2025",
-        "tags": "copernicus, marine, oceans",
+        "tags": "copernicus, oceans",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/COPERNICUS/COPERNICUS_MARINE_OC_GLO_BGC_OPTICS_MULTI_4KM_sample.png",
         "title": "Global Ocean Colour: Bio-Geo-Chemical, L4, from Satellite Observations, Optics, Multi-Sensor 4KM",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_MARINE_OC_GLO_BGC_PLANKTON_MULTI_4KM",
-        "end_date": "2026-04-30",
+        "end_date": "2026-05-01",
         "endyear": "2026",
         "id": "COPERNICUS/MARINE/OC_GLO_BGC/PLANKTON_MULTI_4KM",
         "provider": "Copernicus",
         "start_date": "2025-02-10",
         "startyear": "2025",
-        "tags": "copernicus, marine, oceans",
+        "tags": "copernicus, oceans",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/COPERNICUS/COPERNICUS_MARINE_OC_GLO_BGC_PLANKTON_MULTI_4KM_sample.png",
         "title": "Global Ocean Colour: Bio-Geo-Chemical, L4, from Satellite Observations, Plankton, Multi-Sensor, 4KM",
         "type": "image_collection"
@@ -670,7 +670,7 @@
         "provider": "Copernicus",
         "start_date": "2025-03-01",
         "startyear": "2025",
-        "tags": "copernicus, marine, oceans",
+        "tags": "copernicus, oceans",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/COPERNICUS/COPERNICUS_MARINE_OC_GLO_BGC_PLANKTON_OLCI_300M_sample.png",
         "title": "Global Ocean Colour: Bio-Geo-Chemical, L4, from Satellite Observations, Plankton, OLCI, 300M",
         "type": "image_collection"
@@ -683,7 +683,7 @@
         "provider": "Copernicus",
         "start_date": "2025-03-01",
         "startyear": "2025",
-        "tags": "copernicus, marine, oceans",
+        "tags": "copernicus, oceans",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/COPERNICUS/COPERNICUS_MARINE_OC_GLO_BGC_PRIMARY_PRODUCTION_MULTI_4KM_sample.png",
         "title": "Global Ocean Colour: Bio-Geo-Chemical, L4, from Satellite Observations, Primary Production, Multi-Sensor 4KM",
         "type": "image_collection"
@@ -696,7 +696,7 @@
         "provider": "Copernicus",
         "start_date": "2025-03-01",
         "startyear": "2025",
-        "tags": "copernicus, marine, oceans",
+        "tags": "copernicus, oceans",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/COPERNICUS/COPERNICUS_MARINE_OC_GLO_BGC_REFLECTANCE_MULTI_4KM_sample.png",
         "title": "Global Ocean Colour: Bio-Geo-Chemical, L4, from Satellite Observations, Reflectance, Multi-Sensor 4KM",
         "type": "image_collection"
@@ -709,20 +709,20 @@
         "provider": "Copernicus",
         "start_date": "2025-03-01",
         "startyear": "2025",
-        "tags": "copernicus, marine, oceans",
+        "tags": "copernicus, oceans",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/COPERNICUS/COPERNICUS_MARINE_OC_GLO_BGC_REFLECTANCE_OLCI_300M_sample.png",
         "title": "Global Ocean Colour: Bio-Geo-Chemical, L4, from Satellite Observations, Reflectance, OLCI 300M",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_MARINE_OC_GLO_BGC_TRANSPARENCY_MULTI_4KM",
-        "end_date": "2026-04-30",
+        "end_date": "2026-05-01",
         "endyear": "2026",
         "id": "COPERNICUS/MARINE/OC_GLO_BGC/TRANSPARENCY_MULTI_4KM",
         "provider": "Copernicus",
         "start_date": "2025-02-10",
         "startyear": "2025",
-        "tags": "copernicus, marine, oceans",
+        "tags": "copernicus, oceans",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/COPERNICUS/COPERNICUS_MARINE_OC_GLO_BGC_TRANSPARENCY_MULTI_4KM_sample.png",
         "title": "Global Ocean Colour: Bio-Geo-Chemical, L4, from Satellite Observations, Transparency, Multi-Sensor, 4KM",
         "type": "image_collection"
@@ -735,7 +735,7 @@
         "provider": "Copernicus",
         "start_date": "2025-03-01",
         "startyear": "2025",
-        "tags": "copernicus, marine, oceans",
+        "tags": "copernicus, oceans",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/COPERNICUS/COPERNICUS_MARINE_OC_GLO_BGC_TRANSPARENCY_OLCI_4KM_sample.png",
         "title": "Global Ocean Colour: Bio-Geo-Chemical, L4, from Satellite Observations, Transparency, OLCI, 4KM",
         "type": "image_collection"
@@ -748,20 +748,20 @@
         "provider": "Copernicus",
         "start_date": "1997-01-01",
         "startyear": "1997",
-        "tags": "chlorophyll-a, copernicus, daily, marine, oceans",
+        "tags": "chlorophyll-a, copernicus, daily, oceans",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/COPERNICUS/COPERNICUS_MARINE_SATELLITE_OCEAN_COLOR_V6_sample.png",
         "title": "Copernicus Satellite Ocean Color Daily Data",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_MARINE_WAV_ANFC_0_083DEG_PT3H",
-        "end_date": "2026-05-11",
+        "end_date": "2026-05-12",
         "endyear": "2026",
         "id": "COPERNICUS/MARINE/WAV/ANFC_0_083DEG_PT3H",
         "provider": "Copernicus Marine Service Global Ocean Waves and Forecasts",
         "start_date": "2022-06-01",
         "startyear": "2022",
-        "tags": "copernicus, forecast, hourly, marine, oceans",
+        "tags": "copernicus, forecast, hourly, oceans",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/COPERNICUS/COPERNICUS_MARINE_WAV_ANFC_0_083DEG_PT3H_sample.png",
         "title": "Global Ocean Waves Analysis and Forecast ",
         "type": "image_collection"
@@ -774,14 +774,14 @@
         "provider": "Copernicus Marine Service Global Ocean Waves and Forecasts",
         "start_date": "2022-06-01",
         "startyear": "2022",
-        "tags": "bathymetry, copernicus, marine, oceans",
+        "tags": "bathymetry, copernicus, oceans",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/COPERNICUS/COPERNICUS_MARINE_WAV_ANFC_0_083DEG_STATIC_sample.png",
         "title": "Global Ocean Waves Static Bathymetry",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S1_GRD",
-        "end_date": "2026-05-03",
+        "end_date": "2026-05-04",
         "endyear": "2026",
         "id": "COPERNICUS/S1_GRD",
         "provider": "European Union/ESA/Copernicus",
@@ -794,7 +794,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_CLOUD_PROBABILITY",
-        "end_date": "2026-05-03",
+        "end_date": "2026-05-04",
         "endyear": "2026",
         "id": "COPERNICUS/S2_CLOUD_PROBABILITY",
         "provider": "European Union/ESA/Copernicus/SentinelHub",
@@ -807,7 +807,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_HARMONIZED",
-        "end_date": "2026-05-03",
+        "end_date": "2026-05-04",
         "endyear": "2026",
         "id": "COPERNICUS/S2_HARMONIZED",
         "provider": "European Union/ESA/Copernicus",
@@ -820,7 +820,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_SR_HARMONIZED",
-        "end_date": "2026-05-03",
+        "end_date": "2026-05-04",
         "endyear": "2026",
         "id": "COPERNICUS/S2_SR_HARMONIZED",
         "provider": "European Union/ESA/Copernicus",
@@ -846,7 +846,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_AER_AI",
-        "end_date": "2026-05-03",
+        "end_date": "2026-05-04",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/NRTI/L3_AER_AI",
         "provider": "European Union/ESA/Copernicus",
@@ -859,7 +859,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_AER_LH",
-        "end_date": "2026-05-03",
+        "end_date": "2026-05-04",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/NRTI/L3_AER_LH",
         "provider": "European Union/ESA/Copernicus",
@@ -872,7 +872,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_CLOUD",
-        "end_date": "2026-05-03",
+        "end_date": "2026-05-04",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/NRTI/L3_CLOUD",
         "provider": "European Union/ESA/Copernicus",
@@ -885,7 +885,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_CO",
-        "end_date": "2026-05-03",
+        "end_date": "2026-05-04",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/NRTI/L3_CO",
         "provider": "European Union/ESA/Copernicus",
@@ -898,7 +898,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_HCHO",
-        "end_date": "2026-05-03",
+        "end_date": "2026-05-04",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/NRTI/L3_HCHO",
         "provider": "European Union/ESA/Copernicus",
@@ -911,7 +911,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_NO2",
-        "end_date": "2026-05-03",
+        "end_date": "2026-05-04",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/NRTI/L3_NO2",
         "provider": "European Union/ESA/Copernicus",
@@ -924,7 +924,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_O3",
-        "end_date": "2026-05-03",
+        "end_date": "2026-05-04",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/NRTI/L3_O3",
         "provider": "European Union/ESA/Copernicus",
@@ -937,7 +937,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_SO2",
-        "end_date": "2026-05-03",
+        "end_date": "2026-05-04",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/NRTI/L3_SO2",
         "provider": "European Union/ESA/Copernicus",
@@ -950,7 +950,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_AER_AI",
-        "end_date": "2026-04-29",
+        "end_date": "2026-04-30",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/OFFL/L3_AER_AI",
         "provider": "European Union/ESA/Copernicus",
@@ -963,7 +963,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_AER_LH",
-        "end_date": "2026-04-28",
+        "end_date": "2026-04-29",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/OFFL/L3_AER_LH",
         "provider": "European Union/ESA/Copernicus",
@@ -976,7 +976,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_CH4",
-        "end_date": "2026-04-28",
+        "end_date": "2026-04-29",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/OFFL/L3_CH4",
         "provider": "European Union/ESA/Copernicus",
@@ -989,7 +989,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_CLOUD",
-        "end_date": "2026-04-28",
+        "end_date": "2026-04-30",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/OFFL/L3_CLOUD",
         "provider": "European Union/ESA/Copernicus",
@@ -1002,7 +1002,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_CO",
-        "end_date": "2026-04-29",
+        "end_date": "2026-05-01",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/OFFL/L3_CO",
         "provider": "European Union/ESA/Copernicus",
@@ -1015,7 +1015,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_HCHO",
-        "end_date": "2026-04-28",
+        "end_date": "2026-04-29",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/OFFL/L3_HCHO",
         "provider": "European Union/ESA/Copernicus",
@@ -1028,7 +1028,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_NO2",
-        "end_date": "2026-04-24",
+        "end_date": "2026-04-25",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/OFFL/L3_NO2",
         "provider": "European Union/ESA/Copernicus",
@@ -1041,7 +1041,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_O3",
-        "end_date": "2026-04-28",
+        "end_date": "2026-04-30",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/OFFL/L3_O3",
         "provider": "European Union/ESA/Copernicus",
@@ -1067,7 +1067,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_SO2",
-        "end_date": "2026-04-28",
+        "end_date": "2026-04-29",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/OFFL/L3_SO2",
         "provider": "European Union/ESA/Copernicus",
@@ -1353,7 +1353,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ECMWF_CAMS_NRT",
-        "end_date": "2026-05-07",
+        "end_date": "2026-05-08",
         "endyear": "2026",
         "id": "ECMWF/CAMS/NRT",
         "provider": "European Centre for Medium-Range Weather Forecasts (ECMWF)",
@@ -1379,7 +1379,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_HOURLY",
-        "end_date": "2026-04-27",
+        "end_date": "2026-04-28",
         "endyear": "2026",
         "id": "ECMWF/ERA5/HOURLY",
         "provider": "Copernicus Climate Change Service (C3S)",
@@ -1392,7 +1392,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_DAILY_AGGR",
-        "end_date": "2026-04-25",
+        "end_date": "2026-04-26",
         "endyear": "2026",
         "id": "ECMWF/ERA5_LAND/DAILY_AGGR",
         "provider": "Daily Aggregates: Google and Copernicus Climate Data Store",
@@ -1405,7 +1405,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_HOURLY",
-        "end_date": "2026-04-27",
+        "end_date": "2026-04-28",
         "endyear": "2026",
         "id": "ECMWF/ERA5_LAND/HOURLY",
         "provider": "Copernicus Climate Data Store",
@@ -1457,7 +1457,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ECMWF_NRT_FORECAST_IFS_OPER",
-        "end_date": "2026-05-03",
+        "end_date": "2026-05-04",
         "endyear": "2026",
         "id": "ECMWF/NRT_FORECAST/IFS/OPER",
         "provider": "ECMWF",
@@ -1470,26 +1470,26 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ECMWF_NRT_FORECAST_IFS_SCWV",
-        "end_date": "2026-05-03",
+        "end_date": "2026-05-04",
         "endyear": "2026",
         "id": "ECMWF/NRT_FORECAST/IFS/SCWV",
         "provider": "ECMWF",
         "start_date": "2024-11-12",
         "startyear": "2024",
-        "tags": "climate, ecmwf, forecast, global, ocean",
+        "tags": "climate, ecmwf, forecast, global, oceans",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/ECMWF/ECMWF_NRT_FORECAST_IFS_SCWV_sample.png",
         "title": "ECMWF Near-Realtime IFS Wave (Short-Cutoff) Forecasts",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ECMWF_NRT_FORECAST_IFS_WAVE",
-        "end_date": "2026-05-03",
+        "end_date": "2026-05-04",
         "endyear": "2026",
         "id": "ECMWF/NRT_FORECAST/IFS/WAVE",
         "provider": "ECMWF",
         "start_date": "2024-11-12",
         "startyear": "2024",
-        "tags": "climate, ecmwf, forecast, global, ocean",
+        "tags": "climate, ecmwf, forecast, global, oceans",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/ECMWF/ECMWF_NRT_FORECAST_IFS_WAVE_sample.png",
         "title": "ECMWF Near-Realtime IFS Wave Forecasts",
         "type": "image_collection"
@@ -2055,7 +2055,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/FAO_WAPOR_3_L1_RET_E",
-        "end_date": "2026-04-30",
+        "end_date": "2026-05-01",
         "endyear": "2026",
         "id": "FAO/WAPOR/3/L1_RET_E",
         "provider": "FAO UN",
@@ -2081,7 +2081,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/FIRMS",
-        "end_date": "2026-05-02",
+        "end_date": "2026-05-03",
         "endyear": "2026",
         "id": "FIRMS",
         "provider": "NASA / LANCE / EOSDIS",
@@ -2139,7 +2139,7 @@
         "provider": "Global Fishing Watch",
         "start_date": "2012-01-01",
         "startyear": "2012",
-        "tags": "fishing, gfw, marine, monthly, ocean, oceans",
+        "tags": "fishing, gfw, monthly, oceans",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/GFW/GFW_GFF_V1_fishing_hours_sample.png",
         "title": "GFW (Global Fishing Watch) Daily Fishing Hours",
         "type": "image_collection"
@@ -2152,7 +2152,7 @@
         "provider": "Global Fishing Watch",
         "start_date": "2012-01-01",
         "startyear": "2012",
-        "tags": "fishing, gfw, marine, monthly, ocean, oceans",
+        "tags": "fishing, gfw, monthly, oceans",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/GFW/GFW_GFF_V1_vessel_hours_sample.png",
         "title": "GFW (Global Fishing Watch) Daily Vessel Hours",
         "type": "image_collection"
@@ -2250,7 +2250,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_CLOUD_SCORE_PLUS_V1_S2_HARMONIZED",
-        "end_date": "2026-05-03",
+        "end_date": "2026-05-04",
         "endyear": "2026",
         "id": "GOOGLE/CLOUD_SCORE_PLUS/V1/S2_HARMONIZED",
         "provider": "Google Earth Engine",
@@ -2263,7 +2263,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_DYNAMICWORLD_V1",
-        "end_date": "2026-05-03",
+        "end_date": "2026-05-04",
         "endyear": "2026",
         "id": "GOOGLE/DYNAMICWORLD/V1",
         "provider": "World Resources Institute",
@@ -2328,7 +2328,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/GRIDMET_DROUGHT",
-        "end_date": "2026-04-25",
+        "end_date": "2026-04-30",
         "endyear": "2026",
         "id": "GRIDMET/DROUGHT",
         "provider": "University of California Merced",
@@ -2386,7 +2386,7 @@
         "provider": "NOPP",
         "start_date": "1992-10-02",
         "startyear": "1992",
-        "tags": "elevation, hycom, nopp, ocean, oceans, ssh, water",
+        "tags": "elevation, hycom, nopp, oceans, ssh, water",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/HYCOM/HYCOM_sea_surface_elevation_sample.png",
         "title": "HYCOM: Hybrid Coordinate Ocean Model, Sea Surface Elevation",
         "type": "image_collection"
@@ -2399,7 +2399,7 @@
         "provider": "NOPP",
         "start_date": "1992-10-02",
         "startyear": "1992",
-        "tags": "hycom, nopp, ocean, oceans, salinity, sst, water, water-temp",
+        "tags": "hycom, nopp, oceans, salinity, sst, water, water-temp",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/HYCOM/HYCOM_sea_temp_salinity_sample.png",
         "title": "HYCOM: Hybrid Coordinate Ocean Model, Water Temperature and Salinity",
         "type": "image_collection"
@@ -2412,7 +2412,7 @@
         "provider": "NOPP",
         "start_date": "1992-10-02",
         "startyear": "1992",
-        "tags": "hycom, nopp, ocean, oceans, velocity, water",
+        "tags": "hycom, nopp, oceans, velocity, water",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/HYCOM/HYCOM_sea_water_velocity_sample.png",
         "title": "HYCOM: Hybrid Coordinate Ocean Model, Water Velocity",
         "type": "image_collection"
@@ -2432,7 +2432,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/IDAHO_EPSCOR_GRIDMET",
-        "end_date": "2026-04-30",
+        "end_date": "2026-05-01",
         "endyear": "2026",
         "id": "IDAHO_EPSCOR/GRIDMET",
         "provider": "University of California Merced",
@@ -2503,7 +2503,7 @@
         "provider": "IPCC",
         "start_date": "2020-01-01",
         "startyear": "2020",
-        "tags": "ipcc, ocean, oceans, sea-level-changes",
+        "tags": "ipcc, oceans, sea-level-changes",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/IPCC/IPCC_AR6_SLP_sample.png",
         "title": "IPCC AR6 Sea Level Projections Regional (Medium Confidence)",
         "type": "image_collection"
@@ -2939,7 +2939,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/JAXA_GCOM-C_L3_LAND_LAI_V3",
-        "end_date": "2026-04-30",
+        "end_date": "2026-05-01",
         "endyear": "2026",
         "id": "JAXA/GCOM-C/L3/LAND/LAI/V3",
         "provider": "Global Change Observation Mission (GCOM)",
@@ -2978,7 +2978,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/JAXA_GCOM-C_L3_LAND_LST_V3",
-        "end_date": "2026-04-30",
+        "end_date": "2026-05-01",
         "endyear": "2026",
         "id": "JAXA/GCOM-C/L3/LAND/LST/V3",
         "provider": "Global Change Observation Mission (GCOM)",
@@ -2997,7 +2997,7 @@
         "provider": "Global Change Observation Mission (GCOM)",
         "start_date": "2018-01-01",
         "startyear": "2018",
-        "tags": "chla, chlorophyll-a, g-portal, gcom, gcom-c, jaxa, ocean, ocean-color, oceans",
+        "tags": "chla, chlorophyll-a, g-portal, gcom, gcom-c, jaxa, ocean-color, oceans",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/JAXA/JAXA_GCOM-C_L3_OCEAN_CHLA_V1_sample.png",
         "title": "GCOM-C/SGLI L3 Chlorophyll-a Concentration (V1)",
         "type": "image_collection"
@@ -3010,20 +3010,20 @@
         "provider": "Global Change Observation Mission (GCOM)",
         "start_date": "2018-01-01",
         "startyear": "2018",
-        "tags": "chla, chlorophyll-a, g-portal, gcom, gcom-c, jaxa, ocean, ocean-color, oceans",
+        "tags": "chla, chlorophyll-a, g-portal, gcom, gcom-c, jaxa, ocean-color, oceans",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/JAXA/JAXA_GCOM-C_L3_OCEAN_CHLA_V2_sample.png",
         "title": "GCOM-C/SGLI L3 Chlorophyll-a Concentration (V2)",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/JAXA_GCOM-C_L3_OCEAN_CHLA_V3",
-        "end_date": "2026-04-30",
+        "end_date": "2026-05-01",
         "endyear": "2026",
         "id": "JAXA/GCOM-C/L3/OCEAN/CHLA/V3",
         "provider": "Global Change Observation Mission (GCOM)",
         "start_date": "2021-11-29",
         "startyear": "2021",
-        "tags": "chla, chlorophyll-a, g-portal, gcom, gcom-c, jaxa, ocean, ocean-color, oceans",
+        "tags": "chla, chlorophyll-a, g-portal, gcom, gcom-c, jaxa, ocean-color, oceans",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/JAXA/JAXA_GCOM-C_L3_OCEAN_CHLA_V3_sample.png",
         "title": "GCOM-C/SGLI L3 Chlorophyll-a Concentration (V3)",
         "type": "image_collection"
@@ -3036,7 +3036,7 @@
         "provider": "Global Change Observation Mission (GCOM)",
         "start_date": "2018-01-01",
         "startyear": "2018",
-        "tags": "climate, g-portal, gcom, gcom-c, jaxa, ocean, oceans, sea-surface-temperature, sst",
+        "tags": "climate, g-portal, gcom, gcom-c, jaxa, oceans, sea-surface-temperature, sst",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/JAXA/JAXA_GCOM-C_L3_OCEAN_SST_V1_sample.png",
         "title": "GCOM-C/SGLI L3 Sea Surface Temperature (V1)",
         "type": "image_collection"
@@ -3049,27 +3049,27 @@
         "provider": "Global Change Observation Mission (GCOM)",
         "start_date": "2018-01-01",
         "startyear": "2018",
-        "tags": "climate, g-portal, gcom, gcom-c, jaxa, ocean, oceans, sea-surface-temperature, sst",
+        "tags": "climate, g-portal, gcom, gcom-c, jaxa, oceans, sea-surface-temperature, sst",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/JAXA/JAXA_GCOM-C_L3_OCEAN_SST_V2_sample.png",
         "title": "GCOM-C/SGLI L3 Sea Surface Temperature (V2)",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/JAXA_GCOM-C_L3_OCEAN_SST_V3",
-        "end_date": "2026-04-30",
+        "end_date": "2026-05-01",
         "endyear": "2026",
         "id": "JAXA/GCOM-C/L3/OCEAN/SST/V3",
         "provider": "Global Change Observation Mission (GCOM)",
         "start_date": "2018-01-22",
         "startyear": "2018",
-        "tags": "climate, g-portal, gcom, gcom-c, jaxa, ocean, oceans, sea-surface-temperature, sst",
+        "tags": "climate, g-portal, gcom, gcom-c, jaxa, oceans, sea-surface-temperature, sst",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/JAXA/JAXA_GCOM-C_L3_OCEAN_SST_V3_sample.png",
         "title": "GCOM-C/SGLI L3 Sea Surface Temperature (V3)",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/JAXA_GPM_L3_GSMaP_v6_operational",
-        "end_date": "2026-05-02",
+        "end_date": "2026-05-03",
         "endyear": "2026",
         "id": "JAXA/GPM_L3/GSMaP/v6/operational",
         "provider": "JAXA Earth Observation Research Center",
@@ -3940,7 +3940,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C02_T1_RT",
-        "end_date": "2026-05-03",
+        "end_date": "2026-05-04",
         "endyear": "2026",
         "id": "LANDSAT/LC08/C02/T1_RT",
         "provider": "USGS",
@@ -3953,7 +3953,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C02_T1_RT_TOA",
-        "end_date": "2026-05-03",
+        "end_date": "2026-05-04",
         "endyear": "2026",
         "id": "LANDSAT/LC08/C02/T1_RT_TOA",
         "provider": "USGS/Google",
@@ -4018,7 +4018,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC09_C02_T1",
-        "end_date": "2026-05-03",
+        "end_date": "2026-05-04",
         "endyear": "2026",
         "id": "LANDSAT/LC09/C02/T1",
         "provider": "USGS",
@@ -4031,7 +4031,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC09_C02_T1_L2",
-        "end_date": "2026-05-01",
+        "end_date": "2026-05-02",
         "endyear": "2026",
         "id": "LANDSAT/LC09/C02/T1_L2",
         "provider": "USGS",
@@ -4044,7 +4044,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC09_C02_T1_TOA",
-        "end_date": "2026-05-03",
+        "end_date": "2026-05-04",
         "endyear": "2026",
         "id": "LANDSAT/LC09/C02/T1_TOA",
         "provider": "USGS/Google",
@@ -4057,7 +4057,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC09_C02_T2",
-        "end_date": "2026-05-03",
+        "end_date": "2026-05-04",
         "endyear": "2026",
         "id": "LANDSAT/LC09/C02/T2",
         "provider": "USGS",
@@ -4070,7 +4070,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC09_C02_T2_L2",
-        "end_date": "2026-05-01",
+        "end_date": "2026-05-02",
         "endyear": "2026",
         "id": "LANDSAT/LC09/C02/T2_L2",
         "provider": "USGS",
@@ -4083,7 +4083,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC09_C02_T2_TOA",
-        "end_date": "2026-05-03",
+        "end_date": "2026-05-04",
         "endyear": "2026",
         "id": "LANDSAT/LC09/C02/T2_TOA",
         "provider": "USGS/Google",
@@ -4791,7 +4791,7 @@
         "provider": "NASA LP DAAC at the USGS EROS Center",
         "start_date": "2000-02-24",
         "startyear": "2000",
-        "tags": "daily, global, modis, modocga, nasa, ocean, reflectance, satellite-imagery, sr, terra, usgs",
+        "tags": "daily, global, modis, modocga, nasa, oceans, reflectance, satellite-imagery, sr, terra, usgs",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/MODIS/MODIS_006_MODOCGA_sample.png",
         "title": "MODOCGA.006 Terra Ocean Reflectance Daily Global 1km",
         "type": "image_collection"
@@ -4804,7 +4804,7 @@
         "provider": "NASA LP DAAC at the USGS EROS Center",
         "start_date": "2002-07-04",
         "startyear": "2002",
-        "tags": "aqua, daily, global, modis, mydocga, nasa, ocean, reflectance, satellite-imagery, sr, usgs",
+        "tags": "aqua, daily, global, modis, mydocga, nasa, oceans, reflectance, satellite-imagery, sr, usgs",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/MODIS/MODIS_006_MYDOCGA_sample.png",
         "title": "MYDOCGA.006 Aqua Ocean Reflectance Daily Global 1km",
         "type": "image_collection"
@@ -4863,7 +4863,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MCD19A1_GRANULES",
-        "end_date": "2026-04-30",
+        "end_date": "2026-05-01",
         "endyear": "2026",
         "id": "MODIS/061/MCD19A1_GRANULES",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -4876,7 +4876,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MCD19A2_GRANULES",
-        "end_date": "2026-04-30",
+        "end_date": "2026-05-01",
         "endyear": "2026",
         "id": "MODIS/061/MCD19A2_GRANULES",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -4902,7 +4902,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MCD43A2",
-        "end_date": "2026-04-24",
+        "end_date": "2026-04-25",
         "endyear": "2026",
         "id": "MODIS/061/MCD43A2",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -4915,7 +4915,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MCD43A3",
-        "end_date": "2026-04-23",
+        "end_date": "2026-04-24",
         "endyear": "2026",
         "id": "MODIS/061/MCD43A3",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -4941,7 +4941,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MCD43C3",
-        "end_date": "2026-04-24",
+        "end_date": "2026-04-25",
         "endyear": "2026",
         "id": "MODIS/061/MCD43C3",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -4993,7 +4993,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD09CMG",
-        "end_date": "2026-04-30",
+        "end_date": "2026-05-01",
         "endyear": "2026",
         "id": "MODIS/061/MOD09CMG",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -5019,7 +5019,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD09GQ",
-        "end_date": "2026-04-30",
+        "end_date": "2026-05-01",
         "endyear": "2026",
         "id": "MODIS/061/MOD09GQ",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -5045,7 +5045,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD10A1",
-        "end_date": "2026-04-30",
+        "end_date": "2026-05-01",
         "endyear": "2026",
         "id": "MODIS/061/MOD10A1",
         "provider": "NASA NSIDC DAAC at CIRES",
@@ -5266,7 +5266,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD21A1D",
-        "end_date": "2026-04-30",
+        "end_date": "2026-05-01",
         "endyear": "2026",
         "id": "MODIS/061/MOD21A1D",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -5292,7 +5292,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD21C1",
-        "end_date": "2026-05-01",
+        "end_date": "2026-05-02",
         "endyear": "2026",
         "id": "MODIS/061/MOD21C1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -5370,7 +5370,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MYD09CMG",
-        "end_date": "2026-04-30",
+        "end_date": "2026-05-01",
         "endyear": "2026",
         "id": "MODIS/061/MYD09CMG",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -5396,7 +5396,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MYD09GQ",
-        "end_date": "2026-05-01",
+        "end_date": "2026-05-02",
         "endyear": "2026",
         "id": "MODIS/061/MYD09GQ",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -5422,7 +5422,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MYD10A1",
-        "end_date": "2026-04-30",
+        "end_date": "2026-05-02",
         "endyear": "2026",
         "id": "MODIS/061/MYD10A1",
         "provider": "NASA NSIDC DAAC at CIRES",
@@ -5435,7 +5435,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MYD11A1",
-        "end_date": "2026-04-30",
+        "end_date": "2026-05-01",
         "endyear": "2026",
         "id": "MODIS/061/MYD11A1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -5604,7 +5604,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MYD21A1D",
-        "end_date": "2026-04-30",
+        "end_date": "2026-05-01",
         "endyear": "2026",
         "id": "MODIS/061/MYD21A1D",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -5955,7 +5955,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_EMIT_L1B_RAD",
-        "end_date": "2026-03-11",
+        "end_date": "2026-03-14",
         "endyear": "2026",
         "id": "NASA/EMIT/L1B/RAD",
         "provider": "NASA Jet Propulsion Laboratory",
@@ -5968,7 +5968,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_EMIT_L2A_RFL",
-        "end_date": "2026-03-17",
+        "end_date": "2026-03-18",
         "endyear": "2026",
         "id": "NASA/EMIT/L2A/RFL",
         "provider": "NASA Jet Propulsion Laboratory",
@@ -6163,7 +6163,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_GPM_L3_IMERG_V07",
-        "end_date": "2026-05-02",
+        "end_date": "2026-05-03",
         "endyear": "2026",
         "id": "NASA/GPM_L3/IMERG_V07",
         "provider": "NASA GES DISC at NASA Goddard Space Flight Center",
@@ -6182,7 +6182,7 @@
         "provider": "NASA Jet Propulsion Laboratory",
         "start_date": "2002-12-31",
         "startyear": "2002",
-        "tags": "crs, gfz, grace, gravity, jpl, mass, nasa, ocean, oceans, tellus, water",
+        "tags": "crs, gfz, grace, gravity, jpl, mass, nasa, oceans, tellus, water",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NASA/NASA_GRACE_MASS_GRIDS_OCEAN_EOFR_sample.png",
         "title": "GRACE Monthly Mass Grids - Ocean EOFR",
         "type": "image_collection"
@@ -6234,7 +6234,7 @@
         "provider": "NASA Jet Propulsion Laboratory",
         "start_date": "2002-04-04",
         "startyear": "2002",
-        "tags": "crs, gfz, grace, gravity, jpl, mass, nasa, ocean, oceans, tellus, water",
+        "tags": "crs, gfz, grace, gravity, jpl, mass, nasa, oceans, tellus, water",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NASA/NASA_GRACE_MASS_GRIDS_V04_OCEAN_sample.png",
         "title": "GRACE Monthly Mass Grids Release 06 Version 04 - Ocean",
         "type": "image_collection"
@@ -6319,7 +6319,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_HLS_HLSL30_v002",
-        "end_date": "2026-05-01",
+        "end_date": "2026-05-02",
         "endyear": "2026",
         "id": "NASA/HLS/HLSL30/v002",
         "provider": "NASA LP DAAC",
@@ -6332,7 +6332,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_HLS_HLSS30_v002",
-        "end_date": "2026-05-01",
+        "end_date": "2026-05-02",
         "endyear": "2026",
         "id": "NASA/HLS/HLSS30/v002",
         "provider": "NASA LP DAAC",
@@ -6358,7 +6358,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_LANCE_NOAA20_VIIRS_C2",
-        "end_date": "2026-05-03",
+        "end_date": "2026-05-04",
         "endyear": "2026",
         "id": "NASA/LANCE/NOAA20_VIIRS/C2",
         "provider": "NASA / LANCE / NOAA20_VIIRS",
@@ -6371,7 +6371,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_LANCE_SNPP_VIIRS_C2",
-        "end_date": "2026-05-03",
+        "end_date": "2026-05-04",
         "endyear": "2026",
         "id": "NASA/LANCE/SNPP_VIIRS/C2",
         "provider": "NASA / LANCE / SNPP_VIIRS",
@@ -6449,7 +6449,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_NLDAS_FORA0125_H002",
-        "end_date": "2026-04-29",
+        "end_date": "2026-04-30",
         "endyear": "2026",
         "id": "NASA/NLDAS/FORA0125_H002",
         "provider": "NASA GES DISC at NASA Goddard Space Flight Center",
@@ -6468,7 +6468,7 @@
         "provider": "NASA OB.DAAC at NASA Goddard Space Flight Center",
         "start_date": "2002-07-03",
         "startyear": "2002",
-        "tags": "biology, chlorophyll, modis, nasa, ocean, oceandata, oceans, reflectance, sst, temperature, weather",
+        "tags": "biology, chlorophyll, modis, nasa, oceandata, oceans, reflectance, sst, temperature, weather",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NASA/NASA_OCEANDATA_MODIS-Aqua_L3SMI_sample.png",
         "title": "Ocean Color SMI: Standard Mapped Image MODIS Aqua Data",
         "type": "image_collection"
@@ -6481,7 +6481,7 @@
         "provider": "NASA OB.DAAC at NASA Goddard Space Flight Center",
         "start_date": "2000-02-24",
         "startyear": "2000",
-        "tags": "biology, chlorophyll, modis, nasa, ocean, oceandata, oceans, reflectance, sst, temperature, weather",
+        "tags": "biology, chlorophyll, modis, nasa, oceandata, oceans, reflectance, sst, temperature, weather",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NASA/NASA_OCEANDATA_MODIS-Terra_L3SMI_sample.png",
         "title": "Ocean Color SMI: Standard Mapped Image MODIS Terra Data",
         "type": "image_collection"
@@ -6494,7 +6494,7 @@
         "provider": "NASA OB.DAAC at NASA Goddard Space Flight Center",
         "start_date": "1997-09-04",
         "startyear": "1997",
-        "tags": "biology, chlorophyll, nasa, ocean, oceandata, oceans, reflectance, seawifs, temperature, weather",
+        "tags": "biology, chlorophyll, nasa, oceandata, oceans, reflectance, seawifs, temperature, weather",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NASA/NASA_OCEANDATA_SeaWiFS_L3SMI_sample.png",
         "title": "Ocean Color SMI: Standard Mapped Image SeaWiFS Data",
         "type": "image_collection"
@@ -6553,7 +6553,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_SMAP_SPL3SMP_E_006",
-        "end_date": "2026-04-30",
+        "end_date": "2026-05-01",
         "endyear": "2026",
         "id": "NASA/SMAP/SPL3SMP_E/006",
         "provider": "Google and NSIDC",
@@ -6566,7 +6566,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_SMAP_SPL4SMGP_008",
-        "end_date": "2026-04-30",
+        "end_date": "2026-05-01",
         "endyear": "2026",
         "id": "NASA/SMAP/SPL4SMGP/008",
         "provider": "Google and NSIDC",
@@ -6780,7 +6780,7 @@
         "provider": "NOAA",
         "start_date": "1988-01-01",
         "startyear": "1988",
-        "tags": "air-temperature, atmospheric, cdr, hourly, humidity, noaa, ocean, oceans, osb, wind",
+        "tags": "air-temperature, atmospheric, cdr, hourly, humidity, noaa, oceans, osb, wind",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NOAA/NOAA_CDR_ATMOS_NEAR_SURFACE_V2_sample.png",
         "title": "NOAA CDR: Ocean Near-Surface Atmospheric Properties, Version 2",
         "type": "image_collection"
@@ -6858,20 +6858,20 @@
         "provider": "NOAA",
         "start_date": "1988-01-01",
         "startyear": "1988",
-        "tags": "atmospheric, cdr, flux, heat, hourly, noaa, ocean, oceans, osb",
+        "tags": "atmospheric, cdr, flux, heat, hourly, noaa, oceans, osb",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NOAA/NOAA_CDR_HEAT_FLUXES_V2_sample.png",
         "title": "NOAA CDR: Ocean Heat Fluxes, Version 2",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CDR_OISST_V2_1",
-        "end_date": "2026-04-30",
+        "end_date": "2026-05-01",
         "endyear": "2026",
         "id": "NOAA/CDR/OISST/V2_1",
         "provider": "NOAA",
         "start_date": "1981-09-01",
         "startyear": "1981",
-        "tags": "avhrr, cdr, daily, ice, noaa, ocean, oceans, oisst, real-time, sst, temperature",
+        "tags": "avhrr, cdr, daily, ice, noaa, oceans, oisst, real-time, sst, temperature",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NOAA/NOAA_CDR_OISST_V2_1_sample.png",
         "title": "NOAA CDR OISST v02r01: Optimum Interpolation Sea Surface Temperature",
         "type": "image_collection"
@@ -6910,14 +6910,14 @@
         "provider": "NOAA",
         "start_date": "1988-01-01",
         "startyear": "1988",
-        "tags": "atmospheric, cdr, hourly, noaa, ocean, oceans, oisst, osb, sst, whoi",
+        "tags": "atmospheric, cdr, hourly, noaa, oceans, oisst, osb, sst, whoi",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NOAA/NOAA_CDR_SST_WHOI_V2_sample.png",
         "title": "NOAA CDR WHOI: Sea Surface Temperature, Version 2",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CDR_VIIRS_LAI_FAPAR_V1",
-        "end_date": "2026-04-29",
+        "end_date": "2026-04-30",
         "endyear": "2026",
         "id": "NOAA/CDR/VIIRS/LAI_FAPAR/V1",
         "provider": "NOAA",
@@ -6930,7 +6930,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CDR_VIIRS_NDVI_V1",
-        "end_date": "2026-04-29",
+        "end_date": "2026-04-30",
         "endyear": "2026",
         "id": "NOAA/CDR/VIIRS/NDVI/V1",
         "provider": "NOAA",
@@ -6943,7 +6943,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CFSR",
-        "end_date": "2026-05-02",
+        "end_date": "2026-05-03",
         "endyear": "2026",
         "id": "NOAA/CFSR",
         "provider": "NOAA NWS National Centers for Environmental Prediction (NCEP)",
@@ -6956,7 +6956,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CFSV2_FOR6H_HARMONIZED",
-        "end_date": "2026-05-02",
+        "end_date": "2026-05-03",
         "endyear": "2026",
         "id": "NOAA/CFSV2/FOR6H_HARMONIZED",
         "provider": "NOAA NWS National Centers for Environmental Prediction (NCEP)",
@@ -6969,7 +6969,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CPC_Precipitation",
-        "end_date": "2026-05-01",
+        "end_date": "2026-05-02",
         "endyear": "2026",
         "id": "NOAA/CPC/Precipitation",
         "provider": "NOAA Physical Sciences Laboratory",
@@ -6982,7 +6982,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CPC_Temperature",
-        "end_date": "2026-05-01",
+        "end_date": "2026-05-02",
         "endyear": "2026",
         "id": "NOAA/CPC/Temperature",
         "provider": "NOAA Physical Sciences Laboratory",
@@ -7021,7 +7021,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GFS0P25",
-        "end_date": "2026-05-03",
+        "end_date": "2026-05-04",
         "endyear": "2026",
         "id": "NOAA/GFS0P25",
         "provider": "NOAA/NCEP/EMC",
@@ -7177,7 +7177,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_18_FDCF",
-        "end_date": "2026-05-04",
+        "end_date": "2026-05-05",
         "endyear": "2026",
         "id": "NOAA/GOES/18/FDCF",
         "provider": "NOAA",
@@ -7203,7 +7203,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_18_MCMIPF",
-        "end_date": "2026-05-03",
+        "end_date": "2026-05-04",
         "endyear": "2026",
         "id": "NOAA/GOES/18/MCMIPF",
         "provider": "NOAA",
@@ -7255,7 +7255,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_19_MCMIPC",
-        "end_date": "2026-05-04",
+        "end_date": "2026-05-05",
         "endyear": "2026",
         "id": "NOAA/GOES/19/MCMIPC",
         "provider": "NOAA",
@@ -7281,7 +7281,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_19_MCMIPM",
-        "end_date": "2026-05-04",
+        "end_date": "2026-05-05",
         "endyear": "2026",
         "id": "NOAA/GOES/19/MCMIPM",
         "provider": "NOAA",
@@ -7359,7 +7359,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_NWS_RTMA",
-        "end_date": "2026-05-02",
+        "end_date": "2026-05-03",
         "endyear": "2026",
         "id": "NOAA/NWS/RTMA",
         "provider": "NOAA/NWS",
@@ -7450,8 +7450,8 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_VIIRS_AOD_EDR_V3",
-        "end_date": "2024-12-01",
-        "endyear": "2024",
+        "end_date": "2025-01-30",
+        "endyear": "2025",
         "id": "NOAA/VIIRS/AOD_EDR/V3",
         "provider": "NOAA",
         "start_date": "2022-10-29",
@@ -7541,7 +7541,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/OPERA_DSWX_L3_V1_HLS",
-        "end_date": "2026-05-01",
+        "end_date": "2026-05-02",
         "endyear": "2026",
         "id": "OPERA/DSWX/L3_V1/HLS",
         "provider": "NASA JPL",
@@ -7554,7 +7554,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/OPERA_DSWX_L3_V1_S1",
-        "end_date": "2026-05-03",
+        "end_date": "2026-05-04",
         "endyear": "2026",
         "id": "OPERA/DSWX/L3_V1/S1",
         "provider": "NASA JPL",
@@ -7567,7 +7567,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/OPERA_RTC_L2_V1_S1",
-        "end_date": "2026-05-03",
+        "end_date": "2026-05-04",
         "endyear": "2026",
         "id": "OPERA/RTC/L2_V1/S1",
         "provider": "NASA JPL",
@@ -7593,7 +7593,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/OREGONSTATE_PRISM_ANd",
-        "end_date": "2026-04-29",
+        "end_date": "2026-04-30",
         "endyear": "2026",
         "id": "OREGONSTATE/PRISM/ANd",
         "provider": "PRISM / OREGONSTATE",
@@ -8541,16 +8541,16 @@
         "type": "image_collection"
     },
     {
-        "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/UMD_hansen_global_forest_change_2024_v1_12",
-        "end_date": "2024-12-31",
-        "endyear": "2024",
-        "id": "UMD/hansen/global_forest_change_2024_v1_12",
+        "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/UMD_hansen_global_forest_change_2025_v1_13",
+        "end_date": "2025-12-31",
+        "endyear": "2025",
+        "id": "UMD/hansen/global_forest_change_2025_v1_13",
         "provider": "Hansen/UMD/Google/USGS/NASA",
         "start_date": "2000-01-01",
         "startyear": "2000",
         "tags": "forest, forest-biomass, geophysical, hansen, landsat-derived, umd",
-        "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/UMD/UMD_hansen_global_forest_change_2024_v1_12_sample.png",
-        "title": "Hansen Global Forest Change v1.12 (2000-2024)",
+        "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/UMD/UMD_hansen_global_forest_change_2025_v1_13_sample.png",
+        "title": "Hansen Global Forest Change v1.13 (2000-2025)",
         "type": "image"
     },
     {
@@ -9296,7 +9296,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/UTOKYO_WTLAB_KBDI_v1",
-        "end_date": "2026-04-30",
+        "end_date": "2026-05-01",
         "endyear": "2026",
         "id": "UTOKYO/WTLAB/KBDI/v1",
         "provider": "Institute of Industrial Science, The University of Tokyo, Japan",
@@ -9341,7 +9341,7 @@
         "provider": "UN Environment World Conservation Monitoring Centre (UNEP-WCMC) / Protected Planet",
         "start_date": "2024-05-01",
         "startyear": "2024",
-        "tags": "boundaries, ecosystems, iucn, marine, mpa, protected, table, wcmc, wdpa",
+        "tags": "boundaries, ecosystems, iucn, mpa, oceans, protected, table, wcmc, wdpa",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/WCMC/WCMC_WDOECM_current_points_sample.png",
         "title": "WDOECM: Other Effective Area-based Conservation Measures (points)",
         "type": "table"
@@ -9354,7 +9354,7 @@
         "provider": "UN Environment World Conservation Monitoring Centre (UNEP-WCMC) / Protected Planet",
         "start_date": "2024-05-01",
         "startyear": "2024",
-        "tags": "boundaries, ecosystems, iucn, marine, mpa, protected, table, wcmc, wdpa",
+        "tags": "boundaries, ecosystems, iucn, mpa, oceans, protected, table, wcmc, wdpa",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/WCMC/WCMC_WDOECM_current_polygons_sample.png",
         "title": "WDOECM: Other Effective Area-based Conservation Measures (polygons)",
         "type": "table"
@@ -9367,7 +9367,7 @@
         "provider": "UN Environment World Conservation Monitoring Centre (UNEP-WCMC) / Protected Planet",
         "start_date": "2017-07-01",
         "startyear": "2017",
-        "tags": "boundaries, ecosystems, iucn, marine, mpa, protected, table, wcmc, wdpa",
+        "tags": "boundaries, ecosystems, iucn, mpa, oceans, protected, table, wcmc, wdpa",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/WCMC/WCMC_WDPA_current_points_sample.png",
         "title": "WDPA: World Database on Protected Areas (points)",
         "type": "table"
@@ -9380,7 +9380,7 @@
         "provider": "UN Environment World Conservation Monitoring Centre (UNEP-WCMC) / Protected Planet",
         "start_date": "2017-07-01",
         "startyear": "2017",
-        "tags": "boundaries, ecosystems, iucn, marine, mpa, protected, table, wcmc, wdpa",
+        "tags": "boundaries, ecosystems, iucn, mpa, oceans, protected, table, wcmc, wdpa",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/WCMC/WCMC_WDPA_current_polygons_sample.png",
         "title": "WDPA: World Database on Protected Areas (polygons)",
         "type": "table"
@@ -10290,7 +10290,7 @@
         "provider": "KBA Partnership",
         "start_date": "2016-01-01",
         "startyear": "2016",
-        "tags": "biodiversity, boundaries, ecosystems, global, iucn, management, marine, oceans, table",
+        "tags": "biodiversity, boundaries, ecosystems, global, iucn, management, oceans, table",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/ee-kbas-in-gee/projects_ee-kbas-in-gee_assets_current_sample.png",
         "title": "WDKBA: World Database of Key Biodiversity Areas (KBAs) - March 2026",
         "type": "table"
@@ -10440,7 +10440,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/projects_gcp-public-data-weathernext_assets_59572747_4_0",
-        "end_date": "2026-05-03",
+        "end_date": "2026-05-04",
         "endyear": "2026",
         "id": "projects/gcp-public-data-weathernext/assets/59572747_4_0",
         "provider": "Google",
@@ -10453,7 +10453,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/projects_gcp-public-data-weathernext_assets_126478713_1_0",
-        "end_date": "2026-05-03",
+        "end_date": "2026-05-04",
         "endyear": "2026",
         "id": "projects/gcp-public-data-weathernext/assets/126478713_1_0",
         "provider": "Google",
@@ -10466,7 +10466,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/projects_gcp-public-data-weathernext_assets_weathernext_2_0_0",
-        "end_date": "2026-05-03",
+        "end_date": "2026-05-04",
         "endyear": "2026",
         "id": "projects/gcp-public-data-weathernext/assets/weathernext_2_0_0",
         "provider": "Google",
@@ -10557,7 +10557,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/projects_global-precipitation-nowcast_assets_global_estimation",
-        "end_date": "2026-05-03",
+        "end_date": "2026-05-04",
         "endyear": "2026",
         "id": "projects/global-precipitation-nowcast/assets/global_estimation",
         "provider": "Google",
@@ -11077,7 +11077,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/overture-maps_places_place",
-        "end_date": "2026-05-04",
+        "end_date": "2026-05-05",
         "endyear": "2026",
         "id": "overture-maps/places_place",
         "provider": "Overture Maps Foundation",
